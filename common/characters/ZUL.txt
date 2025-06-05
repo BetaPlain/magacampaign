@@ -1,0 +1,151 @@
+characters = {
+	ZUL_4386 = {
+		name = Sikukuni_kaJama
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Africa_Generic_3
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	ZUL_1704 = {
+		name = Zibhebhu_KaMdlela
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_1704
+			cost = 150
+		}
+	}
+	ZUL_1705 = {
+		name = Mbilini_waMswati
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_1705
+			cost = 150
+		}
+	}
+	ZUL_1706 = {
+		name = Mgojana_Buthelezei
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1706
+			cost = 150
+		}
+	}
+	ZUL_1707 = {
+		name = Mavumengwana_Entabeni
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_1707
+			cost = 150
+		}
+	}
+	ZUL_1708 = {
+		name = Dabulamanzi_kaSenzangakhona
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { editor }
+			slot = political_advisor
+			idea_token = i_1708
+			cost = 150
+		}
+	}
+	ZUL_1709 = {
+		name = Mgojana_kaMahole
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { silent_workhorse }
+			slot = political_advisor
+			idea_token = i_1709
+			cost = 150
+		}
+	}
+	ZUL_1710 = {
+		name = Dabulamanzi_kaSihayo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { propaganda_expert }
+			slot = political_advisor
+			idea_token = i_1710
+			cost = 150
+		}
+	}
+	ZUL_1711 = {
+		name = Sihayo_kaMvundlana
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_1711
+			cost = 150
+		}
+	}
+	ZUL_4254 = {
+		name = Hamu_kaMaphitha
+		portraits = {
+			army = {
+				large = GFX_Portrait_Africa_Generic_land_4
+				small = GFX_Portrait_Africa_Generic_land_4_small
+			}
+		}
+		corps_commander = {
+			traits = { infantry_officer organizer }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+	ZUL_16779127 = {
+		name = Hehlokazulu_kaJama
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

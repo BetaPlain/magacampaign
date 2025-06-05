@@ -1,0 +1,28 @@
+state = {
+	id = 820
+	name = "STATE_820"
+	manpower = 296278
+	resources = {
+		steel = 1
+	}
+
+	state_category = rural
+
+	history = {
+		owner = KKY
+		victory_points = {
+			10962 10
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 5
+		}
+		add_core_of = KKY
+	}
+
+	provinces = {
+		2066 5079 8133 10962 12927 
+	}
+}

@@ -1,0 +1,162 @@
+characters = {
+	GRI_1775 = {
+		name = Amaru_Bomboi_Chuaie
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			traits = {  }
+		}
+	}
+	GRI_24 = {
+		name = Bartolome_Anzoategui
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_24
+			cost = 150
+		}
+	}
+	GRI_25 = {
+		name = Felipe_Mongelos
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_25
+			cost = 150
+		}
+	}
+	GRI_26 = {
+		name = Maximo_Campero
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_26
+			cost = 150
+		}
+	}
+	GRI_27 = {
+		name = JosE__Guerrero
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_27
+			cost = 150
+		}
+	}
+	GRI_28 = {
+		name = JosE__Santa_Cruz
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_28
+			cost = 150
+		}
+	}
+	GRI_29 = {
+		name = Emiliano_Riquelme
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { editor }
+			slot = political_advisor
+			idea_token = i_29
+			cost = 150
+		}
+	}
+	GRI_30 = {
+		name = Luis_Tiaraju
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { fascist_demagogue }
+			slot = political_advisor
+			idea_token = i_30
+			cost = 150
+		}
+	}
+	GRI_31 = {
+		name = Emiliano_Picagua
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	GRI_1776 = {
+		name = Tuvicha_Curupaiti_Yrahi
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_3
+				small = GFX_Portrait_South_America_Generic_land_3_small
+			}
+		}
+		corps_commander = {
+			traits = { organizer trait_cautious }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 4
+		}
+	}
+	GRI_1777 = {
+		name = Jakaira_Tucague_Correa
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_4
+				small = GFX_Portrait_South_America_Generic_land_4_small
+			}
+		}
+		corps_commander = {
+			traits = { organizer }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 3
+		}
+	}
+	GRI_16778695 = {
+		name = Juan_Chuaie
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

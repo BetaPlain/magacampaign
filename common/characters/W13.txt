@@ -1,0 +1,163 @@
+characters = {
+	W13_4377 = {
+		name = au_Petyarre_Giabal
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_3
+				small = GFX_Portrait_Asia_Generic_land_3_small
+			}
+			civilian = {
+				large = GFX_Portrait_Asia_Generic_land_3
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+		field_marshal = {
+			traits = { old_guard trait_reckless }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 2
+			logistics_skill = 1
+		}
+	}
+	W13_1312 = {
+		name = au_Parri_Giabal
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { editor }
+			slot = political_advisor
+			idea_token = i_1312
+			cost = 150
+		}
+	}
+	W13_1313 = {
+		name = au_Gatjil_dyn_au_Jabanungga
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_1313
+			cost = 150
+		}
+	}
+	W13_1314 = {
+		name = au_Nerang_Bigambul
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_1314
+			cost = 150
+		}
+	}
+	W13_1315 = {
+		name = au_Daku_Tepiti
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_1315
+			cost = 150
+		}
+	}
+	W13_1316 = {
+		name = au_Parri_Kooma
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_1316
+			cost = 150
+		}
+	}
+	W13_1317 = {
+		name = au_Mangajay_dyn_au_Mudjidell
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_1317
+			cost = 150
+		}
+	}
+	W13_1318 = {
+		name = au_Djakapura_dyn_au_Galarrwuy
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_1318
+			cost = 150
+		}
+	}
+	W13_1319 = {
+		name = au_Lipwurrunga_dyn_au_Ngale
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_1319
+			cost = 150
+		}
+	}
+	W13_3764 = {
+		name = au_Japaljami_Jarowair
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_4
+				small = GFX_Portrait_Asia_Generic_land_4_small
+			}
+		}
+		corps_commander = {
+			traits = { cavalry_officer ranger }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+	W13_4585 = {
+		name = au_Mudjidell_Giabal
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

@@ -1,0 +1,151 @@
+characters = {
+	V09_4374 = {
+		name = Diniyar_Khan
+		portraits = {
+			civilian = {
+				large = GFX_portrait_asia_generic_4
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	V09_1280 = {
+		name = Donduk_Khan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_1280
+			cost = 150
+		}
+	}
+	V09_1281 = {
+		name = Viktor_Khan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_1281
+			cost = 150
+		}
+	}
+	V09_1282 = {
+		name = Sihabetdin_Khovalyg
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_1282
+			cost = 150
+		}
+	}
+	V09_1283 = {
+		name = Aleksandr_Khan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_1283
+			cost = 150
+		}
+	}
+	V09_1284 = {
+		name = Grigory_Khan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_1284
+			cost = 150
+		}
+	}
+	V09_1285 = {
+		name = Alitet_Nemtushkin
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { ideological_crusader }
+			slot = political_advisor
+			idea_token = i_1285
+			cost = 150
+		}
+	}
+	V09_1286 = {
+		name = Donduk_Chaoke
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1286
+			cost = 150
+		}
+	}
+	V09_1287 = {
+		name = Grigory_Shashkov
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_1287
+			cost = 150
+		}
+	}
+	V09_3724 = {
+		name = Donduk_Yadrintsev
+		portraits = {
+			army = {
+				large = GFX_Portrait_asia_generic_land_5
+				small = GFX_Portrait_asia_generic_land_5_small
+			}
+		}
+		corps_commander = {
+			traits = { organizer ranger }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 3
+			planning_skill = 4
+			logistics_skill = 1
+		}
+	}
+	V09_16780224 = {
+		name = Afanasiy_Khan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

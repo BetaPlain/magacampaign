@@ -1,0 +1,30 @@
+state = {
+	id = 155
+	name = "STATE_155"
+	manpower = 2958064
+	resources = {
+		chromium = 6
+		steel = 6
+		tungsten = 19
+	}
+
+	state_category = rural
+
+	history = {
+		owner = VIN
+		victory_points = {
+			4075 20
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 6
+		}
+		add_core_of = VIN
+	}
+
+	provinces = {
+		1073 1157 1185 4075 4119 7015 7093 7518 9948 10075 10103 10129 12008 12048 12065 12075 
+	}
+}

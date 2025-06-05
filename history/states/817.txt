@@ -1,0 +1,28 @@
+state = {
+	id = 817
+	name = "STATE_817"
+	manpower = 82907
+	resources = {
+		aluminium = 0
+		steel = 1
+	}
+
+	state_category = rural
+
+	history = {
+		owner = ETH
+		victory_points = {
+			12771 1
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = ETH
+	}
+
+	provinces = {
+		1206 10097 10844 12771 
+	}
+}

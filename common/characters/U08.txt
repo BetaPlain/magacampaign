@@ -1,0 +1,146 @@
+characters = {
+	U08_4371 = {
+		name = Esteban_Panapi
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_3
+				small = GFX_Portrait_South_America_Generic_land_3_small
+			}
+			civilian = {
+				large = GFX_Portrait_South_America_Generic_land_3
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+		field_marshal = {
+			traits = { old_guard ranger trait_reckless }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 3
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+	U08_1256 = {
+		name = Jaime_Chatoyer
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { grand_fleet_proponent }
+			slot = political_advisor
+			idea_token = i_1256
+			cost = 150
+		}
+	}
+	U08_1257 = {
+		name = Domingo_Rivero
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_1257
+			cost = 150
+		}
+	}
+	U08_1258 = {
+		name = Domingo_Chatoyer
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_1258
+			cost = 150
+		}
+	}
+	U08_1259 = {
+		name = Brigido_Kalina
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1259
+			cost = 150
+		}
+	}
+	U08_1260 = {
+		name = Ramon_Kalina
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_1260
+			cost = 150
+		}
+	}
+	U08_1261 = {
+		name = Segundo_Martinez
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_1261
+			cost = 150
+		}
+	}
+	U08_1262 = {
+		name = Teodoro_Martinez
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_1262
+			cost = 150
+		}
+	}
+	U08_1263 = {
+		name = Eloy_Panapi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_1263
+			cost = 150
+		}
+	}
+	U08_4618 = {
+		name = Marco_Panapi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

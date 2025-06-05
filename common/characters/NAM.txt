@@ -1,0 +1,145 @@
+characters = {
+	NAM_4342 = {
+		name = Gorakhab_Garoeb
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_South_Africa_Political_Leader_Generic_2
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	NAM_1008 = {
+		name = Naresib_Goeseb
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_1008
+			cost = 150
+		}
+	}
+	NAM_1009 = {
+		name = Autshumato_Guxanus
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_1009
+			cost = 150
+		}
+	}
+	NAM_1010 = {
+		name = Na-khom_Guxanus
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_1010
+			cost = 150
+		}
+	}
+	NAM_1011 = {
+		name = Hab_Garoeb
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1011
+			cost = 150
+		}
+	}
+	NAM_1012 = {
+		name = Oasib_Guxanus
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_1012
+			cost = 150
+		}
+	}
+	NAM_1013 = {
+		name = Khaub_Hamab
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_1013
+			cost = 150
+		}
+	}
+	NAM_1014 = {
+		name = Aruseb_Khaumab
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	NAM_1015 = {
+		name = Oasib_Khaumab
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { fascist_demagogue }
+			slot = political_advisor
+			idea_token = i_1015
+			cost = 150
+		}
+	}
+	NAM_3383 = {
+		name = Khaub_Guxanus
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_Africa_Army_Generic_2
+				small = GFX_Portrait_South_Africa_Army_Generic_2_small
+			}
+		}
+		corps_commander = {
+			traits = { armor_officer organizer }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 3
+		}
+	}
+	NAM_4605 = {
+		name = Tsawub_Garoeb
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

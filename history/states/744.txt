@@ -1,0 +1,27 @@
+state = {
+	id = 744
+	name = "STATE_744"
+	manpower = 352659
+	resources = {
+		chromium = 119
+	}
+
+	state_category = rural
+
+	history = {
+		owner = LAN
+		victory_points = {
+			10160 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = LAN
+	}
+
+	provinces = {
+		1263 4231 4268 7264 10160 12132 
+	}
+}

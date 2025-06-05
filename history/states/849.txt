@@ -1,0 +1,32 @@
+state = {
+	id = 849
+	name = "STATE_849"
+	manpower = 111465
+	resources = {
+		aluminium = 1
+		rubber = 0
+		steel = 0
+	}
+
+	state_category = rural
+
+	history = {
+		owner = SIE
+		victory_points = {
+			10803 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			10803 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = SIE
+	}
+
+	provinces = {
+		10803 
+	}
+}

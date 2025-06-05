@@ -1,0 +1,30 @@
+state = {
+	id = 508
+	name = "STATE_508"
+	manpower = 268352
+	resources = {
+		aluminium = 1
+		rubber = 0
+		steel = 0
+	}
+
+	state_category = rural
+
+	history = {
+		owner = X48
+		victory_points = {
+			10919 15
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 5
+		}
+		add_core_of = X48
+	}
+
+	provinces = {
+		10919 
+	}
+}

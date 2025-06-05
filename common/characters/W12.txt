@@ -1,0 +1,145 @@
+characters = {
+	W12_4376 = {
+		name = au_Lowan_Bigambul
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Asia_Generic_3
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	W12_1304 = {
+		name = au_Araluen_dyn_au_Barambah
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { editor }
+			slot = political_advisor
+			idea_token = i_1304
+			cost = 150
+		}
+	}
+	W12_1305 = {
+		name = au_Callagun_dyn_au_Koorang
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { communist_revolutionary }
+			slot = political_advisor
+			idea_token = i_1305
+			cost = 150
+		}
+	}
+	W12_1306 = {
+		name = au_Marron_Agwamin
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_1306
+			cost = 150
+		}
+	}
+	W12_1307 = {
+		name = au_Mungulu_Badjiri
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_1307
+			cost = 150
+		}
+	}
+	W12_1308 = {
+		name = au_Coen_Badjiri
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_1308
+			cost = 150
+		}
+	}
+	W12_1309 = {
+		name = au_Yuka_dyn_au_Yagmoor
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	W12_1310 = {
+		name = au_Burraga_dyn_au_Ofanengaue
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_1310
+			cost = 150
+		}
+	}
+	W12_1311 = {
+		name = au_Balun_dyn_au_Wunungmurra
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_1311
+			cost = 150
+		}
+	}
+	W12_3750 = {
+		name = au_Mpetyane_Ayabakan
+		portraits = {
+			army = {
+				large = GFX_Portrait_asia_generic_land_5
+				small = GFX_Portrait_asia_generic_land_5_small
+			}
+		}
+		corps_commander = {
+			traits = { armor_officer organizer }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 3
+		}
+	}
+	W12_4596 = {
+		name = au_Mangajay_Bigambul
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

@@ -1,0 +1,22 @@
+state = {
+	id = 802
+	name = "STATE_802"
+	manpower = 363426
+
+	state_category = rural
+
+	history = {
+		owner = ZND
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 5
+		}
+		add_core_of = ZND
+	}
+
+	provinces = {
+		2034 2073 11934 
+	}
+}

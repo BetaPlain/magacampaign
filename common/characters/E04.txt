@@ -1,0 +1,145 @@
+characters = {
+	E04_4291 = {
+		name = Aleksandr_Khan
+		portraits = {
+			civilian = {
+				large = GFX_portrait_asia_generic_4
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	E04_552 = {
+		name = Grigory_Chaoke
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_552
+			cost = 150
+		}
+	}
+	E04_553 = {
+		name = Viktor_Yadrintsev
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { grand_fleet_proponent }
+			slot = political_advisor
+			idea_token = i_553
+			cost = 150
+		}
+	}
+	E04_554 = {
+		name = Viktor_Khan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_554
+			cost = 150
+		}
+	}
+	E04_555 = {
+		name = Gabdull_Nemtushkin
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_555
+			cost = 150
+		}
+	}
+	E04_556 = {
+		name = Alitet_Khan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_556
+			cost = 150
+		}
+	}
+	E04_557 = {
+		name = Donduk_Shchapov
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	E04_558 = {
+		name = Viktor_Krakovetsky
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_558
+			cost = 150
+		}
+	}
+	E04_559 = {
+		name = Alitet_Shaimiev
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_559
+			cost = 150
+		}
+	}
+	E04_2813 = {
+		name = Sihabetdin_Khan
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_3
+				small = GFX_Portrait_Asia_Generic_land_3_small
+			}
+		}
+		corps_commander = {
+			traits = { commando }
+			skill = 1
+			attack_skill = 2
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 2
+		}
+	}
+	E04_16779714 = {
+		name = Grigory_Khan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

@@ -1,0 +1,146 @@
+characters = {
+	SM1_4359 = {
+		name = Gabriel_Jaguaranha
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_4
+				small = GFX_Portrait_South_America_Generic_land_4_small
+			}
+			civilian = {
+				large = GFX_Portrait_South_America_Generic_land_4
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+		field_marshal = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	SM1_1160 = {
+		name = Lucio_Potiguara
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_1160
+			cost = 150
+		}
+	}
+	SM1_1161 = {
+		name = JoA_o_Tibirica
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_1161
+			cost = 150
+		}
+	}
+	SM1_1162 = {
+		name = Eusebio_Caetes
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_1162
+			cost = 150
+		}
+	}
+	SM1_1163 = {
+		name = Inacio_Potiguara
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_1163
+			cost = 150
+		}
+	}
+	SM1_1164 = {
+		name = Henrique_Caiubi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_1164
+			cost = 150
+		}
+	}
+	SM1_1165 = {
+		name = Gabriel_Tupinamba
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_1165
+			cost = 150
+		}
+	}
+	SM1_1166 = {
+		name = Gaspar_Tupinamba
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_1166
+			cost = 150
+		}
+	}
+	SM1_1167 = {
+		name = Eusebio_Tupiniquim
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { ideological_crusader }
+			slot = political_advisor
+			idea_token = i_1167
+			cost = 150
+		}
+	}
+	SM1_16777518 = {
+		name = Inacio_Jaguaranha
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

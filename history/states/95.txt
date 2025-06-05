@@ -1,0 +1,28 @@
+state = {
+	id = 95
+	name = "STATE_95"
+	manpower = 2656195
+	resources = {
+		rubber = 6
+	}
+
+	state_category = rural
+
+	history = {
+		owner = X61
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+			7336 = {
+				naval_base = 1
+			}
+			air_base = 6
+		}
+		add_core_of = X61
+	}
+
+	provinces = {
+		7336 10450 12330 
+	}
+}

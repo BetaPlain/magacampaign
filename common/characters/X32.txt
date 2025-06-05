@@ -1,0 +1,230 @@
+characters = {
+	X32_0 = {
+		name = en_Dermott_dyn_en_Fowler
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_0
+			cost = 150
+		}
+	}
+	X32_1448 = {
+		name = tt_Anvar_Mamleeva
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_1448
+			cost = 150
+		}
+	}
+	X32_1449 = {
+		name = tt_Ayrat_dyn_tt_Shabayev
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_1449
+			cost = 150
+		}
+	}
+	X32_1450 = {
+		name = tt_Yuldash_dyn_tt_Nizamutdinov
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_1450
+			cost = 150
+		}
+	}
+	X32_1451 = {
+		name = tt_Rail_Mamleeva
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { ideological_crusader }
+			slot = political_advisor
+			idea_token = i_1451
+			cost = 150
+		}
+	}
+	X32_1452 = {
+		name = tt_Gadel_Mamleeva
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { grand_fleet_proponent }
+			slot = political_advisor
+			idea_token = i_1452
+			cost = 150
+		}
+	}
+	X32_1453 = {
+		name = tt_Denis_dyn_tt_Karimova
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_1453
+			cost = 150
+		}
+	}
+	X32_1454 = {
+		name = tt_Ilsur_dyn_tt_Gizzatullin
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_1454
+			cost = 150
+		}
+	}
+	X32_1455 = {
+		name = tt_Ilnaz_dyn_tt_Mustafin
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_1455
+			cost = 150
+		}
+	}
+	X32_2026 = {
+		name = Ak_Kobek_Bora_Chinua_dyn_tt_Garayev
+		portraits = {
+			army = {
+				large = GFX_Portrait_Arabia_Generic_land_1
+				small = GFX_Portrait_Arabia_Generic_land_1_small
+			}
+		}
+		field_marshal = {
+			traits = { harsh_leader infantry_officer }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 2
+			logistics_skill = 2
+		}
+	}
+	X32_2027 = {
+		name = Devlet_Berdi_Surenchar_dyn_tt_Fattakhov
+		portraits = {
+			army = {
+				large = GFX_Portrait_Arabia_Generic_land_3
+				small = GFX_Portrait_Arabia_Generic_land_3_small
+			}
+		}
+		corps_commander = {
+			traits = { armor_officer }
+			skill = 1
+			attack_skill = 2
+			defense_skill = 1
+			planning_skill = 2
+			logistics_skill = 1
+		}
+	}
+	X32_3930 = {
+		name = tt_Arislan_Mamleeva
+		portraits = {
+			army = {
+				large = GFX_Portrait_Arabia_Generic_land_2
+				small = GFX_Portrait_Arabia_Generic_land_2_small
+			}
+		}
+		corps_commander = {
+			traits = { organizer }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 2
+			logistics_skill = 1
+		}
+	}
+	X32_3934 = {
+		name = tt_Ilyas_Mamleeva
+		portraits = {
+			army = {
+				large = GFX_Portrait_asia_generic_land_5
+				small = GFX_Portrait_asia_generic_land_5_small
+			}
+		}
+		corps_commander = {
+			traits = { infantry_officer }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 3
+		}
+	}
+	X32_4485 = {
+		name = tt_Taymas_Mamleeva
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_3
+				small = GFX_Portrait_Asia_Generic_land_3_small
+			}
+		}
+		corps_commander = {
+			traits = { cavalry_officer organizer }
+			skill = 1
+			attack_skill = 2
+			defense_skill = 1
+			planning_skill = 2
+			logistics_skill = 1
+		}
+	}
+	X32_4543 = {
+		name = tt_Zofar_Mamleeva
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_1
+				small = GFX_Portrait_Asia_Generic_land_1_small
+			}
+		}
+		corps_commander = {
+			traits = { ranger trait_reckless }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+}

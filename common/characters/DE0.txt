@@ -1,0 +1,151 @@
+characters = {
+	DE0_4284 = {
+		name = Ernie_Atagotaaluk
+		portraits = {
+			civilian = {
+				large = GFX_portrait_south_america_generic_8
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	DE0_496 = {
+		name = Germaine_Atagotaaluk
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { editor }
+			slot = political_advisor
+			idea_token = i_496
+			cost = 150
+		}
+	}
+	DE0_497 = {
+		name = Naalak_Nutarak
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_497
+			cost = 150
+		}
+	}
+	DE0_498 = {
+		name = Markoosie_Nappaaluk
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_498
+			cost = 150
+		}
+	}
+	DE0_499 = {
+		name = Caubvick_Evaloarjuk
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_499
+			cost = 150
+		}
+	}
+	DE0_500 = {
+		name = Kenojuak_Atagotaaluk
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_500
+			cost = 150
+		}
+	}
+	DE0_501 = {
+		name = Markoosie_Evaloarjuk
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_501
+			cost = 150
+		}
+	}
+	DE0_502 = {
+		name = Ernie_Tiktaalaaq
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { communist_revolutionary }
+			slot = political_advisor
+			idea_token = i_502
+			cost = 150
+		}
+	}
+	DE0_503 = {
+		name = Naalak_Pudluk
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_503
+			cost = 150
+		}
+	}
+	DE0_2740 = {
+		name = James_Atagotaaluk
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_5
+				small = GFX_Portrait_South_America_Generic_land_5_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	DE0_4433 = {
+		name = Ipeelee_Atagotaaluk
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

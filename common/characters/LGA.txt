@@ -1,0 +1,151 @@
+characters = {
+	LGA_4318 = {
+		name = Banyingela_Bukuru
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_South_Africa_Political_Leader_Generic_2
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	LGA_808 = {
+		name = Mabi_Pongo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_808
+			cost = 150
+		}
+	}
+	LGA_809 = {
+		name = Mosambaye_Nyirambarato
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_809
+			cost = 150
+		}
+	}
+	LGA_810 = {
+		name = Banyingela_Munsensa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_810
+			cost = 150
+		}
+	}
+	LGA_811 = {
+		name = Koloso_Alenga
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_811
+			cost = 150
+		}
+	}
+	LGA_812 = {
+		name = Mosambaye_Bukuru
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_812
+			cost = 150
+		}
+	}
+	LGA_813 = {
+		name = Kisula_Nyirambarato
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_813
+			cost = 150
+		}
+	}
+	LGA_814 = {
+		name = Mosambaye_Kazadi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_814
+			cost = 150
+		}
+	}
+	LGA_815 = {
+		name = Kalenga_Muwayi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_815
+			cost = 150
+		}
+	}
+	LGA_3132 = {
+		name = Kisula_Alenga
+		portraits = {
+			army = {
+				large = GFX_Portrait_Africa_Generic_land_3
+				small = GFX_Portrait_Africa_Generic_land_3_small
+			}
+		}
+		corps_commander = {
+			traits = { cavalry_officer commando }
+			skill = 2
+			attack_skill = 3
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 2
+		}
+	}
+	LGA_16779252 = {
+		name = Banza_Bukuru
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

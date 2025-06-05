@@ -1,0 +1,143 @@
+characters = {
+	K14_4304 = {
+		name = au_Maka_Gulngay
+		portraits = {
+			civilian = {
+				large = GFX_portrait_asia_generic_4
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	K14_680 = {
+		name = au_Apari_dyn_au_Bropho
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_680
+			cost = 150
+		}
+	}
+	K14_681 = {
+		name = au_Berringar_Quandamooka
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { propaganda_expert }
+			slot = political_advisor
+			idea_token = i_681
+			cost = 150
+		}
+	}
+	K14_682 = {
+		name = au_Barega_dyn_au_Cockatoo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_682
+			cost = 150
+		}
+	}
+	K14_683 = {
+		name = au_Barega_Jarowair
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_683
+			cost = 150
+		}
+	}
+	K14_684 = {
+		name = au_Leewan_Rakaya
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_684
+			cost = 150
+		}
+	}
+	K14_685 = {
+		name = au_Araluen_dyn_au_Kurrupuwu
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_685
+			cost = 150
+		}
+	}
+	K14_686 = {
+		name = au_Wululu_Gulngay
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_686
+			cost = 150
+		}
+	}
+	K14_687 = {
+		name = au_Dorak_dyn_au_Corowa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_687
+			cost = 150
+		}
+	}
+	K14_2970 = {
+		name = au_Araluen_dyn_au_Dingo
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_2
+				small = GFX_Portrait_Asia_Generic_land_2_small
+			}
+		}
+		corps_commander = {
+			traits = { old_guard }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+}

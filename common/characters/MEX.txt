@@ -1,0 +1,296 @@
+characters = {
+	MEX_1869 = {
+		name = Domingo_Alvarez_de_Toledo_dyn_es_Zavala
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_South_America_Generic_3
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			traits = {  }
+		}
+	}
+	MEX_137 = {
+		name = es_Tadeo_dyn_es_Velasquez
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_137
+			cost = 150
+		}
+	}
+	MEX_138 = {
+		name = es_Albino_Menendez
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_138
+			cost = 150
+		}
+	}
+	MEX_139 = {
+		name = es_Juvenal_Morazan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_139
+			cost = 150
+		}
+	}
+	MEX_140 = {
+		name = es_Domingo_Menendez
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_140
+			cost = 150
+		}
+	}
+	MEX_141 = {
+		name = es_Solano_dyn_es_Valenzuela
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_141
+			cost = 150
+		}
+	}
+	MEX_142 = {
+		name = es_Solano_dyn_es_Arias
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_142
+			cost = 150
+		}
+	}
+	MEX_143 = {
+		name = es_Juan_Diego_dyn_es_Dominguez
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_143
+			cost = 150
+		}
+	}
+	MEX_1867 = {
+		name = Ramiro_de_Montcada_dyn_es_Santiago
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_1
+				small = GFX_Portrait_South_America_Generic_land_1_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	MEX_1868 = {
+		name = Guillermo_Cagigal_de_la_Vega_dyn_es_Cortes
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_5
+				small = GFX_Portrait_South_America_Generic_land_5_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	MEX_1870 = {
+		name = Francisco_de_Paula_Fernandez_de_Cordoba_dyn_es_Avila
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_3
+				small = GFX_Portrait_South_America_Generic_land_3_small
+			}
+		}
+		field_marshal = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	MEX_1871 = {
+		name = Ramon_de_Aragon_dyn_es_Villanueva
+		portraits = {
+			navy = {
+				large = GFX_Portrait_South_America_Generic_navy_1
+				small = GFX_Portrait_South_America_Generic_navy_1_small
+			}
+		}
+		navy_leader = {
+			traits = { media_personality }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			maneuvering_skill = 1
+			coordination_skill = 2
+		}
+	}
+	MEX_1872 = {
+		name = Juan_Bautista_Colon_dyn_es_Villegas
+		portraits = {
+			navy = {
+				large = GFX_Portrait_South_America_Generic_navy_3
+				small = GFX_Portrait_South_America_Generic_navy_3_small
+			}
+		}
+		navy_leader = {
+			traits = { caustic_personality }
+			skill = 1
+			attack_skill = 2
+			defense_skill = 1
+			maneuvering_skill = 1
+			coordination_skill = 1
+		}
+	}
+	MEX_1873 = {
+		name = Vicente_Tellez-Giron_dyn_es_Moreno
+		portraits = {
+			navy = {
+				large = GFX_Portrait_South_America_Generic_navy_2
+				small = GFX_Portrait_South_America_Generic_navy_2_small
+			}
+		}
+		navy_leader = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			maneuvering_skill = 1
+			coordination_skill = 1
+		}
+	}
+	MEX_1874 = {
+		name = Carlos_Fitz-James_dyn_es_Villanueva
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_2
+				small = GFX_Portrait_South_America_Generic_land_2_small
+			}
+		}
+		corps_commander = {
+			traits = { harsh_leader }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 2
+			logistics_skill = 1
+		}
+	}
+	MEX_1875 = {
+		name = Sancho_Campomanes_dyn_es_Ramirez
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_4
+				small = GFX_Portrait_South_America_Generic_land_4_small
+			}
+		}
+		corps_commander = {
+			traits = { harsh_leader }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 2
+			logistics_skill = 1
+		}
+	}
+	MEX_1876 = {
+		name = Felipe_Galvez_dyn_es_Hernandez
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_2
+				small = GFX_Portrait_South_America_Generic_land_2_small
+			}
+		}
+		corps_commander = {
+			traits = { infantry_officer }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 2
+			logistics_skill = 2
+		}
+	}
+	MEX_2292 = {
+		name = es_Raul_dyn_es_Villa
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_1
+				small = GFX_Portrait_South_America_Generic_land_1_small
+			}
+		}
+		corps_commander = {
+			traits = { inflexible_strategist organizer }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 3
+		}
+	}
+	MEX_16777485 = {
+		name = es_Aldair_dyn_es_Ayala
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_16777485
+			cost = 150
+		}
+	}
+}

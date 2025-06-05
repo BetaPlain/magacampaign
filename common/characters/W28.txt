@@ -1,0 +1,185 @@
+characters = {
+	W28_1975 = {
+		name = Adi_IV_Tena
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	W28_1336 = {
+		name = fj_Voreqe_dyn_fj_Rokovunisei
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_1336
+			cost = 150
+		}
+	}
+	W28_1338 = {
+		name = fj_Jone_dyn_fj_Serevi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	W28_1339 = {
+		name = fj_Lasarusa_Uluviti
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_1339
+			cost = 150
+		}
+	}
+	W28_1340 = {
+		name = fj_Jope_Uluviti
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { grand_fleet_proponent }
+			slot = political_advisor
+			idea_token = i_1340
+			cost = 150
+		}
+	}
+	W28_1341 = {
+		name = fj_Savenaca_Uluviti
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_1341
+			cost = 150
+		}
+	}
+	W28_1342 = {
+		name = fj_Levani_dyn_fj_Raka
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1342
+			cost = 150
+		}
+	}
+	W28_1343 = {
+		name = fj_Lala_dyn_fj_Bainivalu
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_1343
+			cost = 150
+		}
+	}
+	W28_1972 = {
+		name = Timoci_Kelemedi_dyn_fj_Racule
+		portraits = {
+			navy = {
+				large = GFX_Portrait_Asia_Generic_navy_2
+				small = GFX_Portrait_Asia_Generic_navy_2_small
+			}
+		}
+		navy_leader = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			maneuvering_skill = 1
+			coordination_skill = 1
+		}
+	}
+	W28_1973 = {
+		name = Seru_Lala_dyn_fj_Erenavula
+		portraits = {
+			army = {
+				large = GFX_Portrait_asia_generic_land_5
+				small = GFX_Portrait_asia_generic_land_5_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	W28_1974 = {
+		name = Josevata_Tena
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_1974
+			cost = 150
+		}
+	}
+	W28_3791 = {
+		name = fj_Waisale_Dovi
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_3
+				small = GFX_Portrait_Asia_Generic_land_3_small
+			}
+		}
+		corps_commander = {
+			traits = { brilliant_strategist infantry_officer }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 2
+		}
+	}
+	W28_16780114 = {
+		name = fj_Isimeli_dyn_fj_Waqabaca
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_16780114
+			cost = 150
+		}
+	}
+}

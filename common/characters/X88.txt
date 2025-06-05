@@ -1,0 +1,186 @@
+characters = {
+	X88_2108 = {
+		name = Kealii_I_Anakalia
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	X88_1632 = {
+		name = haw_Mohameka_dyn_haw_Kaawaloa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_1632
+			cost = 150
+		}
+	}
+	X88_1633 = {
+		name = haw_Keoni_dyn_haw_Namahoe
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1633
+			cost = 150
+		}
+	}
+	X88_1634 = {
+		name = haw_Keohi_Pomare
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_1634
+			cost = 150
+		}
+	}
+	X88_1635 = {
+		name = haw_Lui_Keoua
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_1635
+			cost = 150
+		}
+	}
+	X88_1636 = {
+		name = haw_Kominiko_Pomare
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_1636
+			cost = 150
+		}
+	}
+	X88_1637 = {
+		name = haw_Kealohalani_dyn_haw_Kalawa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_1637
+			cost = 150
+		}
+	}
+	X88_1638 = {
+		name = haw_Kenika_dyn_haw_Kaluna
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_1638
+			cost = 150
+		}
+	}
+	X88_1639 = {
+		name = haw_Keanu_dyn_haw_Kaleialii
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_1639
+			cost = 150
+		}
+	}
+	X88_2106 = {
+		name = Keani_Anakalia
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	X88_2107 = {
+		name = Kalea_Loe_dyn_haw_Kahalehoe
+		gender = female
+		portraits = {
+			navy = {
+				large = GFX_portrait_unknown
+				small = GFX_portrait_unknown_small
+			}
+		}
+		navy_leader = {
+			traits = { arctic_water_expert }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			maneuvering_skill = 1
+			coordination_skill = 1
+		}
+	}
+	X88_4162 = {
+		name = haw_Kalei_dyn_haw_Kekoa
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_3
+				small = GFX_Portrait_Asia_Generic_land_3_small
+			}
+		}
+		corps_commander = {
+			traits = { naval_invader }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 2
+			logistics_skill = 2
+		}
+	}
+	X88_4164 = {
+		name = haw_Lui_dyn_haw_Kaanapu
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_4
+				small = GFX_Portrait_Asia_Generic_land_4_small
+			}
+		}
+		corps_commander = {
+			traits = { commando trait_reckless }
+			skill = 2
+			attack_skill = 3
+			defense_skill = 1
+			planning_skill = 2
+			logistics_skill = 2
+		}
+	}
+}

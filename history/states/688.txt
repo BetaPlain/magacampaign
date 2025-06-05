@@ -1,0 +1,24 @@
+state = {
+	id = 688
+	name = "STATE_688"
+	manpower = 273323
+
+	state_category = rural
+
+	history = {
+		owner = MLI
+		victory_points = {
+			4897 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = MLI
+	}
+
+	provinces = {
+		1473 3123 4897 4978 
+	}
+}

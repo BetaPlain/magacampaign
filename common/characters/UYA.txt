@@ -1,0 +1,151 @@
+characters = {
+	UYA_4373 = {
+		name = Masibuwa_Banda
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_South_Africa_Political_Leader_Generic
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	UYA_1272 = {
+		name = Mbiya_Banda
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1272
+			cost = 150
+		}
+	}
+	UYA_1273 = {
+		name = Ngolinga_Mmbelwa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_1273
+			cost = 150
+		}
+	}
+	UYA_1274 = {
+		name = Lukongolo_Cimtunga
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_1274
+			cost = 150
+		}
+	}
+	UYA_1275 = {
+		name = Mbiya_Muluzi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { editor }
+			slot = political_advisor
+			idea_token = i_1275
+			cost = 150
+		}
+	}
+	UYA_1276 = {
+		name = Kapendi_Muluzi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_1276
+			cost = 150
+		}
+	}
+	UYA_1277 = {
+		name = Ndembo_Mwamba
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1277
+			cost = 150
+		}
+	}
+	UYA_1278 = {
+		name = Chekandino_Hlatshwayo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_1278
+			cost = 150
+		}
+	}
+	UYA_1279 = {
+		name = Kapendi_Mgayi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1279
+			cost = 150
+		}
+	}
+	UYA_3710 = {
+		name = Citiwala_Banda
+		portraits = {
+			army = {
+				large = GFX_Portrait_Africa_Generic_land_3
+				small = GFX_Portrait_Africa_Generic_land_3_small
+			}
+		}
+		corps_commander = {
+			traits = { career_officer organizer }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+	UYA_16779172 = {
+		name = Ndembo_Banda
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

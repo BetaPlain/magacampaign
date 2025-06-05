@@ -1,0 +1,31 @@
+state = {
+	id = 181
+	name = "STATE_181"
+	manpower = 1552507
+	resources = {
+		aluminium = 8
+	}
+
+	state_category = rural
+
+	history = {
+		owner = WAS
+		victory_points = {
+			2189 1
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			5181 = {
+				naval_base = 1
+			}
+			air_base = 1
+		}
+		add_core_of = WAS
+	}
+
+	provinces = {
+		2183 2189 5181 5187 10665 12645 
+	}
+}

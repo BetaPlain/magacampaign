@@ -1,0 +1,151 @@
+characters = {
+	FNG_4293 = {
+		name = Issay_Bongo
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Africa_Generic_3
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	FNG_584 = {
+		name = Musawenkosi_Bongo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_584
+			cost = 150
+		}
+	}
+	FNG_585 = {
+		name = Jaguan_Moukala
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_585
+			cost = 150
+		}
+	}
+	FNG_586 = {
+		name = Mansa_Badjogo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_586
+			cost = 150
+		}
+	}
+	FNG_587 = {
+		name = Musawenkosi_Moukala
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_587
+			cost = 150
+		}
+	}
+	FNG_588 = {
+		name = Dakarai_Badjogo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_588
+			cost = 150
+		}
+	}
+	FNG_589 = {
+		name = Kamwimbile_Tufoyn
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_589
+			cost = 150
+		}
+	}
+	FNG_590 = {
+		name = Kamwimbile_Samba
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_590
+			cost = 150
+		}
+	}
+	FNG_591 = {
+		name = Chata_Samba
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_591
+			cost = 150
+		}
+	}
+	FNG_2853 = {
+		name = Kabili_Kumong
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_Africa_Army_Generic
+				small = GFX_Portrait_South_Africa_Army_Generic_small
+			}
+		}
+		corps_commander = {
+			traits = { trait_mountaineer }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 2
+		}
+	}
+	FNG_4598 = {
+		name = Andikan_Bongo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

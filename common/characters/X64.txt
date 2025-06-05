@@ -1,0 +1,192 @@
+characters = {
+	X64_2081 = {
+		name = Akamu_V_Kaheleha
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	X64_1576 = {
+		name = haw_Kaheka_dyn_haw_Palakiko
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_1576
+			cost = 150
+		}
+	}
+	X64_1577 = {
+		name = Kiwala_o_Mahoe
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1577
+			cost = 150
+		}
+	}
+	X64_1578 = {
+		name = haw_Kiawe_dyn_haw_Kauhane
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_1578
+			cost = 150
+		}
+	}
+	X64_1579 = {
+		name = haw_Kawaloa_dyn_haw_Kahakalau
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_1579
+			cost = 150
+		}
+	}
+	X64_1580 = {
+		name = Namaile_Naea
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1580
+			cost = 150
+		}
+	}
+	X64_1581 = {
+		name = haw_Kanamu_dyn_haw_Kahalehoe
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_1581
+			cost = 150
+		}
+	}
+	X64_1582 = {
+		name = Kekaulike_Keoua
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_1582
+			cost = 150
+		}
+	}
+	X64_1583 = {
+		name = haw_Like_dyn_haw_Maunukea
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_1583
+			cost = 150
+		}
+	}
+	X64_2078 = {
+		name = Keani_Makani_dyn_haw_Manalo
+		portraits = {
+			navy = {
+				large = GFX_Portrait_Asia_Generic_navy_1
+				small = GFX_Portrait_Asia_Generic_navy_1_small
+			}
+		}
+		navy_leader = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			maneuvering_skill = 1
+			coordination_skill = 1
+		}
+	}
+	X64_2079 = {
+		name = Kapono_Keon_dyn_haw_Apana
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_1
+				small = GFX_Portrait_Asia_Generic_land_1_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	X64_2080 = {
+		name = Konane_Kaheleha
+		gender = female
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_2080
+			cost = 150
+		}
+	}
+	X64_4094 = {
+		name = haw_Laakea_dyn_haw_Nainoa
+		portraits = {
+			army = {
+				large = GFX_Portrait_asia_generic_land_5
+				small = GFX_Portrait_asia_generic_land_5_small
+			}
+		}
+		corps_commander = {
+			traits = { commando }
+			skill = 1
+			attack_skill = 2
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 2
+		}
+	}
+}

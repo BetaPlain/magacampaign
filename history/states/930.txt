@@ -1,0 +1,29 @@
+state = {
+	id = 930
+	name = "STATE_930"
+	manpower = 20334
+	resources = {
+		chromium = 7
+		steel = 1
+	}
+
+	state_category = rural
+
+	history = {
+		owner = ZUL
+		victory_points = {
+			12064 10
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 5
+		}
+		add_core_of = ZUL
+	}
+
+	provinces = {
+		12064 
+	}
+}

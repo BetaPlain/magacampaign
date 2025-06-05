@@ -1,0 +1,151 @@
+characters = {
+	G03_4294 = {
+		name = Germaine_Tullaugaq
+		portraits = {
+			civilian = {
+				large = GFX_portrait_south_america_generic_9
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	G03_592 = {
+		name = David_Arreak
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_592
+			cost = 150
+		}
+	}
+	G03_593 = {
+		name = Ipeelee_Tullaugaq
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_593
+			cost = 150
+		}
+	}
+	G03_594 = {
+		name = Simeonie_Atagotaaluk
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { editor }
+			slot = political_advisor
+			idea_token = i_594
+			cost = 150
+		}
+	}
+	G03_595 = {
+		name = Steve_Irgittuq
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_595
+			cost = 150
+		}
+	}
+	G03_596 = {
+		name = Caubvick_Tullaugaq
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_596
+			cost = 150
+		}
+	}
+	G03_597 = {
+		name = Jack_Atagotaaluk
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_597
+			cost = 150
+		}
+	}
+	G03_598 = {
+		name = Naalak_Alakannuark
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_598
+			cost = 150
+		}
+	}
+	G03_599 = {
+		name = David_Piugattuk
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_599
+			cost = 150
+		}
+	}
+	G03_2864 = {
+		name = Peter_Tullaugaq
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_3
+				small = GFX_Portrait_South_America_Generic_land_3_small
+			}
+		}
+		corps_commander = {
+			traits = { brilliant_strategist old_guard }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	G03_16778941 = {
+		name = Ernie_Tullaugaq
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

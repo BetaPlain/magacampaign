@@ -1,0 +1,27 @@
+state = {
+	id = 567
+	name = "STATE_567"
+	manpower = 817930
+	resources = {
+		rubber = 0
+		steel = 0
+		tungsten = 1
+	}
+
+	state_category = rural
+
+	history = {
+		owner = MPU
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 5
+		}
+		add_core_of = MPU
+	}
+
+	provinces = {
+		3999 4454 7534 11966 
+	}
+}

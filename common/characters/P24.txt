@@ -1,0 +1,151 @@
+characters = {
+	P24_4352 = {
+		name = Simao_Metuktire
+		portraits = {
+			civilian = {
+				large = GFX_portrait_south_america_generic_7
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	P24_1096 = {
+		name = Oscar_2_Parintintin
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_1096
+			cost = 150
+		}
+	}
+	P24_1097 = {
+		name = Duarte_Bororo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_1097
+			cost = 150
+		}
+	}
+	P24_1098 = {
+		name = Miguel_Jeiko
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_1098
+			cost = 150
+		}
+	}
+	P24_1099 = {
+		name = Sergio_Bororo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_1099
+			cost = 150
+		}
+	}
+	P24_1100 = {
+		name = Hugo_Minuane
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1100
+			cost = 150
+		}
+	}
+	P24_1101 = {
+		name = Oscar_2_Kalinago
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_1101
+			cost = 150
+		}
+	}
+	P24_1102 = {
+		name = Paulinho_Kalinago
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_1102
+			cost = 150
+		}
+	}
+	P24_1103 = {
+		name = Leopoldo_Kayapo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { communist_revolutionary }
+			slot = political_advisor
+			idea_token = i_1103
+			cost = 150
+		}
+	}
+	P24_3490 = {
+		name = Vasco_Wayana
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_2
+				small = GFX_Portrait_South_America_Generic_land_2_small
+			}
+		}
+		corps_commander = {
+			traits = { infantry_officer old_guard }
+			skill = 1
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	P24_4566 = {
+		name = Vasco_Metuktire
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

@@ -1,0 +1,28 @@
+state = {
+	id = 833
+	name = "STATE_833"
+	manpower = 201470
+	resources = {
+		oil = 6
+		tungsten = 9
+	}
+
+	state_category = rural
+
+	history = {
+		owner = SCA
+		victory_points = {
+			7891 1
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = SCA
+	}
+
+	provinces = {
+		3606 7869 7891 
+	}
+}

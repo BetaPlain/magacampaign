@@ -1,0 +1,203 @@
+characters = {
+	VIN_1761 = {
+		name = An_V_Suphannaphum
+		portraits = {
+			army = {
+				large = GFX_portrait_unknown
+				small = GFX_portrait_unknown_small
+			}
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+		field_marshal = {
+			traits = { career_officer }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 2
+			logistics_skill = 1
+		}
+	}
+	VIN_104 = {
+		name = vi_1218_Ngo_Dinh
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { ideological_crusader }
+			slot = political_advisor
+			idea_token = i_104
+			cost = 150
+		}
+	}
+	VIN_105 = {
+		name = vi_0523_dyn_vi_6124
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_105
+			cost = 150
+		}
+	}
+	VIN_106 = {
+		name = vi_7122_dyn_vi_2806
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_106
+			cost = 150
+		}
+	}
+	VIN_107 = {
+		name = vi_0689_dyn_vi_5012
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_107
+			cost = 150
+		}
+	}
+	VIN_108 = {
+		name = vi_2398_Truong-Minh
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_108
+			cost = 150
+		}
+	}
+	VIN_109 = {
+		name = vi_0474_dyn_vi_1075
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_109
+			cost = 150
+		}
+	}
+	VIN_110 = {
+		name = vi_0670_dyn_vi_6088
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_110
+			cost = 150
+		}
+	}
+	VIN_111 = {
+		name = vi_6363_dyn_vi_3019
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_111
+			cost = 150
+		}
+	}
+	VIN_1756 = {
+		name = Nghi_Dan_Dinh_dyn_vi_1344
+		portraits = {
+			navy = {
+				large = GFX_Portrait_Asia_Generic_navy_3
+				small = GFX_Portrait_Asia_Generic_navy_3_small
+			}
+		}
+		navy_leader = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			maneuvering_skill = 1
+			coordination_skill = 1
+		}
+	}
+	VIN_1757 = {
+		name = Tu_Thanh_Tran_dyn_ms_Agung
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_3
+				small = GFX_Portrait_Asia_Generic_land_3_small
+			}
+		}
+		corps_commander = {
+			traits = { career_officer infantry_officer politically_connected }
+			skill = 3
+			attack_skill = 2
+			defense_skill = 3
+			planning_skill = 3
+			logistics_skill = 3
+		}
+	}
+	VIN_1758 = {
+		name = Duy_Than_Do_dyn_vi_7893
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_2
+				small = GFX_Portrait_Asia_Generic_land_2_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	VIN_1760 = {
+		name = Phuc_Nguyen_Suphannaphum
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_1760
+			cost = 150
+		}
+	}
+}

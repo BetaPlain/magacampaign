@@ -1,0 +1,25 @@
+state = {
+	id = 624
+	name = "STATE_624"
+	manpower = 506794
+
+	state_category = rural
+
+	history = {
+		owner = HDJ
+		victory_points = {
+			12883 15
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 5
+		}
+		add_core_of = HDJ
+	}
+
+	provinces = {
+		2090 5037 10786 12883 
+	}
+}

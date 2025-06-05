@@ -1,0 +1,151 @@
+characters = {
+	BRN_4279 = {
+		name = Debela_Dinagde
+		portraits = {
+			civilian = {
+				large = GFX_portrait_ETH_haile_selassie_victorious
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	BRN_440 = {
+		name = Alemayehu_Demissie
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_440
+			cost = 150
+		}
+	}
+	BRN_441 = {
+		name = Tilahun_Qallu
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_441
+			cost = 150
+		}
+	}
+	BRN_442 = {
+		name = Hailu_Dinsa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_442
+			cost = 150
+		}
+	}
+	BRN_443 = {
+		name = Abadula_Dinsa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_443
+			cost = 150
+		}
+	}
+	BRN_444 = {
+		name = Galasa_Safo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_444
+			cost = 150
+		}
+	}
+	BRN_445 = {
+		name = Debela_Makonnen
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_445
+			cost = 150
+		}
+	}
+	BRN_446 = {
+		name = Hailu_Gessesse
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_446
+			cost = 150
+		}
+	}
+	BRN_447 = {
+		name = Waqo_Dinsa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_447
+			cost = 150
+		}
+	}
+	BRN_2674 = {
+		name = Heile_Qallu
+		portraits = {
+			army = {
+				large = GFX_portrait_ETH_generic_male_3
+				small = GFX_portrait_ETH_generic_male_3_small
+			}
+		}
+		corps_commander = {
+			traits = { cavalry_officer commando }
+			skill = 2
+			attack_skill = 3
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 2
+		}
+	}
+	BRN_16781702 = {
+		name = Tilahun_Dinagde
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

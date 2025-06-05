@@ -1,0 +1,293 @@
+characters = {
+	SCA_1913 = {
+		name = Christian_IV_von_Habsburg
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	SCA_8 = {
+		name = dw_non_Petr_dw_dyn_is_Hermannsson
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_8
+			cost = 150
+		}
+	}
+	SCA_9 = {
+		name = dw_non_Gudni_dw_dyn_is_Gudhjohnsen
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_9
+			cost = 150
+		}
+	}
+	SCA_10 = {
+		name = dw_non_Thored_dw_dyn_is_Trausti
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_10
+			cost = 150
+		}
+	}
+	SCA_11 = {
+		name = dw_non_Loftr_dw_dyn_is_Thordharson
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_11
+			cost = 150
+		}
+	}
+	SCA_12 = {
+		name = dw_non_Ornolf_dw_dyn_is_Benediktsson
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { grand_fleet_proponent }
+			slot = political_advisor
+			idea_token = i_12
+			cost = 150
+		}
+	}
+	SCA_13 = {
+		name = dw_non_Horthr_dw_dyn_is_Baldvinsson
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_13
+			cost = 150
+		}
+	}
+	SCA_14 = {
+		name = dw_non_Nor_dw_dyn_is_Bjarnason
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_14
+			cost = 150
+		}
+	}
+	SCA_15 = {
+		name = dw_non_Birning_dw_dyn_is_Gissurarson
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_15
+			cost = 150
+		}
+	}
+	SCA_1912 = {
+		name = Christian_von_Habsburg
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { reluctant_interventionist }
+			slot = political_advisor
+			idea_token = i_1912
+			cost = 150
+		}
+	}
+	SCA_1914 = {
+		name = Olof_Dufwa_dyn_is_Trausti
+		portraits = {
+			army = {
+				large = GFX_portrait_FIN_carl_mannerheim
+				small = GFX_portrait_FIN_carl_mannerheim_small
+			}
+		}
+		corps_commander = {
+			traits = { old_guard }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	SCA_1915 = {
+		name = Fredrik_Gersdorff_dyn_fi_Pietila
+		portraits = {
+			army = {
+				large = GFX_portrait_FIN_carl_mannerheim
+				small = GFX_portrait_FIN_carl_mannerheim_small
+			}
+		}
+		corps_commander = {
+			traits = { armor_officer }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 1
+			planning_skill = 2
+			logistics_skill = 2
+		}
+	}
+	SCA_1916 = {
+		name = Knut_Povlsen_dyn_is_Vigfusson
+		portraits = {
+			army = {
+				large = GFX_Portrait_europe_generic_land_6
+				small = GFX_Portrait_europe_generic_land_6_small
+			}
+		}
+		corps_commander = {
+			traits = { armor_officer }
+			skill = 1
+			attack_skill = 2
+			defense_skill = 1
+			planning_skill = 2
+			logistics_skill = 1
+		}
+	}
+	SCA_1917 = {
+		name = Sigvard_Lewenhaupt_dw_dyn_is_Brynjolfsson
+		portraits = {
+			navy = {
+				large = GFX_Portrait_Europe_Generic_navy_3
+				small = GFX_Portrait_Europe_Generic_navy_3_small
+			}
+		}
+		navy_leader = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			maneuvering_skill = 1
+			coordination_skill = 1
+		}
+	}
+	SCA_1918 = {
+		name = Olof_Bille_dyn_dk_Carstensen
+		portraits = {
+			army = {
+				large = GFX_portrait_FIN_carl_mannerheim
+				small = GFX_portrait_FIN_carl_mannerheim_small
+			}
+		}
+		corps_commander = {
+			traits = { old_guard }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	SCA_1919 = {
+		name = Sigismund_Sandels_dyn_sv_Nordlund
+		portraits = {
+			army = {
+				large = GFX_portrait_FIN_carl_mannerheim
+				small = GFX_portrait_FIN_carl_mannerheim_small
+			}
+		}
+		corps_commander = {
+			traits = { infantry_officer }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 2
+		}
+	}
+	SCA_1920 = {
+		name = Tomas_Hahn_dw_dyn_is_Hauksson
+		portraits = {
+			army = {
+				large = GFX_portrait_FIN_carl_mannerheim
+				small = GFX_portrait_FIN_carl_mannerheim_small
+			}
+		}
+		corps_commander = {
+			traits = { armor_officer naval_invader }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 1
+			planning_skill = 3
+			logistics_skill = 2
+		}
+	}
+	SCA_1921 = {
+		name = Johan_Hoegh_dw_dyn_is_Gudhjohnsen
+		portraits = {
+			army = {
+				large = GFX_Portrait_europe_generic_land_6
+				small = GFX_Portrait_europe_generic_land_6_small
+			}
+		}
+		field_marshal = {
+			traits = { infantry_officer organizer }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 2
+			logistics_skill = 2
+		}
+	}
+	SCA_1922 = {
+		name = Ludvig_Liljencrantz_dyn_is_Thordharson
+		portraits = {
+			army = {
+				large = GFX_Portrait_Europe_Generic_land_5
+				small = GFX_Portrait_Europe_Generic_land_5_small
+			}
+		}
+		corps_commander = {
+			traits = { infantry_officer }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 3
+		}
+	}
+}

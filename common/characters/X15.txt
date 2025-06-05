@@ -1,0 +1,146 @@
+characters = {
+	X15_1427 = {
+		name = pt_Adriano_dyn_pt_Galiza
+		portraits = {
+			civilian = {
+				large = GFX_portrait_south_america_generic_8
+			}
+		}
+		country_leader = {
+			ideology = moderatism
+			traits = {  }
+		}
+	}
+	X15_1424 = {
+		name = pt_Esdras_dyn_pt_Vale
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_1424
+			cost = 150
+		}
+	}
+	X15_1425 = {
+		name = pt_Alan_de_Souza_Neto
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_1425
+			cost = 150
+		}
+	}
+	X15_1426 = {
+		name = pt_Judas_de_Itapevi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_1426
+			cost = 150
+		}
+	}
+	X15_1428 = {
+		name = pt_Ximeno_de_Melo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_1428
+			cost = 150
+		}
+	}
+	X15_1429 = {
+		name = pt_Hipolito_dyn_pt_Lucindo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1429
+			cost = 150
+		}
+	}
+	X15_1430 = {
+		name = pt_Teodoro_dyn_pt_de_Souza
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_1430
+			cost = 150
+		}
+	}
+	X15_1431 = {
+		name = pt_Isaque_dyn_pt_Aniceto
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_1431
+			cost = 150
+		}
+	}
+	X15_2019 = {
+		name = Fadrique_de_Zuniga_dyn_pt_Viana
+		portraits = {
+			navy = {
+				large = GFX_Portrait_South_America_Generic_navy_2
+				small = GFX_Portrait_South_America_Generic_navy_2_small
+			}
+		}
+		navy_leader = {
+			traits = { cuts_corners }
+			skill = 1
+			attack_skill = 2
+			defense_skill = 1
+			maneuvering_skill = 2
+			coordination_skill = 1
+		}
+	}
+	X15_2020 = {
+		name = Fausto_Manrique_de_Velasco_dyn_pt_Limas
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_4
+				small = GFX_Portrait_South_America_Generic_land_4_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+}

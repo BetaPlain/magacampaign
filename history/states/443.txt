@@ -1,0 +1,28 @@
+state = {
+	id = 443
+	name = "STATE_443"
+	manpower = 537733
+	resources = {
+		aluminium = 3
+		rubber = 2
+	}
+
+	state_category = rural
+
+	history = {
+		owner = MLI
+		victory_points = {
+			8039 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = MLI
+	}
+
+	provinces = {
+		8039 8096 12787 
+	}
+}

@@ -1,0 +1,151 @@
+characters = {
+	TRK_4366 = {
+		name = Mbatian_Arap_Samoei
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Africa_Generic_4
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	TRK_1216 = {
+		name = Kakenya_Ole_Mbatian
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1216
+			cost = 150
+		}
+	}
+	TRK_1217 = {
+		name = Lenana_Arap_Samoei
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_1217
+			cost = 150
+		}
+	}
+	TRK_1218 = {
+		name = Turukat_Ole_Lenana
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_1218
+			cost = 150
+		}
+	}
+	TRK_1219 = {
+		name = Kakenya_Ole_Segi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1219
+			cost = 150
+		}
+	}
+	TRK_1220 = {
+		name = Lenana_Arap_Koilege
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_1220
+			cost = 150
+		}
+	}
+	TRK_1221 = {
+		name = Meitikini_Ole_Lenana
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_1221
+			cost = 150
+		}
+	}
+	TRK_1222 = {
+		name = Parasayip_Ole_Lenana
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_1222
+			cost = 150
+		}
+	}
+	TRK_1223 = {
+		name = Mbatian_Ole_Mbatian
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_1223
+			cost = 150
+		}
+	}
+	TRK_3640 = {
+		name = Mbatian_Arap_Samoei
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_Africa_Army_Generic_2
+				small = GFX_Portrait_South_Africa_Army_Generic_2_small
+			}
+		}
+		corps_commander = {
+			traits = { organizer trait_reckless }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 1
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+	TRK_4500 = {
+		name = Kimnyole_Arap_Samoei
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

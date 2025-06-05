@@ -1,0 +1,29 @@
+state = {
+	id = 810
+	name = "STATE_810"
+	manpower = 221005
+	resources = {
+		aluminium = 0
+		rubber = 0
+		steel = 0
+	}
+
+	state_category = rural
+
+	history = {
+		owner = SPR
+		victory_points = {
+			10831 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = SPR
+	}
+
+	provinces = {
+		10831 
+	}
+}

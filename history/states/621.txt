@@ -1,0 +1,27 @@
+state = {
+	id = 621
+	name = "STATE_621"
+	manpower = 210065
+	resources = {
+		rubber = 2
+	}
+
+	state_category = rural
+
+	history = {
+		owner = MEX
+		victory_points = {
+			10765 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = MEX
+	}
+
+	provinces = {
+		2069 4908 4977 8012 8033 10765 10848 12833 
+	}
+}

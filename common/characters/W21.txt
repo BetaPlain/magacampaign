@@ -1,0 +1,151 @@
+characters = {
+	W21_4379 = {
+		name = dw_Haubariria_dw_Madinina
+		portraits = {
+			civilian = {
+				large = GFX_portrait_south_america_generic_8
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	W21_1328 = {
+		name = dw_Amorotahe_dw_Madinina
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_1328
+			cost = 150
+		}
+	}
+	W21_1329 = {
+		name = dw_Wiwakaleme_dw_Muritaro
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1329
+			cost = 150
+		}
+	}
+	W21_1330 = {
+		name = dw_Toratora_dw_Waricha
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_1330
+			cost = 150
+		}
+	}
+	W21_1331 = {
+		name = dw_Mbicy_dw_Fararinno
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_1331
+			cost = 150
+		}
+	}
+	W21_1332 = {
+		name = dw_Mbicy_dw_Madinina
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_1332
+			cost = 150
+		}
+	}
+	W21_1333 = {
+		name = dw_Wiwakaleme_dw_Fararinno
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1333
+			cost = 150
+		}
+	}
+	W21_1334 = {
+		name = dw_Shoko_dw_Kapongong
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_1334
+			cost = 150
+		}
+	}
+	W21_1335 = {
+		name = dw_Wiwakaleme_dw_Heliya
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_1335
+			cost = 150
+		}
+	}
+	W21_3780 = {
+		name = dw_Torui_dw_Fararinno
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_2
+				small = GFX_Portrait_South_America_Generic_land_2_small
+			}
+		}
+		corps_commander = {
+			traits = { harsh_leader ranger }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+	W21_16779715 = {
+		name = dw_Wiwakaleme_dw_Madinina
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

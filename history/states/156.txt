@@ -1,0 +1,30 @@
+state = {
+	id = 156
+	name = "STATE_156"
+	manpower = 1475823
+	resources = {
+		aluminium = 0
+		rubber = 3
+		steel = 0
+	}
+
+	state_category = town
+
+	history = {
+		owner = MLI
+		victory_points = {
+			2025 1
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 1
+			air_base = 1
+		}
+		add_core_of = MLI
+	}
+
+	provinces = {
+		1969 2025 4972 
+	}
+}

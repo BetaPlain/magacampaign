@@ -1,0 +1,145 @@
+characters = {
+	BLE_4275 = {
+		name = Amanquatia_Denkyira
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_South_Africa_Political_Leader_Generic
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	BLE_392 = {
+		name = Kwaku_Asiba
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_392
+			cost = 150
+		}
+	}
+	BLE_393 = {
+		name = Kwame_Bonoman
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_393
+			cost = 150
+		}
+	}
+	BLE_394 = {
+		name = Owusu_Asante
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_394
+			cost = 150
+		}
+	}
+	BLE_395 = {
+		name = Opoku_Jukwaa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_395
+			cost = 150
+		}
+	}
+	BLE_396 = {
+		name = Kofi_Asante
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_396
+			cost = 150
+		}
+	}
+	BLE_397 = {
+		name = Kwaku_Karikari
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	BLE_398 = {
+		name = Kwaku_Dwomo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_398
+			cost = 150
+		}
+	}
+	BLE_399 = {
+		name = Owusu_Panyin
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { communist_revolutionary }
+			slot = political_advisor
+			idea_token = i_399
+			cost = 150
+		}
+	}
+	BLE_2614 = {
+		name = Kwaku_Bonoman
+		portraits = {
+			army = {
+				large = GFX_Portrait_Africa_Generic_land_2
+				small = GFX_Portrait_Africa_Generic_land_2_small
+			}
+		}
+		corps_commander = {
+			traits = { old_guard }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	BLE_16779668 = {
+		name = Opoku_Denkyira
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

@@ -1,0 +1,168 @@
+characters = {
+	W03_1971 = {
+		name = Komala_Pulu_IV_Palopo
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	W03_1288 = {
+		name = Ellyas_Kolano
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1288
+			cost = 150
+		}
+	}
+	W03_1289 = {
+		name = Dominggus_Kolano
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_1289
+			cost = 150
+		}
+	}
+	W03_1290 = {
+		name = Michael_Pattinama
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1290
+			cost = 150
+		}
+	}
+	W03_1291 = {
+		name = Dominggus_Sjah
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_1291
+			cost = 150
+		}
+	}
+	W03_1292 = {
+		name = Mohammad_Kolano
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_1292
+			cost = 150
+		}
+	}
+	W03_1293 = {
+		name = Sonny_Bouma
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_1293
+			cost = 150
+		}
+	}
+	W03_1294 = {
+		name = Ignacio_Sjah
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_1294
+			cost = 150
+		}
+	}
+	W03_1295 = {
+		name = Michael_Weisapy
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	W03_1969 = {
+		name = Marhum_Nazmizan_Mainaky
+		portraits = {
+			navy = {
+				large = GFX_Portrait_Asia_Generic_navy_2
+				small = GFX_Portrait_Asia_Generic_navy_2_small
+			}
+		}
+		navy_leader = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			maneuvering_skill = 1
+			coordination_skill = 1
+		}
+	}
+	W03_1970 = {
+		name = Jalaluddin_Palopo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_1970
+			cost = 150
+		}
+	}
+	W03_3734 = {
+		name = Levi_Sjah
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_4
+				small = GFX_Portrait_Asia_Generic_land_4_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+}

@@ -1,0 +1,197 @@
+characters = {
+	X13_2009 = {
+		name = Pindale_I_Prome
+		portraits = {
+			army = {
+				large = GFX_portrait_unknown
+				small = GFX_portrait_unknown_small
+			}
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+		field_marshal = {
+			traits = { brilliant_strategist infantry_officer }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 2
+		}
+	}
+	X13_1408 = {
+		name = my_Ra_Sao
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_1408
+			cost = 150
+		}
+	}
+	X13_1409 = {
+		name = my_Dar_Konbaung
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { communist_revolutionary }
+			slot = political_advisor
+			idea_token = i_1409
+			cost = 150
+		}
+	}
+	X13_1410 = {
+		name = my_Hwae_Min
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_backstabber }
+			slot = political_advisor
+			idea_token = i_1410
+			cost = 150
+		}
+	}
+	X13_1411 = {
+		name = my_Sein_Thura
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_1411
+			cost = 150
+		}
+	}
+	X13_1412 = {
+		name = my_Htay_Konbaung
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { editor }
+			slot = political_advisor
+			idea_token = i_1412
+			cost = 150
+		}
+	}
+	X13_1413 = {
+		name = my_Tha_Dabayin
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_1413
+			cost = 150
+		}
+	}
+	X13_1414 = {
+		name = my_Pwint_Dabayin
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_1414
+			cost = 150
+		}
+	}
+	X13_1415 = {
+		name = my_Hpay_Myo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_1415
+			cost = 150
+		}
+	}
+	X13_2008 = {
+		name = Zalahtinyan_Prome
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	X13_2010 = {
+		name = Pye_Hla-Thein_Saw
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_4
+				small = GFX_Portrait_Asia_Generic_land_4_small
+			}
+		}
+		corps_commander = {
+			traits = { trait_reckless }
+			skill = 1
+			attack_skill = 2
+			defense_skill = 1
+			planning_skill = 2
+			logistics_skill = 1
+		}
+	}
+	X13_2011 = {
+		name = Bayinnaug_Sein-Win_Saw
+		portraits = {
+			navy = {
+				large = GFX_Portrait_asia_generic_navy_4
+				small = GFX_Portrait_asia_generic_navy_4_small
+			}
+		}
+		navy_leader = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			maneuvering_skill = 1
+			coordination_skill = 1
+		}
+	}
+	X13_2012 = {
+		name = Narawara_Ohn-Myint_Thura
+		portraits = {
+			navy = {
+				large = GFX_Portrait_asia_generic_navy_4
+				small = GFX_Portrait_asia_generic_navy_4_small
+			}
+		}
+		navy_leader = {
+			traits = { naval_lineage }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			maneuvering_skill = 1
+			coordination_skill = 2
+		}
+	}
+}

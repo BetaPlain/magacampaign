@@ -1,0 +1,151 @@
+characters = {
+	I01_4300 = {
+		name = Hahtalekin_Alpowai
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_South_America_Generic_3
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	I01_640 = {
+		name = Allalimya_Takanin_Piatote
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { fascist_demagogue }
+			slot = political_advisor
+			idea_token = i_640
+			cost = 150
+		}
+	}
+	I01_641 = {
+		name = Apash_Wyakaikt_Piatote
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_641
+			cost = 150
+		}
+	}
+	I01_642 = {
+		name = Hinmatoowyalahtqit_Piatote
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_642
+			cost = 150
+		}
+	}
+	I01_643 = {
+		name = Tuekakas_Alpowai
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_643
+			cost = 150
+		}
+	}
+	I01_644 = {
+		name = Peopeo_Kiskiok_Hihih_Lamatta
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_644
+			cost = 150
+		}
+	}
+	I01_645 = {
+		name = Sousouquee_Piatote
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_645
+			cost = 150
+		}
+	}
+	I01_646 = {
+		name = Hallalhotsoot_Piatote
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_646
+			cost = 150
+		}
+	}
+	I01_647 = {
+		name = Ippakness_Wayhayken_Piatote
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_647
+			cost = 150
+		}
+	}
+	I01_2923 = {
+		name = Ollokot_Wallowa
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_1
+				small = GFX_Portrait_South_America_Generic_land_1_small
+			}
+		}
+		corps_commander = {
+			traits = { career_officer ranger }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 3
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+	I01_4583 = {
+		name = Toohoolhoolzote_Alpowai
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

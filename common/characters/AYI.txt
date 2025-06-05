@@ -1,0 +1,151 @@
+characters = {
+	AYI_4274 = {
+		name = Kwaku_Asante
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Africa_Generic_4
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	AYI_376 = {
+		name = Kwame_Fofie
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_376
+			cost = 150
+		}
+	}
+	AYI_377 = {
+		name = Onsei_Bonoman
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { grand_fleet_proponent }
+			slot = political_advisor
+			idea_token = i_377
+			cost = 150
+		}
+	}
+	AYI_378 = {
+		name = Kwaku_Bonsu
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_378
+			cost = 150
+		}
+	}
+	AYI_379 = {
+		name = Kwaku_Dwomo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_379
+			cost = 150
+		}
+	}
+	AYI_380 = {
+		name = Agyeman_Denkyira
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_380
+			cost = 150
+		}
+	}
+	AYI_381 = {
+		name = Akyampon_Prempeh
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_381
+			cost = 150
+		}
+	}
+	AYI_382 = {
+		name = Amanquatia_Dwomo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_382
+			cost = 150
+		}
+	}
+	AYI_383 = {
+		name = Opoku_Karikari
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_383
+			cost = 150
+		}
+	}
+	AYI_2592 = {
+		name = Kwaku_Fofie
+		portraits = {
+			army = {
+				large = GFX_Portrait_Africa_Generic_land_4
+				small = GFX_Portrait_Africa_Generic_land_4_small
+			}
+		}
+		corps_commander = {
+			traits = { trait_mountaineer }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 2
+		}
+	}
+	AYI_16781823 = {
+		name = Kofi_Asante
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

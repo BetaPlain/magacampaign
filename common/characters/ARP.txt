@@ -1,0 +1,143 @@
+characters = {
+	ARP_4544 = {
+		name = Catecahassa_Chalahgawtha
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			traits = {  }
+		}
+	}
+	ARP_200 = {
+		name = Catecahassa_KaskE_
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_200
+			cost = 150
+		}
+	}
+	ARP_201 = {
+		name = Penagashea_Opessa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_201
+			cost = 150
+		}
+	}
+	ARP_202 = {
+		name = Shemanetoo_Opessa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { editor }
+			slot = political_advisor
+			idea_token = i_202
+			cost = 150
+		}
+	}
+	ARP_203 = {
+		name = Paxinosa_Peckuwe
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { editor }
+			slot = political_advisor
+			idea_token = i_203
+			cost = 150
+		}
+	}
+	ARP_204 = {
+		name = Wawahchepaehai_Opessa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_204
+			cost = 150
+		}
+	}
+	ARP_205 = {
+		name = Hokoleskwa_Opessa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_205
+			cost = 150
+		}
+	}
+	ARP_206 = {
+		name = WeS_ihS_imo_Thawikila
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_206
+			cost = 150
+		}
+	}
+	ARP_207 = {
+		name = Weyapiersenwah_ShipakA_kamithagI_
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_207
+			cost = 150
+		}
+	}
+	ARP_2373 = {
+		name = Pepquannakek_Chalahgawtha
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_2
+				small = GFX_Portrait_South_America_Generic_land_2_small
+			}
+		}
+		corps_commander = {
+			traits = { infantry_officer trait_mountaineer }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 2
+		}
+	}
+}

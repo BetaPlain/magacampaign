@@ -1,0 +1,26 @@
+state = {
+	id = 899
+	name = "STATE_899"
+	manpower = 54590
+	resources = {
+		chromium = 3
+		steel = 0
+		tungsten = 1
+	}
+
+	state_category = rural
+
+	history = {
+		owner = BMB
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = BMB
+	}
+
+	provinces = {
+		12504 
+	}
+}

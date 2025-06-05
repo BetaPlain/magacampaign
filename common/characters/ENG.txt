@@ -1,0 +1,275 @@
+characters = {
+	ENG_6 = {
+		name = en_Winston_dyn_en_Sellers
+		portraits = {
+			civilian = {
+				large = GFX_portrait_europe_generic_6
+			}
+		}
+		country_leader = {
+			ideology = centrism
+			traits = {  }
+		}
+	}
+	ENG_0 = {
+		name = en_Dermott_dyn_en_Fowler
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_0
+			cost = 150
+		}
+	}
+	ENG_1 = {
+		name = en_Adrian_dyn_en_Lewis
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_1
+			cost = 150
+		}
+	}
+	ENG_2 = {
+		name = en_Duke_dyn_en_Phelps
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_2
+			cost = 150
+		}
+	}
+	ENG_3 = {
+		name = en_Christopher_Gordon-Lennox
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_3
+			cost = 150
+		}
+	}
+	ENG_4 = {
+		name = en_Winford_Keppel
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	ENG_5 = {
+		name = en_Irving_dyn_en_Phelps
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_5
+			cost = 150
+		}
+	}
+	ENG_7 = {
+		name = en_Jeren_dyn_en_Sheppard
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_7
+			cost = 150
+		}
+	}
+	ENG_1766 = {
+		name = Ernest_Augustus_Dampier_dyn_en_Carson
+		portraits = {
+			army = {
+				large = GFX_Portrait_Europe_Generic_land_4
+				small = GFX_Portrait_Europe_Generic_land_4_small
+			}
+		}
+		field_marshal = {
+			traits = { infantry_officer ranger }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+	ENG_1767 = {
+		name = Archibald_Middleton_dyn_en_Holloway
+		portraits = {
+			army = {
+				large = GFX_portrait_europe_generic_land_8
+				small = GFX_portrait_europe_generic_land_8_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	ENG_1768 = {
+		name = Jonathan_Davis_dyn_en_Green
+		portraits = {
+			navy = {
+				large = GFX_portrait_europe_generic_navy_4
+				small = GFX_portrait_europe_generic_navy_4_small
+			}
+		}
+		navy_leader = {
+			traits = { gunnery_expert }
+			skill = 3
+			attack_skill = 2
+			defense_skill = 3
+			maneuvering_skill = 1
+			coordination_skill = 4
+		}
+	}
+	ENG_1769 = {
+		name = Guy_Dampier_dyn_en_Whitfield
+		portraits = {
+			navy = {
+				large = GFX_Portrait_Europe_Generic_navy_2
+				small = GFX_Portrait_Europe_Generic_navy_2_small
+			}
+		}
+		navy_leader = {
+			traits = { gentlemanly old_guard_navy }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 3
+			maneuvering_skill = 1
+			coordination_skill = 3
+		}
+	}
+	ENG_1770 = {
+		name = Lawrence_Buckingham_dyn_en_Blankenship
+		portraits = {
+			navy = {
+				large = GFX_Portrait_Europe_Generic_navy_1
+				small = GFX_Portrait_Europe_Generic_navy_1_small
+			}
+		}
+		navy_leader = {
+			traits = { bold chief_engineer }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			maneuvering_skill = 2
+			coordination_skill = 1
+		}
+	}
+	ENG_1771 = {
+		name = Alfred_Saunders_dyn_en_Bowman
+		portraits = {
+			army = {
+				large = GFX_portrait_europe_generic_land_7
+				small = GFX_portrait_europe_generic_land_7_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	ENG_1772 = {
+		name = Guy_Churchill_dyn_en_Oliver
+		portraits = {
+			army = {
+				large = GFX_Portrait_Europe_Generic_land_5
+				small = GFX_Portrait_Europe_Generic_land_5_small
+			}
+		}
+		corps_commander = {
+			traits = { organizer }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 3
+		}
+	}
+	ENG_1773 = {
+		name = George_von_Habsburg
+		portraits = {
+			army = {
+				large = GFX_portrait_europe_generic_land_13
+				small = GFX_portrait_europe_generic_land_13_small
+			}
+			civilian = {
+			}
+		}
+		corps_commander = {
+			traits = { brilliant_strategist }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+		advisor = {
+			traits = { education_reformer }
+			slot = political_advisor
+			idea_token = i_1773
+			cost = 150
+		}
+	}
+	ENG_1774 = {
+		name = George_V_von_Habsburg
+		portraits = {
+			army = {
+				large = GFX_Portrait_Europe_Generic_land_3
+				small = GFX_Portrait_Europe_Generic_land_3_small
+			}
+			civilian = {
+			}
+		}
+		corps_commander = {
+			traits = { harsh_leader }
+			skill = 1
+			attack_skill = 2
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_1774
+			cost = 150
+		}
+	}
+}

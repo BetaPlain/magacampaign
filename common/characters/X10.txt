@@ -1,0 +1,191 @@
+characters = {
+	X10_2006 = {
+		name = Tarabya_I_Konbaung
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			traits = {  }
+		}
+	}
+	X10_1400 = {
+		name = my_Naung_Min
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_1400
+			cost = 150
+		}
+	}
+	X10_1401 = {
+		name = my_Dan_Dabayin
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_1401
+			cost = 150
+		}
+	}
+	X10_1402 = {
+		name = my_Ma_Thura
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_1402
+			cost = 150
+		}
+	}
+	X10_1403 = {
+		name = my_Chao_Myo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_1403
+			cost = 150
+		}
+	}
+	X10_1404 = {
+		name = my_Pyin_Konbaung
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { silent_workhorse }
+			slot = political_advisor
+			idea_token = i_1404
+			cost = 150
+		}
+	}
+	X10_1405 = {
+		name = my_Htoon_Thura
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_1405
+			cost = 150
+		}
+	}
+	X10_1406 = {
+		name = my_Htin_Myo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_1406
+			cost = 150
+		}
+	}
+	X10_1407 = {
+		name = my_Htike_Bandula
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_1407
+			cost = 150
+		}
+	}
+	X10_2002 = {
+		name = Sao_Ai_Awn_Bawzaing_Marip
+		portraits = {
+			army = {
+				large = GFX_Portrait_asia_generic_land_5
+				small = GFX_Portrait_asia_generic_land_5_small
+			}
+		}
+		corps_commander = {
+			traits = { armor_officer infantry_officer }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 3
+			planning_skill = 1
+			logistics_skill = 2
+		}
+	}
+	X10_2004 = {
+		name = Hpaya_Kiao_Maukme_Bandula
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_3
+				small = GFX_Portrait_Asia_Generic_land_3_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	X10_2005 = {
+		name = Narapati_Konbaung
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { education_reformer }
+			slot = political_advisor
+			idea_token = i_2005
+			cost = 150
+		}
+	}
+	X10_3873 = {
+		name = Hswe_Sao
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_1
+				small = GFX_Portrait_Asia_Generic_land_1_small
+			}
+		}
+		corps_commander = {
+			traits = { harsh_leader trait_mountaineer }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 2
+		}
+	}
+}

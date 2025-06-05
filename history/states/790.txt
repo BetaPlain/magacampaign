@@ -1,0 +1,29 @@
+state = {
+	id = 790
+	name = "STATE_790"
+	manpower = 102214
+	resources = {
+		aluminium = 2
+		rubber = 1
+		steel = 0
+	}
+
+	state_category = rural
+
+	history = {
+		owner = MLI
+		victory_points = {
+			5013 1
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = MLI
+	}
+
+	provinces = {
+		5013 8065 
+	}
+}

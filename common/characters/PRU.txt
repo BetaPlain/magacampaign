@@ -1,0 +1,180 @@
+characters = {
+	PRU_158 = {
+		name = pt_Lourenco_dyn_pt_Guerreiro
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_South_America_Generic_3
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			traits = {  }
+		}
+	}
+	PRU_152 = {
+		name = pt_Maximo_Boaventura
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_152
+			cost = 150
+		}
+	}
+	PRU_153 = {
+		name = pt_Teodosio_da_Camara
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_153
+			cost = 150
+		}
+	}
+	PRU_154 = {
+		name = pt_Dinho_dyn_pt_Lourenco
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_154
+			cost = 150
+		}
+	}
+	PRU_155 = {
+		name = pt_Feliciano_de_Barros
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_155
+			cost = 150
+		}
+	}
+	PRU_156 = {
+		name = pt_Gualter_de_Alcantara
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { editor }
+			slot = political_advisor
+			idea_token = i_156
+			cost = 150
+		}
+	}
+	PRU_157 = {
+		name = pt_Jose_dyn_pt_Gama
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_157
+			cost = 150
+		}
+	}
+	PRU_159 = {
+		name = pt_Jordao_dyn_pt_Ambrozio
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_159
+			cost = 150
+		}
+	}
+	PRU_1900 = {
+		name = Juan_Bautista_Manrique_de_Velasco_dyn_pt_Freitas
+		portraits = {
+			navy = {
+				large = GFX_Portrait_South_America_Generic_navy_3
+				small = GFX_Portrait_South_America_Generic_navy_3_small
+			}
+		}
+		navy_leader = {
+			traits = {  }
+			skill = 1
+			attack_skill = 2
+			defense_skill = 1
+			maneuvering_skill = 1
+			coordination_skill = 1
+		}
+	}
+	PRU_2310 = {
+		name = Lucio_Mansilla
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_1
+				small = GFX_Portrait_South_America_Generic_land_1_small
+			}
+		}
+		corps_commander = {
+			traits = { infantry_officer naval_invader }
+			skill = 4
+			attack_skill = 3
+			defense_skill = 4
+			planning_skill = 2
+			logistics_skill = 4
+		}
+	}
+	PRU_2311 = {
+		name = pt_Ezequiel_dyn_pt_Vaz
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_5
+				small = GFX_Portrait_South_America_Generic_land_5_small
+			}
+		}
+		corps_commander = {
+			traits = { old_guard }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	PRU_4549 = {
+		name = pt_Jacob_dyn_pt_Luz
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_3
+				small = GFX_Portrait_South_America_Generic_land_3_small
+			}
+		}
+		corps_commander = {
+			traits = { brilliant_strategist infantry_officer }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 2
+		}
+	}
+}

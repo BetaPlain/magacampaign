@@ -1,0 +1,248 @@
+characters = {
+	X60_2069 = {
+		name = Louis_III_de_Bourgogne
+		portraits = {
+			army = {
+				large = GFX_portrait_unknown
+				small = GFX_portrait_unknown_small
+			}
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+		field_marshal = {
+			traits = { logistics_wizard organizer }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 3
+		}
+	}
+	X60_1552 = {
+		name = fr_Thomas_de_Gueydon
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_1552
+			cost = 150
+		}
+	}
+	X60_1553 = {
+		name = fr_Alain_dyn_fr_Thiriet
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_1553
+			cost = 150
+		}
+	}
+	X60_1554 = {
+		name = fr_Theophile_dyn_fr_Monroy
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { editor }
+			slot = political_advisor
+			idea_token = i_1554
+			cost = 150
+		}
+	}
+	X60_1555 = {
+		name = fr_Auguste_de_Cools
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_1555
+			cost = 150
+		}
+	}
+	X60_1556 = {
+		name = fr_Christophe_d_Aumont
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_1556
+			cost = 150
+		}
+	}
+	X60_1557 = {
+		name = fr_Alain-Rene_de_MacMahon
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1557
+			cost = 150
+		}
+	}
+	X60_1558 = {
+		name = fr_Jean-Francois_dyn_fr_Robidas
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_1558
+			cost = 150
+		}
+	}
+	X60_1559 = {
+		name = fr_Anselme_dyn_fr_Adnet
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1559
+			cost = 150
+		}
+	}
+	X60_2061 = {
+		name = Childebert_Nagu_de_Varennes_dyn_fr_Geoffrion
+		portraits = {
+			army = {
+				large = GFX_Portrait_France_Generic_land_4
+				small = GFX_Portrait_France_Generic_land_4_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	X60_2062 = {
+		name = Lothair_de_Tonnerre_nl_Herrema
+		portraits = {
+			army = {
+				large = GFX_Portrait_europe_generic_land_6
+				small = GFX_Portrait_europe_generic_land_6_small
+			}
+		}
+		field_marshal = {
+			traits = { organizer trait_reckless }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 1
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+	X60_2063 = {
+		name = Louis-Joseph_de_Chalon_dyn_fr_Antier
+		portraits = {
+			army = {
+				large = GFX_Portrait_France_Generic_land_9
+				small = GFX_Portrait_France_Generic_land_9_small
+			}
+		}
+		corps_commander = {
+			traits = { engineer_officer trait_cautious }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 2
+			logistics_skill = 2
+		}
+	}
+	X60_2065 = {
+		name = Henri_de_Castaing_dyn_fr_Labyorteaux
+		portraits = {
+			army = {
+				large = GFX_Portrait_France_Generic_land_8
+				small = GFX_Portrait_France_Generic_land_8_small
+			}
+		}
+		corps_commander = {
+			traits = { naval_invader }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 2
+			logistics_skill = 2
+		}
+	}
+	X60_2066 = {
+		name = Jean_de_Beaumont_dyn_fr_De_Saint-Pierre
+		portraits = {
+			army = {
+				large = GFX_Portrait_France_Generic_land_5
+				small = GFX_Portrait_France_Generic_land_5_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	X60_2068 = {
+		name = Lothair_de_Bourgogne
+		portraits = {
+			army = {
+				large = GFX_Portrait_France_Generic_land_6
+				small = GFX_Portrait_France_Generic_land_6_small
+			}
+			civilian = {
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 2
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_2068
+			cost = 150
+		}
+	}
+}

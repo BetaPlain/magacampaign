@@ -1,0 +1,28 @@
+state = {
+	id = 101
+	name = "STATE_101"
+	manpower = 1260019
+	resources = {
+		steel = 11
+	}
+
+	state_category = rural
+
+	history = {
+		owner = PLC
+		victory_points = {
+			6245 1
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+		}
+		add_core_of = PLC
+	}
+
+	provinces = {
+		226 231 366 3215 3323 6245 6264 6346 9144 9256 9265 9343 11224 11236 11250 11326 11349 
+	}
+}

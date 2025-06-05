@@ -1,0 +1,28 @@
+state = {
+	id = 221
+	name = "STATE_221"
+	manpower = 1405365
+	resources = {
+		aluminium = 9
+	}
+
+	state_category = town
+
+	history = {
+		owner = ITA
+		victory_points = {
+			6985 1
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 1
+		}
+		add_core_of = ITA
+	}
+
+	provinces = {
+		782 6606 6793 6985 9924 11889 
+	}
+}

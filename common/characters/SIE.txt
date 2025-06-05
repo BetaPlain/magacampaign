@@ -1,0 +1,188 @@
+characters = {
+	SIE_1158 = {
+		name = en_Edwin_Windsor-Clive
+		portraits = {
+			civilian = {
+				large = GFX_portrait_europe_generic_4
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			traits = {  }
+		}
+	}
+	SIE_1152 = {
+		name = en_Bruno_Greville-Nugent
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_1152
+			cost = 150
+		}
+	}
+	SIE_1153 = {
+		name = en_Bardulph_Wingfield-Baker
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_1153
+			cost = 150
+		}
+	}
+	SIE_1154 = {
+		name = en_Redevers_dyn_en_Terrell
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_1154
+			cost = 150
+		}
+	}
+	SIE_1155 = {
+		name = en_Florian_Bertie
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_1155
+			cost = 150
+		}
+	}
+	SIE_1156 = {
+		name = en_Willard_Churchill
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { propaganda_expert }
+			slot = political_advisor
+			idea_token = i_1156
+			cost = 150
+		}
+	}
+	SIE_1157 = {
+		name = en_Jack_dyn_en_Manning
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_1157
+			cost = 150
+		}
+	}
+	SIE_1159 = {
+		name = en_Rupert_dyn_en_Lancaster
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_1159
+			cost = 150
+		}
+	}
+	SIE_3561 = {
+		name = en_Lambert_Williams-Wynn
+		portraits = {
+			army = {
+				large = GFX_Portrait_Europe_Generic_land_2
+				small = GFX_Portrait_Europe_Generic_land_2_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	SIE_3562 = {
+		name = en_Mat_Gathorne-Hardy
+		portraits = {
+			army = {
+				large = GFX_Portrait_Europe_Generic_land_1
+				small = GFX_Portrait_Europe_Generic_land_1_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	SIE_3568 = {
+		name = en_Yancy_dyn_en_Hopper
+		portraits = {
+			navy = {
+				large = GFX_portrait_europe_generic_navy_5
+				small = GFX_portrait_europe_generic_navy_5_small
+			}
+		}
+		navy_leader = {
+			traits = { caustic_personality old_guard_navy }
+			skill = 1
+			attack_skill = 2
+			defense_skill = 2
+			maneuvering_skill = 1
+			coordination_skill = 1
+		}
+	}
+	SIE_4614 = {
+		name = en_Jennings_dyn_en_York
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	SIE_33556927 = {
+		name = en_Joab_Falmouth
+		portraits = {
+			army = {
+				large = GFX_Portrait_europe_generic_land_6
+				small = GFX_Portrait_europe_generic_land_6_small
+			}
+		}
+		corps_commander = {
+			traits = { armor_officer organizer }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 3
+		}
+	}
+}

@@ -1,0 +1,25 @@
+state = {
+	id = 102
+	name = "STATE_102"
+	manpower = 1980231
+
+	state_category = rural
+
+	history = {
+		owner = KHL
+		victory_points = {
+			9084 20
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 6
+		}
+		add_core_of = KHL
+	}
+
+	provinces = {
+		8106 9084 10887 12005 
+	}
+}

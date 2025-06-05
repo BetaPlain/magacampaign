@@ -1,0 +1,116 @@
+ideas = {
+	country = {
+		BRD_Mwambutsa_II_Huma = {
+			allowed = {
+				original_tag = BRD
+			}
+
+			allowed_civil_war = {
+				original_tag = BRD
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		ENG_George_V_von_Habsburg = {
+			allowed = {
+				original_tag = ENG
+			}
+
+			allowed_civil_war = {
+				original_tag = ENG
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		HRE_Maximilian_III_von_Habsburg = {
+			allowed = {
+				original_tag = HRE
+			}
+
+			allowed_civil_war = {
+				original_tag = HRE
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		JAP_Yuuka_III_Yamato = {
+			allowed = {
+				original_tag = JAP
+			}
+
+			allowed_civil_war = {
+				original_tag = JAP
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		X43_Bui_I_Wagmunding = {
+			allowed = {
+				original_tag = X43
+			}
+
+			allowed_civil_war = {
+				original_tag = X43
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		X63_Muhammad_IX_al-Qazdughli = {
+			allowed = {
+				original_tag = X63
+			}
+
+			allowed_civil_war = {
+				original_tag = X63
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		X72_Sriranga_IX_Wodeyar = {
+			allowed = {
+				original_tag = X72
+			}
+
+			allowed_civil_war = {
+				original_tag = X72
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		X81_Alung_Yunus_I_Inland = {
+			allowed = {
+				original_tag = X81
+			}
+
+			allowed_civil_war = {
+				original_tag = X81
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+	}
+}

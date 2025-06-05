@@ -1,0 +1,197 @@
+characters = {
+	WAS_1380 = {
+		name = Shu_Li
+		portraits = {
+			civilian = {
+				large = GFX_portrait_asia_generic_4
+			}
+		}
+		country_leader = {
+			ideology = centrism
+			traits = {  }
+		}
+	}
+	WAS_1376 = {
+		name = Feng_Dakai
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_1376
+			cost = 150
+		}
+	}
+	WAS_1377 = {
+		name = Liu_Qiu
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_1377
+			cost = 150
+		}
+	}
+	WAS_1378 = {
+		name = Tsai_Qiu
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_1378
+			cost = 150
+		}
+	}
+	WAS_1379 = {
+		name = Soong_Yongfu
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_1379
+			cost = 150
+		}
+	}
+	WAS_1381 = {
+		name = Xie_Rengan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_1381
+			cost = 150
+		}
+	}
+	WAS_1382 = {
+		name = Shi_Xiuqing
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_1382
+			cost = 150
+		}
+	}
+	WAS_1383 = {
+		name = Zhang_Zicai
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1383
+			cost = 150
+		}
+	}
+	WAS_1993 = {
+		name = Qiyu_Du_Yunshan
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_3
+				small = GFX_Portrait_Asia_Generic_land_3_small
+			}
+		}
+		corps_commander = {
+			traits = { armor_officer organizer }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 3
+		}
+	}
+	WAS_1994 = {
+		name = Youbin_Zhao_Yunshan
+		portraits = {
+			navy = {
+				large = GFX_Portrait_asia_generic_navy_4
+				small = GFX_Portrait_asia_generic_navy_4_small
+			}
+		}
+		navy_leader = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			maneuvering_skill = 1
+			coordination_skill = 1
+		}
+	}
+	WAS_1995 = {
+		name = Liangguan_He_Dakai
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_4
+				small = GFX_Portrait_Asia_Generic_land_4_small
+			}
+		}
+		corps_commander = {
+			traits = { armor_officer infantry_officer }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 3
+			planning_skill = 1
+			logistics_skill = 2
+		}
+	}
+	WAS_1996 = {
+		name = Houzhao_Li_Dakai
+		portraits = {
+			navy = {
+				large = GFX_Portrait_Asia_Generic_navy_2
+				small = GFX_Portrait_Asia_Generic_navy_2_small
+			}
+		}
+		navy_leader = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			maneuvering_skill = 1
+			coordination_skill = 1
+		}
+	}
+	WAS_3840 = {
+		name = Xie_Yucheng
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_2
+				small = GFX_Portrait_Asia_Generic_land_2_small
+			}
+		}
+		corps_commander = {
+			traits = { harsh_leader trait_mountaineer }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 2
+		}
+	}
+}

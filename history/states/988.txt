@@ -1,0 +1,26 @@
+state = {
+	id = 988
+	name = "STATE_988"
+	manpower = 1864
+	resources = {
+		aluminium = 1
+		tungsten = 1
+	}
+
+	state_category = rural
+
+	history = {
+		owner = M22
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 5
+		}
+		add_core_of = M22
+	}
+
+	provinces = {
+		1557 12949 
+	}
+}

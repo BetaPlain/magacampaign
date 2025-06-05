@@ -1,0 +1,27 @@
+state = {
+	id = 199
+	name = "STATE_199"
+	manpower = 925514
+	resources = {
+		chromium = 9
+	}
+
+	state_category = town
+
+	history = {
+		owner = PER
+		victory_points = {
+			1459 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 1
+		}
+		add_core_of = PER
+	}
+
+	provinces = {
+		1459 10187 10488 11687 
+	}
+}

@@ -1,0 +1,151 @@
+characters = {
+	LUO_4319 = {
+		name = Wanyanga_Odinga
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Africa_Generic_3
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	LUO_816 = {
+		name = Okeyo_Adhiambo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_816
+			cost = 150
+		}
+	}
+	LUO_817 = {
+		name = Okoth_Adhiambo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_817
+			cost = 150
+		}
+	}
+	LUO_818 = {
+		name = Odongo_Ramogi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_818
+			cost = 150
+		}
+	}
+	LUO_819 = {
+		name = Waga_Obote
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_819
+			cost = 150
+		}
+	}
+	LUO_820 = {
+		name = Waga_Adhiambo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_820
+			cost = 150
+		}
+	}
+	LUO_821 = {
+		name = Wanyanga_p_Bitek
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_821
+			cost = 150
+		}
+	}
+	LUO_822 = {
+		name = Okeyo_Odinga
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_822
+			cost = 150
+		}
+	}
+	LUO_823 = {
+		name = Oso_Odinga
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_823
+			cost = 150
+		}
+	}
+	LUO_3144 = {
+		name = Waga_Odinga
+		portraits = {
+			army = {
+				large = GFX_Portrait_Africa_Generic_land_1
+				small = GFX_Portrait_Africa_Generic_land_1_small
+			}
+		}
+		corps_commander = {
+			traits = { desert_fox trait_cautious }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+	LUO_16779192 = {
+		name = Jaramobi_Odinga
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

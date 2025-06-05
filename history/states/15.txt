@@ -1,0 +1,30 @@
+state = {
+	id = 15
+	name = "STATE_15"
+	manpower = 5640422
+	resources = {
+		oil = 4
+		rubber = 50
+	}
+
+	state_category = town
+
+	history = {
+		owner = LAN
+		victory_points = {
+			1316 40
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 0
+			arms_factory = 0
+			dockyard = 1
+			air_base = 6
+		}
+		add_core_of = LAN
+	}
+
+	provinces = {
+		1230 1304 1316 2170 2222 4279 4335 4409 7227 8221 10282 10310 12129 12280 12955 
+	}
+}

@@ -1,0 +1,145 @@
+characters = {
+	TUA_4369 = {
+		name = Abareybon_Ikhia
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Africa_Generic_3
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	TUA_1240 = {
+		name = Moussa_ag_Muhammad
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_1240
+			cost = 150
+		}
+	}
+	TUA_1241 = {
+		name = Kiddu_Ikhia
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_1241
+			cost = 150
+		}
+	}
+	TUA_1242 = {
+		name = Ahmad_ag_Sidi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	TUA_1243 = {
+		name = Moussa_ag_Amastan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { communist_revolutionary }
+			slot = political_advisor
+			idea_token = i_1243
+			cost = 150
+		}
+	}
+	TUA_1244 = {
+		name = Aytarel_Ag_Alhabib
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1244
+			cost = 150
+		}
+	}
+	TUA_1245 = {
+		name = Abareybon_ag_Sidi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_1245
+			cost = 150
+		}
+	}
+	TUA_1246 = {
+		name = Kiddu_al-Hajj
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_1246
+			cost = 150
+		}
+	}
+	TUA_1247 = {
+		name = Attici_ag_Amastan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_1247
+			cost = 150
+		}
+	}
+	TUA_3674 = {
+		name = Issouf_Ikhia
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_Africa_Army_Generic_2
+				small = GFX_Portrait_South_Africa_Army_Generic_2_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	TUA_16778882 = {
+		name = In_Tayaden_Ikhia
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

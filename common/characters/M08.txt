@@ -1,0 +1,151 @@
+characters = {
+	M08_4321 = {
+		name = norm_Mequah_norm_Shxwowhamel
+		portraits = {
+			civilian = {
+				large = GFX_portrait_south_america_generic_8
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	M08_832 = {
+		name = norm_Kowahtough_norm_Tulalip
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_832
+			cost = 150
+		}
+	}
+	M08_833 = {
+		name = norm_Cheenlenten_norm_Chawathil
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_833
+			cost = 150
+		}
+	}
+	M08_834 = {
+		name = norm_Skwaikwi_norm_Siletz
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_834
+			cost = 150
+		}
+	}
+	M08_835 = {
+		name = norm_Quiaquatty_norm_Shishalh
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { editor }
+			slot = political_advisor
+			idea_token = i_835
+			cost = 150
+		}
+	}
+	M08_836 = {
+		name = norm_Luchalkanam_norm_Skilloot
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_836
+			cost = 150
+		}
+	}
+	M08_837 = {
+		name = norm_Chowitshoot_norm_Calapooya
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_837
+			cost = 150
+		}
+	}
+	M08_838 = {
+		name = norm_Anta_norm_Soowalhie
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_838
+			cost = 150
+		}
+	}
+	M08_839 = {
+		name = norm_Snah-talc_norm_Multnomah
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_839
+			cost = 150
+		}
+	}
+	M08_3164 = {
+		name = norm_Yackatee_norm_Swinomish
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_3
+				small = GFX_Portrait_South_America_Generic_land_3_small
+			}
+		}
+		corps_commander = {
+			traits = { harsh_leader ranger }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+	M08_4402 = {
+		name = norm_Hwehuk_norm_Shxwowhamel
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

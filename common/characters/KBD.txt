@@ -1,0 +1,151 @@
+characters = {
+	KBD_4313 = {
+		name = Fodey_Sekou
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_South_Africa_Political_Leader_Generic
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	KBD_752 = {
+		name = Hatab_Jammeh
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_752
+			cost = 150
+		}
+	}
+	KBD_753 = {
+		name = Brima_Conde
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_753
+			cost = 150
+		}
+	}
+	KBD_754 = {
+		name = Alhassani_Keita
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { silent_workhorse }
+			slot = political_advisor
+			idea_token = i_754
+			cost = 150
+		}
+	}
+	KBD_755 = {
+		name = Aoua_Conde
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_755
+			cost = 150
+		}
+	}
+	KBD_756 = {
+		name = Neneh_Conde
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_756
+			cost = 150
+		}
+	}
+	KBD_757 = {
+		name = Sekouba_Kanneh
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_757
+			cost = 150
+		}
+	}
+	KBD_758 = {
+		name = Foda_Kanneh
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_758
+			cost = 150
+		}
+	}
+	KBD_759 = {
+		name = Hatab_Diawara
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_759
+			cost = 150
+		}
+	}
+	KBD_3063 = {
+		name = Aoua_Jaabi
+		portraits = {
+			army = {
+				large = GFX_Portrait_Africa_Generic_land_4
+				small = GFX_Portrait_Africa_Generic_land_4_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	KBD_16777483 = {
+		name = Tejan_Sekou
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

@@ -1,0 +1,151 @@
+characters = {
+	OVM_4349 = {
+		name = Wambu_Mbande
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Africa_Generic_3
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	OVM_1072 = {
+		name = Nguvenge_Kaza
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { grand_fleet_proponent }
+			slot = political_advisor
+			idea_token = i_1072
+			cost = 150
+		}
+	}
+	OVM_1073 = {
+		name = Ciasungu_Mbande
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { fascist_demagogue }
+			slot = political_advisor
+			idea_token = i_1073
+			cost = 150
+		}
+	}
+	OVM_1074 = {
+		name = Kayangula_Vasovava
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_1074
+			cost = 150
+		}
+	}
+	OVM_1075 = {
+		name = Kahala_Mbande
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_1075
+			cost = 150
+		}
+	}
+	OVM_1076 = {
+		name = Vilombo_Matamba
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1076
+			cost = 150
+		}
+	}
+	OVM_1077 = {
+		name = Ngelo_Vasovava
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_1077
+			cost = 150
+		}
+	}
+	OVM_1078 = {
+		name = Wambu_Cilemo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_1078
+			cost = 150
+		}
+	}
+	OVM_1079 = {
+		name = Nguvenge_Cilemo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_1079
+			cost = 150
+		}
+	}
+	OVM_3462 = {
+		name = Ngelo_Kaza
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_Africa_Army_Generic
+				small = GFX_Portrait_South_Africa_Army_Generic_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	OVM_16777513 = {
+		name = Kapoko_Mbande
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

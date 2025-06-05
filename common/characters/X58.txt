@@ -1,0 +1,146 @@
+characters = {
+	X58_1545 = {
+		name = en_Lambert_dyn_en_Townsend
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Europe_Generic_3
+			}
+		}
+		country_leader = {
+			ideology = centrism
+			traits = {  }
+		}
+	}
+	X58_1544 = {
+		name = en_Milton_dyn_en_Kent
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { communist_revolutionary }
+			slot = political_advisor
+			idea_token = i_1544
+			cost = 150
+		}
+	}
+	X58_1546 = {
+		name = en_Rollo_Grey
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1546
+			cost = 150
+		}
+	}
+	X58_1547 = {
+		name = en_Timothy_dyn_en_Baldwin
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_1547
+			cost = 150
+		}
+	}
+	X58_1548 = {
+		name = en_Rupert_Crum-Ewing
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1548
+			cost = 150
+		}
+	}
+	X58_1549 = {
+		name = en_Adrian_dyn_en_Young
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_1549
+			cost = 150
+		}
+	}
+	X58_1550 = {
+		name = en_Raleigh_dyn_en_Willis
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_1550
+			cost = 150
+		}
+	}
+	X58_1551 = {
+		name = en_Valentine_dyn_en_Slater
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_1551
+			cost = 150
+		}
+	}
+	X58_2059 = {
+		name = Bartholemew_Delahaye_dyn_en_Webster
+		portraits = {
+			army = {
+				large = GFX_Portrait_Europe_Generic_land_4
+				small = GFX_Portrait_Europe_Generic_land_4_small
+			}
+		}
+		corps_commander = {
+			traits = { cavalry_officer organizer ranger }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+	X58_4057 = {
+		name = en_Leopold_dyn_en_Durham
+		portraits = {
+			navy = {
+				large = GFX_Portrait_Europe_Generic_navy_3
+				small = GFX_Portrait_Europe_Generic_navy_3_small
+			}
+		}
+		navy_leader = {
+			traits = { navy_career_officer }
+			skill = 2
+			attack_skill = 3
+			defense_skill = 1
+			maneuvering_skill = 3
+			coordination_skill = 2
+		}
+	}
+}

@@ -1,0 +1,279 @@
+characters = {
+	PER_1892 = {
+		name = Joneid_Timurid
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	PER_56 = {
+		name = fa_Hojjat_dyn_fa_Fallah
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_56
+			cost = 150
+		}
+	}
+	PER_57 = {
+		name = fa_Nema_Hakimi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_57
+			cost = 150
+		}
+	}
+	PER_58 = {
+		name = fa_Noushzad_dyn_fa_Namiri
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_58
+			cost = 150
+		}
+	}
+	PER_59 = {
+		name = fa_Teymour_dyn_fa_Heydari
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_59
+			cost = 150
+		}
+	}
+	PER_61 = {
+		name = fa_Newsha_dyn_fa_Ghaffari
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_61
+			cost = 150
+		}
+	}
+	PER_62 = {
+		name = fa_Jamsheed_dyn_fa_Rashedi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_62
+			cost = 150
+		}
+	}
+	PER_63 = {
+		name = fa_Madjid_dyn_fa_Sabbah
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_63
+			cost = 150
+		}
+	}
+	PER_1886 = {
+		name = Abu_l_Fath_Ahrari_dyn_ug_Qasim
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_3
+				small = GFX_Portrait_Asia_Generic_land_3_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	PER_1887 = {
+		name = Aga_Muhammad_Sabiri_dyn_ug_Dawamet
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_4
+				small = GFX_Portrait_Asia_Generic_land_4_small
+			}
+		}
+		field_marshal = {
+			traits = { harsh_leader organizer }
+			skill = 1
+			attack_skill = 2
+			defense_skill = 1
+			planning_skill = 2
+			logistics_skill = 1
+		}
+	}
+	PER_1888 = {
+		name = Aga_Muhammad_Dalwand_dyn_kk_Zhanseitov
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_3
+				small = GFX_Portrait_Asia_Generic_land_3_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	PER_1889 = {
+		name = Isma_il_Fatemi_dyn_fa_Zangenah
+		portraits = {
+			army = {
+				large = GFX_Portrait_Arabia_Generic_land_2
+				small = GFX_Portrait_Arabia_Generic_land_2_small
+			}
+		}
+		corps_commander = {
+			traits = { armor_officer organizer }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 4
+			logistics_skill = 1
+		}
+	}
+	PER_1894 = {
+		name = Allahyar_Sabiri_dyn_ug_Azizi
+		portraits = {
+			navy = {
+				large = GFX_Portrait_Asia_Generic_navy_1
+				small = GFX_Portrait_Asia_Generic_navy_1_small
+			}
+		}
+		navy_leader = {
+			traits = { arctic_water_expert }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			maneuvering_skill = 1
+			coordination_skill = 1
+		}
+	}
+	PER_1895 = {
+		name = Ja_far_Dalwand_dyn_fa_Moghdam
+		portraits = {
+			army = {
+				large = GFX_Portrait_Arabia_Generic_land_1
+				small = GFX_Portrait_Arabia_Generic_land_1_small
+			}
+		}
+		corps_commander = {
+			traits = { infantry_officer ranger }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 3
+			planning_skill = 2
+			logistics_skill = 2
+		}
+	}
+	PER_1896 = {
+		name = Shah_Rukh_Sabiri_dyn_fa_Yakhi
+		portraits = {
+			army = {
+				large = GFX_Portrait_Arabia_Generic_land_3
+				small = GFX_Portrait_Arabia_Generic_land_3_small
+			}
+		}
+		corps_commander = {
+			traits = { trait_cautious }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 2
+			logistics_skill = 1
+		}
+	}
+	PER_1897 = {
+		name = Ebrahim_Qazai_dyn_kk_Zhamshitov
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_4
+				small = GFX_Portrait_Asia_Generic_land_4_small
+			}
+		}
+		corps_commander = {
+			traits = { armor_officer }
+			skill = 2
+			attack_skill = 3
+			defense_skill = 2
+			planning_skill = 2
+			logistics_skill = 2
+		}
+	}
+	PER_2196 = {
+		name = fa_Dadbeh_Astarabadi
+		portraits = {
+			navy = {
+				large = GFX_Portrait_Arabia_Generic_navy_3
+				small = GFX_Portrait_Arabia_Generic_navy_3_small
+			}
+		}
+		navy_leader = {
+			traits = { naval_lineage }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			maneuvering_skill = 1
+			coordination_skill = 3
+		}
+	}
+	PER_16779674 = {
+		name = uz_Jamshid_dyn_uz_Khaydarov
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { grand_fleet_proponent }
+			slot = political_advisor
+			idea_token = i_16779674
+			cost = 150
+		}
+	}
+}

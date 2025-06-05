@@ -1,0 +1,24 @@
+state = {
+	id = 976
+	name = "STATE_976"
+	manpower = 1784
+	resources = {
+		chromium = 0
+	}
+
+	state_category = rural
+
+	history = {
+		owner = WTI
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = WTI
+	}
+
+	provinces = {
+		5197 
+	}
+}

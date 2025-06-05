@@ -1,0 +1,174 @@
+characters = {
+	X84_2101 = {
+		name = Inayat_VII_Pasai
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	X84_1616 = {
+		name = ms_Jiwa_dyn_ms_Izzat
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_1616
+			cost = 150
+		}
+	}
+	X84_1617 = {
+		name = ms_Jaya_dyn_ms_Noh
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { ideological_crusader }
+			slot = political_advisor
+			idea_token = i_1617
+			cost = 150
+		}
+	}
+	X84_1618 = {
+		name = ms_Sabtu_dyn_ms_Yaakop
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_1618
+			cost = 150
+		}
+	}
+	X84_1620 = {
+		name = ms_Deris_Jamalullail
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_1620
+			cost = 150
+		}
+	}
+	X84_1622 = {
+		name = ms_Mamat_dyn_ms_Adi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_1622
+			cost = 150
+		}
+	}
+	X84_1623 = {
+		name = ms_Jusoh_bin_Nik
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { editor }
+			slot = political_advisor
+			idea_token = i_1623
+			cost = 150
+		}
+	}
+	X84_2098 = {
+		name = Iskandar_Tani_Amir_dyn_ms_Raja
+		portraits = {
+			navy = {
+				large = GFX_Portrait_asia_generic_navy_4
+				small = GFX_Portrait_asia_generic_navy_4_small
+			}
+		}
+		navy_leader = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			maneuvering_skill = 1
+			coordination_skill = 1
+		}
+	}
+	X84_2100 = {
+		name = Inayat_Pasai
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_2100
+			cost = 150
+		}
+	}
+	X84_4143 = {
+		name = ms_Uda_Jamalullail
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_4
+				small = GFX_Portrait_Asia_Generic_land_4_small
+			}
+		}
+		corps_commander = {
+			traits = { naval_invader }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 2
+			logistics_skill = 2
+		}
+	}
+	X84_16777484 = {
+		name = ms_Izzat_dyn_ms_Ujang
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_16777484
+			cost = 150
+		}
+	}
+	X84_16781837 = {
+		name = ms_Jantan_dyn_ms_Jiwa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_16781837
+			cost = 150
+		}
+	}
+}

@@ -1,0 +1,16 @@
+state = {
+	id = 917
+	name = "STATE_917"
+	manpower = 46791
+
+	state_category = wasteland
+	impassable = yes
+
+	history = {
+		owner = OUA
+	}
+
+	provinces = {
+		1897 1962 7943 8035 10779 10838 
+	}
+}

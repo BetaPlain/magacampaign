@@ -1,0 +1,151 @@
+characters = {
+	OUA_4348 = {
+		name = Farraj_al-Zahrawi
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Africa_Generic_3
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	OUA_1064 = {
+		name = Nasr_Zuhr
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { grand_fleet_proponent }
+			slot = political_advisor
+			idea_token = i_1064
+			cost = 150
+		}
+	}
+	OUA_1065 = {
+		name = Ibn_Muhammad_Battuta
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_1065
+			cost = 150
+		}
+	}
+	OUA_1066 = {
+		name = Yazid_al-Majriti
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_1066
+			cost = 150
+		}
+	}
+	OUA_1067 = {
+		name = Ufayr_al-Rahman
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1067
+			cost = 150
+		}
+	}
+	OUA_1068 = {
+		name = Mujahid_al-Zahrawi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_1068
+			cost = 150
+		}
+	}
+	OUA_1069 = {
+		name = Asim_Tufail
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_1069
+			cost = 150
+		}
+	}
+	OUA_1070 = {
+		name = Abbas_Zuhr
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_1070
+			cost = 150
+		}
+	}
+	OUA_1071 = {
+		name = Yunus_al-Idrisi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_1071
+			cost = 150
+		}
+	}
+	OUA_3451 = {
+		name = Yazid_Khaldon
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_Africa_Army_Generic
+				small = GFX_Portrait_South_Africa_Army_Generic_small
+			}
+		}
+		corps_commander = {
+			traits = { infantry_officer organizer }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+	OUA_4579 = {
+		name = Malamah_al-Zahrawi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

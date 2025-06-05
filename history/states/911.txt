@@ -1,0 +1,27 @@
+state = {
+	id = 911
+	name = "STATE_911"
+	manpower = 26597
+	resources = {
+		steel = 0
+	}
+
+	state_category = rural
+
+	history = {
+		owner = W32
+		victory_points = {
+			7079 1
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = W32
+	}
+
+	provinces = {
+		5078 7079 9989 10061 11910 11967 12033 12091 
+	}
+}

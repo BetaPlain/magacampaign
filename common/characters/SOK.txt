@@ -1,0 +1,151 @@
+characters = {
+	SOK_4361 = {
+		name = Abdullahi_Bayero
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_South_Africa_Political_Leader_Generic
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	SOK_1176 = {
+		name = Tidiani_Saraki
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1176
+			cost = 150
+		}
+	}
+	SOK_1177 = {
+		name = Yusufu_Toorodi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_1177
+			cost = 150
+		}
+	}
+	SOK_1178 = {
+		name = Usman_Dadi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_1178
+			cost = 150
+		}
+	}
+	SOK_1179 = {
+		name = Muhammed_Saraki
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1179
+			cost = 150
+		}
+	}
+	SOK_1180 = {
+		name = Amadu_Bayero
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_1180
+			cost = 150
+		}
+	}
+	SOK_1181 = {
+		name = Dan_zaki
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_1181
+			cost = 150
+		}
+	}
+	SOK_1182 = {
+		name = Alfa_Toorodi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_1182
+			cost = 150
+		}
+	}
+	SOK_1183 = {
+		name = Usman_zaki
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_1183
+			cost = 150
+		}
+	}
+	SOK_3592 = {
+		name = Usman_Bayero
+		portraits = {
+			army = {
+				large = GFX_Portrait_Africa_Generic_land_2
+				small = GFX_Portrait_Africa_Generic_land_2_small
+			}
+		}
+		corps_commander = {
+			traits = { cavalry_officer ranger }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+	SOK_4575 = {
+		name = Umar_Bayero
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

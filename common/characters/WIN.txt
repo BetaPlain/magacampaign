@@ -1,0 +1,189 @@
+characters = {
+	WIN_1998 = {
+		name = Isaac_Moore_dyn_en_Walker
+		portraits = {
+			army = {
+				large = GFX_Portrait_Europe_Generic_land_3
+				small = GFX_Portrait_Europe_Generic_land_3_small
+			}
+			civilian = {
+				large = GFX_Portrait_Europe_Generic_land_3
+			}
+		}
+		country_leader = {
+			ideology = centrism
+			traits = {  }
+		}
+		field_marshal = {
+			traits = { career_officer }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 2
+			logistics_skill = 1
+		}
+	}
+	WIN_185 = {
+		name = en_Milton_Crowninshield
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_185
+			cost = 150
+		}
+	}
+	WIN_186 = {
+		name = en_Randolph_dyn_en_Underwood
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_186
+			cost = 150
+		}
+	}
+	WIN_187 = {
+		name = en_Vivian_dyn_en_Compton
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_187
+			cost = 150
+		}
+	}
+	WIN_188 = {
+		name = en_Thaddeus_Saltonstall
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_188
+			cost = 150
+		}
+	}
+	WIN_189 = {
+		name = en_Colin_dyn_en_Brewer
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_189
+			cost = 150
+		}
+	}
+	WIN_190 = {
+		name = en_Guy_dyn_en_Johnson
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { propaganda_expert }
+			slot = political_advisor
+			idea_token = i_190
+			cost = 150
+		}
+	}
+	WIN_191 = {
+		name = en_Ivor_dyn_en_Henry
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_191
+			cost = 150
+		}
+	}
+	WIN_1999 = {
+		name = John_Rooke_dyn_en_Stout
+		portraits = {
+			army = {
+				large = GFX_Portrait_USA_Generic_land_7
+				small = GFX_Portrait_USA_Generic_land_7_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	WIN_2000 = {
+		name = Francis_Braddock_dyn_en_Wright
+		portraits = {
+			navy = {
+				large = GFX_Portrait_USA_Generic_navy_2
+				small = GFX_Portrait_USA_Generic_navy_2_small
+			}
+		}
+		navy_leader = {
+			traits = { cuts_corners }
+			skill = 1
+			attack_skill = 2
+			defense_skill = 1
+			maneuvering_skill = 2
+			coordination_skill = 1
+		}
+	}
+	WIN_2350 = {
+		name = en_George_Winthrop
+		portraits = {
+			army = {
+				large = GFX_Portrait_USA_Generic_land_4
+				small = GFX_Portrait_USA_Generic_land_4_small
+			}
+		}
+		corps_commander = {
+			traits = { cavalry_officer commando }
+			skill = 2
+			attack_skill = 3
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 2
+		}
+	}
+	WIN_16780757 = {
+		name = en_Gary_Crowninshield
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_16780757
+			cost = 150
+		}
+	}
+}

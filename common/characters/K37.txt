@@ -1,0 +1,146 @@
+characters = {
+	K37_4310 = {
+		name = Eloy_Panapi
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_1
+				small = GFX_Portrait_South_America_Generic_land_1_small
+			}
+			civilian = {
+				large = GFX_Portrait_South_America_Generic_land_1
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+		field_marshal = {
+			traits = { armor_officer logistics_wizard old_guard organizer }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 3
+			planning_skill = 1
+			logistics_skill = 3
+		}
+	}
+	K37_728 = {
+		name = Marco_Lorenzano
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_728
+			cost = 150
+		}
+	}
+	K37_729 = {
+		name = Francisco_Lopez
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_729
+			cost = 150
+		}
+	}
+	K37_730 = {
+		name = Brigido_Pae_z
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_730
+			cost = 150
+		}
+	}
+	K37_731 = {
+		name = Ebedimu_Rivero
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_731
+			cost = 150
+		}
+	}
+	K37_732 = {
+		name = Gunfuli_Panapi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_732
+			cost = 150
+		}
+	}
+	K37_733 = {
+		name = Damaso_Zapata
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_733
+			cost = 150
+		}
+	}
+	K37_734 = {
+		name = Enes_Lorenzano
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_734
+			cost = 150
+		}
+	}
+	K37_735 = {
+		name = Segundo_Lopez
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_735
+			cost = 150
+		}
+	}
+	K37_16779270 = {
+		name = Aurelio_Panapi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

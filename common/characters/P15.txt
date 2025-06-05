@@ -1,0 +1,151 @@
+characters = {
+	P15_4350 = {
+		name = au_Mangajay_Injinoo
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Asia_Generic_3
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	P15_1080 = {
+		name = au_Mangajay_Dhiraila
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_1080
+			cost = 150
+		}
+	}
+	P15_1081 = {
+		name = au_Kambara_Giabal
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_1081
+			cost = 150
+		}
+	}
+	P15_1082 = {
+		name = au_Woorin_dyn_au_Mpetyane
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_1082
+			cost = 150
+		}
+	}
+	P15_1083 = {
+		name = au_Nioka_Tepiti
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { fascist_demagogue }
+			slot = political_advisor
+			idea_token = i_1083
+			cost = 150
+		}
+	}
+	P15_1084 = {
+		name = au_Nioka_Rakaya
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1084
+			cost = 150
+		}
+	}
+	P15_1085 = {
+		name = au_Meernaa_Agwamin
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { ideological_crusader }
+			slot = political_advisor
+			idea_token = i_1085
+			cost = 150
+		}
+	}
+	P15_1086 = {
+		name = au_Miki_dyn_au_Payungka
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_1086
+			cost = 150
+		}
+	}
+	P15_1087 = {
+		name = au_Mallee_dyn_au_Booboorowie
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_1087
+			cost = 150
+		}
+	}
+	P15_3471 = {
+		name = au_Malalapay_dyn_au_Namok
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_2
+				small = GFX_Portrait_Asia_Generic_land_2_small
+			}
+		}
+		corps_commander = {
+			traits = { armor_officer organizer }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 3
+		}
+	}
+	P15_4611 = {
+		name = au_Konol_Injinoo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

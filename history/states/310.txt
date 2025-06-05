@@ -1,0 +1,32 @@
+state = {
+	id = 310
+	name = "STATE_310"
+	manpower = 1917041
+	resources = {
+		aluminium = 4
+		steel = 16
+	}
+
+	state_category = rural
+
+	history = {
+		owner = ENG
+		victory_points = {
+			377 1
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+			407 = {
+				naval_base = 1
+			}
+			air_base = 1
+		}
+		add_core_of = ENG
+	}
+
+	provinces = {
+		253 311 377 407 3274 6363 9364 11361 
+	}
+}

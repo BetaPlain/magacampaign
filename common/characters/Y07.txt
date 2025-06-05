@@ -1,0 +1,143 @@
+characters = {
+	Y07_2115 = {
+		name = Gelar_Adoni_dyn_au_Namatjira
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			traits = {  }
+		}
+	}
+	Y07_1664 = {
+		name = au_Dural_Tepiti
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_1664
+			cost = 150
+		}
+	}
+	Y07_1667 = {
+		name = au_Gelar_dyn_au_Tudawali
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_1667
+			cost = 150
+		}
+	}
+	Y07_1668 = {
+		name = au_Parri_Rakaya
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1668
+			cost = 150
+		}
+	}
+	Y07_1669 = {
+		name = au_Nuni_dyn_au_Kwaymullina
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_1669
+			cost = 150
+		}
+	}
+	Y07_1670 = {
+		name = au_Nowra_dyn_au_Petyarre
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_1670
+			cost = 150
+		}
+	}
+	Y07_1671 = {
+		name = au_Callagun_dyn_au_Barambah
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_1671
+			cost = 150
+		}
+	}
+	Y07_4201 = {
+		name = au_Koorong_Injinoo
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_1
+				small = GFX_Portrait_Asia_Generic_land_1_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	Y07_4601 = {
+		name = au_Warrain_dyn_au_Booboorowie
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_4601
+			cost = 150
+		}
+	}
+	Y07_33556473 = {
+		name = au_Yarrawah_dyn_au_Mawurndjul
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_33556473
+			cost = 150
+		}
+	}
+}

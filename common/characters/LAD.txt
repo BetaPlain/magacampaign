@@ -1,0 +1,151 @@
+characters = {
+	LAD_1840 = {
+		name = Lotus_I_Qoli
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	LAD_80 = {
+		name = fa_Forouq_Bakhtiari
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_80
+			cost = 150
+		}
+	}
+	LAD_81 = {
+		name = fa_Kiumars_dyn_fa_Iravan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_81
+			cost = 150
+		}
+	}
+	LAD_82 = {
+		name = fa_Pirous_dyn_fa_Bayat
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_82
+			cost = 150
+		}
+	}
+	LAD_83 = {
+		name = fa_Ardeshir_Qajar
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_83
+			cost = 150
+		}
+	}
+	LAD_84 = {
+		name = fa_Behrooz_Astarabadi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_84
+			cost = 150
+		}
+	}
+	LAD_85 = {
+		name = fa_Esfandiar_dyn_fa_Torabi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_85
+			cost = 150
+		}
+	}
+	LAD_86 = {
+		name = fa_Javeed_dyn_fa_Moradzadeh
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_86
+			cost = 150
+		}
+	}
+	LAD_87 = {
+		name = fa_Farjad_dyn_fa_Namiri
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_87
+			cost = 150
+		}
+	}
+	LAD_1839 = {
+		name = Gyalpo_Qoli
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	LAD_2222 = {
+		name = fa_Tabriz_al-Saltaneh
+		portraits = {
+			army = {
+				large = GFX_Portrait_Arabia_Generic_land_3
+				small = GFX_Portrait_Arabia_Generic_land_3_small
+			}
+		}
+		corps_commander = {
+			traits = { organizer trait_reckless }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 1
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+}

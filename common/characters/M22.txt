@@ -1,0 +1,151 @@
+characters = {
+	M22_4322 = {
+		name = au_Parri_Gulngay
+		portraits = {
+			civilian = {
+				large = GFX_portrait_asia_generic_4
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	M22_848 = {
+		name = au_Jirra_dyn_au_Minniecon
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_848
+			cost = 150
+		}
+	}
+	M22_849 = {
+		name = au_Barega_Rakaya
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_849
+			cost = 150
+		}
+	}
+	M22_850 = {
+		name = au_Matong_Ayabakan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_850
+			cost = 150
+		}
+	}
+	M22_851 = {
+		name = au_Taree_Ayabakan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_851
+			cost = 150
+		}
+	}
+	M22_852 = {
+		name = au_Derain_Injinoo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_852
+			cost = 150
+		}
+	}
+	M22_853 = {
+		name = au_Meernaa_dyn_au_Mununggurr
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_853
+			cost = 150
+		}
+	}
+	M22_854 = {
+		name = au_Koora_dyn_au_Nganjmirra
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_854
+			cost = 150
+		}
+	}
+	M22_855 = {
+		name = au_Miro_dyn_au_Bropho
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_855
+			cost = 150
+		}
+	}
+	M22_3182 = {
+		name = au_Balun_Gulngay
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_3
+				small = GFX_Portrait_Asia_Generic_land_3_small
+			}
+		}
+		corps_commander = {
+			traits = { infantry_officer old_guard }
+			skill = 1
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	M22_4578 = {
+		name = au_Konol_Gulngay
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

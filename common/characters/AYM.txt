@@ -1,0 +1,129 @@
+characters = {
+	AYM_249 = {
+		name = Roberto_Sisa
+		portraits = {
+			civilian = {
+				large = GFX_portrait_south_america_generic_9
+			}
+		}
+		country_leader = {
+			ideology = centrism
+			traits = {  }
+		}
+	}
+	AYM_250 = {
+		name = Ramon_Yllanes
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_250
+			cost = 150
+		}
+	}
+	AYM_252 = {
+		name = Mario_Sisa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_252
+			cost = 150
+		}
+	}
+	AYM_253 = {
+		name = Carlos_Quispe
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_253
+			cost = 150
+		}
+	}
+	AYM_254 = {
+		name = Santiago_Hoffmann
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { ideological_crusader }
+			slot = political_advisor
+			idea_token = i_254
+			cost = 150
+		}
+	}
+	AYM_255 = {
+		name = Ramon_Choquehuanca
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_255
+			cost = 150
+		}
+	}
+	AYM_2433 = {
+		name = Facundo_Yucra
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_4
+				small = GFX_Portrait_South_America_Generic_land_4_small
+			}
+		}
+		corps_commander = {
+			traits = { inflexible_strategist organizer }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 3
+		}
+	}
+	AYM_16777276 = {
+		name = Marcos_Puma
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_backstabber }
+			slot = political_advisor
+			idea_token = i_16777276
+			cost = 150
+		}
+	}
+	AYM_33557913 = {
+		name = Marcos_Sisa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { editor }
+			slot = political_advisor
+			idea_token = i_33557913
+			cost = 150
+		}
+	}
+}

@@ -1,0 +1,134 @@
+characters = {
+	K32_4309 = {
+		name = norm_Raoni_norm_Itueto
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_2
+				small = GFX_Portrait_South_America_Generic_land_2_small
+			}
+			civilian = {
+				large = GFX_Portrait_South_America_Generic_land_2
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+		field_marshal = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	K32_720 = {
+		name = norm_Caracara_norm_Gutucrac
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_720
+			cost = 150
+		}
+	}
+	K32_721 = {
+		name = norm_Karupoto_norm_Naknyanuk
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_721
+			cost = 150
+		}
+	}
+	K32_722 = {
+		name = norm_Jandui_norm_Minhagiran
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_722
+			cost = 150
+		}
+	}
+	K32_723 = {
+		name = norm_Kerioukeiou_norm_Minhagiran
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	K32_724 = {
+		name = norm_Karupoto_norm_Nakrehe
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_724
+			cost = 150
+		}
+	}
+	K32_725 = {
+		name = norm_Karupoto_norm_Itueto
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	K32_726 = {
+		name = norm_Janduwy_norm_Krekmun
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_726
+			cost = 150
+		}
+	}
+	K32_727 = {
+		name = norm_Janduwy_norm_Gutucrac
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_727
+			cost = 150
+		}
+	}
+	K32_4577 = {
+		name = norm_Karupoto_norm_Itueto
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

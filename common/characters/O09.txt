@@ -1,0 +1,151 @@
+characters = {
+	O09_4347 = {
+		name = Diogo_Tibirica
+		portraits = {
+			civilian = {
+				large = GFX_portrait_south_america_generic_8
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	O09_1056 = {
+		name = Henrique_Piquerobi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1056
+			cost = 150
+		}
+	}
+	O09_1057 = {
+		name = Alvaro_Caiubi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_1057
+			cost = 150
+		}
+	}
+	O09_1058 = {
+		name = Paulo_Jaguaranha
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_1058
+			cost = 150
+		}
+	}
+	O09_1059 = {
+		name = Gabriel_Piquerobi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_1059
+			cost = 150
+		}
+	}
+	O09_1060 = {
+		name = Sergio_Paraguacu
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_1060
+			cost = 150
+		}
+	}
+	O09_1061 = {
+		name = Henrique_Tamoios
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_1061
+			cost = 150
+		}
+	}
+	O09_1062 = {
+		name = Fernando_Tupinamba
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_1062
+			cost = 150
+		}
+	}
+	O09_1063 = {
+		name = Henrique_Tabajara
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_1063
+			cost = 150
+		}
+	}
+	O09_3444 = {
+		name = Inacio_Tamoios
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_3
+				small = GFX_Portrait_South_America_Generic_land_3_small
+			}
+		}
+		corps_commander = {
+			traits = { inflexible_strategist organizer }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 3
+		}
+	}
+	O09_4602 = {
+		name = Sergio_Tibirica
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

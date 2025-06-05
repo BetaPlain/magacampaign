@@ -1,0 +1,29 @@
+state = {
+	id = 16
+	name = "STATE_16"
+	manpower = 7086681
+	resources = {
+		aluminium = 2
+		steel = 2
+	}
+
+	state_category = town
+
+	history = {
+		owner = PER
+		victory_points = {
+			9958 1
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 1
+			air_base = 1
+		}
+		add_core_of = PER
+	}
+
+	provinces = {
+		1004 1139 1603 4058 4114 4144 4158 4519 4547 6932 7074 7459 7508 7540 7568 7656 9958 10364 10434 10446 11931 12012 12426 
+	}
+}

@@ -1,0 +1,151 @@
+characters = {
+	GGO_4296 = {
+		name = Fabunni_Zwagendaba
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_South_Africa_Political_Leader_Generic
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	GGO_608 = {
+		name = Razi_Watuta
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_608
+			cost = 150
+		}
+	}
+	GGO_609 = {
+		name = Khairi_Kasanda
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_609
+			cost = 150
+		}
+	}
+	GGO_610 = {
+		name = Genet_Mkasiwa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_610
+			cost = 150
+		}
+	}
+	GGO_611 = {
+		name = Chata_Bulungute
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_611
+			cost = 150
+		}
+	}
+	GGO_612 = {
+		name = Jabari_Watuta
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_612
+			cost = 150
+		}
+	}
+	GGO_613 = {
+		name = Jaguan_Bulungute
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_613
+			cost = 150
+		}
+	}
+	GGO_614 = {
+		name = Mansa_Mnywasele
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_614
+			cost = 150
+		}
+	}
+	GGO_615 = {
+		name = Davu_Msemwa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_615
+			cost = 150
+		}
+	}
+	GGO_2880 = {
+		name = Kamwimbile_Watuta
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_Africa_Army_Generic_2
+				small = GFX_Portrait_South_Africa_Army_Generic_2_small
+			}
+		}
+		corps_commander = {
+			traits = { naval_invader }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 2
+			logistics_skill = 2
+		}
+	}
+	GGO_16779712 = {
+		name = Bayode_Zwagendaba
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

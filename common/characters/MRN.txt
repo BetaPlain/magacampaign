@@ -1,0 +1,151 @@
+characters = {
+	MRN_4333 = {
+		name = au_Yileen_Dhiraila
+		portraits = {
+			civilian = {
+				large = GFX_portrait_asia_generic_4
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	MRN_936 = {
+		name = au_Cobar_dyn_au_Ah_Kit
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { editor }
+			slot = political_advisor
+			idea_token = i_936
+			cost = 150
+		}
+	}
+	MRN_937 = {
+		name = au_Nioka_dyn_au_Ngale
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_937
+			cost = 150
+		}
+	}
+	MRN_938 = {
+		name = au_Ngayunya_Ayabakan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_938
+			cost = 150
+		}
+	}
+	MRN_939 = {
+		name = au_Kolet_Kutjal
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_939
+			cost = 150
+		}
+	}
+	MRN_940 = {
+		name = au_Leewan_Giabal
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_940
+			cost = 150
+		}
+	}
+	MRN_941 = {
+		name = au_Petyarre_Tepiti
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_941
+			cost = 150
+		}
+	}
+	MRN_942 = {
+		name = au_Narrah_dyn_au_Deeral
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_942
+			cost = 150
+		}
+	}
+	MRN_943 = {
+		name = au_Cowan_Rakaya
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_943
+			cost = 150
+		}
+	}
+	MRN_3292 = {
+		name = au_Dhrean_Agwamin
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_2
+				small = GFX_Portrait_Asia_Generic_land_2_small
+			}
+		}
+		corps_commander = {
+			traits = { desert_fox harsh_leader }
+			skill = 2
+			attack_skill = 3
+			defense_skill = 1
+			planning_skill = 2
+			logistics_skill = 1
+		}
+	}
+	MRN_4580 = {
+		name = au_Tana_Dhiraila
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

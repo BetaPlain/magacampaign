@@ -1,0 +1,27 @@
+state = {
+	id = 910
+	name = "STATE_910"
+	manpower = 42992
+	resources = {
+		oil = 6
+	}
+
+	state_category = rural
+
+	history = {
+		owner = UTE
+		victory_points = {
+			1658 1
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = UTE
+	}
+
+	provinces = {
+		1658 3869 6887 7684 10535 
+	}
+}

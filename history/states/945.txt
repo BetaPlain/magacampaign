@@ -1,0 +1,25 @@
+state = {
+	id = 945
+	name = "STATE_945"
+	manpower = 11460
+	resources = {
+		aluminium = 0
+	}
+
+	state_category = rural
+
+	history = {
+		owner = K37
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 5
+		}
+		add_core_of = K37
+	}
+
+	provinces = {
+		13083 13322 13323 13343 
+	}
+}

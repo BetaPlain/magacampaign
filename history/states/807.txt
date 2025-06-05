@@ -1,0 +1,29 @@
+state = {
+	id = 807
+	name = "STATE_807"
+	manpower = 318369
+	resources = {
+		chromium = 4
+		oil = 1
+	}
+
+	state_category = rural
+
+	history = {
+		owner = DNK
+		victory_points = {
+			7996 10
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 5
+		}
+		add_core_of = DNK
+	}
+
+	provinces = {
+		1953 2096 4033 7996 10908 
+	}
+}

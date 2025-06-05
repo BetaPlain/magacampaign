@@ -1,0 +1,27 @@
+state = {
+	id = 247
+	name = "STATE_247"
+	manpower = 729531
+	resources = {
+		steel = 3
+	}
+
+	state_category = town
+
+	history = {
+		owner = PLC
+		victory_points = {
+			11202 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+		}
+		add_core_of = PLC
+	}
+
+	provinces = {
+		207 248 354 415 3310 3333 3344 6242 6293 6324 9242 9254 9287 9331 9353 11202 11234 11353 11392 
+	}
+}

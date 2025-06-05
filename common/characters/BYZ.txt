@@ -1,0 +1,282 @@
+characters = {
+	BYZ_165 = {
+		name = el_Pantelis_dyn_el_Petridis
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_europe_generic_7
+			}
+		}
+		country_leader = {
+			ideology = gen_nazism
+			traits = {  }
+		}
+	}
+	BYZ_160 = {
+		name = el_Sophocles_Ypsilantis
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_160
+			cost = 150
+		}
+	}
+	BYZ_161 = {
+		name = el_Evgenios_Zarbas
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_161
+			cost = 150
+		}
+	}
+	BYZ_162 = {
+		name = el_Antonis_dyn_el_Kitromilides
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_162
+			cost = 150
+		}
+	}
+	BYZ_163 = {
+		name = el_Zaharias_dyn_el_Georgiadis
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_163
+			cost = 150
+		}
+	}
+	BYZ_164 = {
+		name = el_Alexiou_Theotokis
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_164
+			cost = 150
+		}
+	}
+	BYZ_166 = {
+		name = el_Stylianos_dyn_el_Vasilakis
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_166
+			cost = 150
+		}
+	}
+	BYZ_167 = {
+		name = el_Athones_dyn_el_Anagnostou
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_167
+			cost = 150
+		}
+	}
+	BYZ_1741 = {
+		name = Anastasios_Diogenes_dyn_el_Drakopoulos
+		portraits = {
+			army = {
+				large = GFX_Portrait_Europe_Generic_land_4
+				small = GFX_Portrait_Europe_Generic_land_4_small
+			}
+		}
+		field_marshal = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	BYZ_1742 = {
+		name = Ioannes_Gabras_dyn_el_Tsakiris
+		portraits = {
+			army = {
+				large = GFX_portrait_europe_generic_land_8
+				small = GFX_portrait_europe_generic_land_8_small
+			}
+		}
+		corps_commander = {
+			traits = { armor_officer organizer }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 3
+		}
+	}
+	BYZ_1744 = {
+		name = Stephanos_Basileous_dyn_el_Raptis
+		portraits = {
+			army = {
+				large = GFX_portrait_europe_generic_land_7
+				small = GFX_portrait_europe_generic_land_7_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 2
+		}
+	}
+	BYZ_1745 = {
+		name = Elpidios_Zarides_dyn_el_Vassiliadis
+		portraits = {
+			army = {
+				large = GFX_Portrait_Europe_Generic_land_5
+				small = GFX_Portrait_Europe_Generic_land_5_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	BYZ_1746 = {
+		name = Kyrillos_Rhodocanakis_dyn_el_Demataki
+		portraits = {
+			army = {
+				large = GFX_portrait_europe_generic_land_13
+				small = GFX_portrait_europe_generic_land_13_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	BYZ_1747 = {
+		name = Michael_Nestongos_dyn_el_Louganis
+		portraits = {
+			army = {
+				large = GFX_Portrait_Europe_Generic_land_3
+				small = GFX_Portrait_Europe_Generic_land_3_small
+			}
+		}
+		corps_commander = {
+			traits = { organizer }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+	BYZ_1748 = {
+		name = Theodosios_Mouzalon_dyn_el_Pantelakos
+		portraits = {
+			army = {
+				large = GFX_Portrait_Europe_Generic_land_2
+				small = GFX_Portrait_Europe_Generic_land_2_small
+			}
+		}
+		corps_commander = {
+			traits = { armor_officer trait_cautious }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 2
+			logistics_skill = 2
+		}
+	}
+	BYZ_1749 = {
+		name = Adrianos_Phrangopoulos_dyn_el_Soukis
+		portraits = {
+			army = {
+				large = GFX_Portrait_Europe_Generic_land_1
+				small = GFX_Portrait_Europe_Generic_land_1_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	BYZ_2325 = {
+		name = el_Savas_dyn_el_Melissanides
+		portraits = {
+			navy = {
+				large = GFX_portrait_europe_generic_navy_4
+				small = GFX_portrait_europe_generic_navy_4_small
+			}
+		}
+		navy_leader = {
+			traits = { chief_engineer gentlemanly }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			maneuvering_skill = 2
+			coordination_skill = 1
+		}
+	}
+	BYZ_2327 = {
+		name = el_Pantelis_Nikas
+		portraits = {
+			navy = {
+				large = GFX_Portrait_Europe_Generic_navy_2
+				small = GFX_Portrait_Europe_Generic_navy_2_small
+			}
+		}
+		navy_leader = {
+			traits = { gentlemanly }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			maneuvering_skill = 1
+			coordination_skill = 3
+		}
+	}
+}

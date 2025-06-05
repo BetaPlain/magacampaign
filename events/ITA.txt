@@ -1,0 +1,6 @@
+﻿add_namespace = ITA
+
+country_event = {
+	id = sample_event
+
+}

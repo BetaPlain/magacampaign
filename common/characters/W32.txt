@@ -1,0 +1,158 @@
+characters = {
+	W32_1354 = {
+		name = it_Ferruccio_dyn_it_Garzia
+		portraits = {
+			army = {
+				large = GFX_Portrait_Europe_Generic_land_3
+				small = GFX_Portrait_Europe_Generic_land_3_small
+			}
+			civilian = {
+				large = GFX_Portrait_Europe_Generic_land_3
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			traits = {  }
+		}
+		field_marshal = {
+			traits = { trait_reckless }
+			skill = 1
+			attack_skill = 2
+			defense_skill = 1
+			planning_skill = 2
+			logistics_skill = 1
+		}
+	}
+	W32_1352 = {
+		name = it_Florentino_dyn_it_Di_Paola
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_1352
+			cost = 150
+		}
+	}
+	W32_1353 = {
+		name = it_Ferruccio_dyn_it_Piccinino
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { technocrat }
+			slot = political_advisor
+			idea_token = i_1353
+			cost = 150
+		}
+	}
+	W32_1355 = {
+		name = it_Lorenzo_dyn_it_Morino
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_1355
+			cost = 150
+		}
+	}
+	W32_1356 = {
+		name = it_Vitaliano_dyn_it_Capparelli
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_1356
+			cost = 150
+		}
+	}
+	W32_1357 = {
+		name = it_Placido_dyn_it_Vigano
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_1357
+			cost = 150
+		}
+	}
+	W32_1358 = {
+		name = it_Giovannantonio_dyn_it_Pantoliano
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_1358
+			cost = 150
+		}
+	}
+	W32_1359 = {
+		name = it_Florestano_dyn_it_Donatelli
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1359
+			cost = 150
+		}
+	}
+	W32_3813 = {
+		name = Aytarel_ag_Amastan
+		portraits = {
+			army = {
+				large = GFX_Portrait_Africa_Generic_land_3
+				small = GFX_Portrait_Africa_Generic_land_3_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 2
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	W32_3817 = {
+		name = Ahmad_Ikhia
+		portraits = {
+			navy = {
+				large = GFX_Portrait_Africa_Generic_navy_2
+				small = GFX_Portrait_Africa_Generic_navy_2_small
+			}
+		}
+		navy_leader = {
+			traits = { chief_engineer }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			maneuvering_skill = 2
+			coordination_skill = 1
+		}
+	}
+}

@@ -1,0 +1,151 @@
+characters = {
+	CHK_4282 = {
+		name = Mulay_Mbili
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_South_Africa_Political_Leader_Generic_2
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	CHK_480 = {
+		name = Cimbindu_Mbili
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_480
+			cost = 150
+		}
+	}
+	CHK_481 = {
+		name = Mushidi_Kasang
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_481
+			cost = 150
+		}
+	}
+	CHK_482 = {
+		name = Cakasekene_Yaava
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { editor }
+			slot = political_advisor
+			idea_token = i_482
+			cost = 150
+		}
+	}
+	CHK_483 = {
+		name = Nawej_Nambing
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_483
+			cost = 150
+		}
+	}
+	CHK_484 = {
+		name = Cimbindu_Futa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_484
+			cost = 150
+		}
+	}
+	CHK_485 = {
+		name = Mutand_Ilunga
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_485
+			cost = 150
+		}
+	}
+	CHK_486 = {
+		name = Mutand_Mbili
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_486
+			cost = 150
+		}
+	}
+	CHK_487 = {
+		name = Mulay_Kamong
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_487
+			cost = 150
+		}
+	}
+	CHK_2722 = {
+		name = Waranankong_Muteba
+		portraits = {
+			army = {
+				large = GFX_Portrait_Africa_Generic_land_3
+				small = GFX_Portrait_Africa_Generic_land_3_small
+			}
+		}
+		corps_commander = {
+			traits = { organizer trait_reckless }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 1
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+	CHK_16779666 = {
+		name = Kangapu_Mbili
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

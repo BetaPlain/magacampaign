@@ -1,0 +1,163 @@
+characters = {
+	X44_1476 = {
+		name = Elechi_Nri
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Africa_Generic_4
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			traits = {  }
+		}
+	}
+	X44_1472 = {
+		name = Rapuluchukwu_Onyeso
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_1472
+			cost = 150
+		}
+	}
+	X44_1473 = {
+		name = Onyeka_Opobo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1473
+			cost = 150
+		}
+	}
+	X44_1474 = {
+		name = Nnanna_Opobo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_1474
+			cost = 150
+		}
+	}
+	X44_1475 = {
+		name = Olaudah_Equiano
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_1475
+			cost = 150
+		}
+	}
+	X44_1477 = {
+		name = Zinachukwudi_Ohuhu
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { propaganda_expert }
+			slot = political_advisor
+			idea_token = i_1477
+			cost = 150
+		}
+	}
+	X44_1478 = {
+		name = Dumaka_Nnofo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_1478
+			cost = 150
+		}
+	}
+	X44_2039 = {
+		name = Sanibar_Toumani_Ohuhu
+		portraits = {
+			army = {
+				large = GFX_Portrait_Africa_Generic_land_4
+				small = GFX_Portrait_Africa_Generic_land_4_small
+			}
+		}
+		corps_commander = {
+			traits = { organizer }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 2
+			logistics_skill = 1
+		}
+	}
+	X44_2040 = {
+		name = Al-Fa__Ibrahim_Konare_Equiano
+		portraits = {
+			navy = {
+				large = GFX_Portrait_Africa_Generic_navy_4
+				small = GFX_Portrait_Africa_Generic_navy_4_small
+			}
+		}
+		navy_leader = {
+			traits = { arctic_water_expert }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			maneuvering_skill = 1
+			coordination_skill = 1
+		}
+	}
+	X44_3960 = {
+		name = Jiofo_Wachuku
+		portraits = {
+			army = {
+				large = GFX_Portrait_Africa_Generic_land_2
+				small = GFX_Portrait_Africa_Generic_land_2_small
+			}
+		}
+		corps_commander = {
+			traits = { career_officer ranger }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 3
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+	X44_16777480 = {
+		name = Rapuluchukwu_Ohuhu
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_16777480
+			cost = 150
+		}
+	}
+}

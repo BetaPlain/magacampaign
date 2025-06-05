@@ -1,0 +1,145 @@
+characters = {
+	X75_2092 = {
+		name = _Amara_IV_Senar
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	X75_1600 = {
+		name = Umar_Lel_Keira
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_1600
+			cost = 150
+		}
+	}
+	X75_1601 = {
+		name = Sulayman_El-Fadl
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	X75_1602 = {
+		name = Bulad_Madyan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_1602
+			cost = 150
+		}
+	}
+	X75_1603 = {
+		name = Jussuf_al-Mahdi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_1603
+			cost = 150
+		}
+	}
+	X75_1604 = {
+		name = Harun_Keira
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_1604
+			cost = 150
+		}
+	}
+	X75_1605 = {
+		name = Abd_al-rahman_Badl
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_1605
+			cost = 150
+		}
+	}
+	X75_1606 = {
+		name = Jussuf_Khalid
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_1606
+			cost = 150
+		}
+	}
+	X75_1607 = {
+		name = Tunsam_Keira
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_1607
+			cost = 150
+		}
+	}
+	X75_2091 = {
+		name = _Amara_Senar
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	X75_2093 = {
+		name = Idris_Garang_Badl
+		portraits = {
+			army = {
+				large = GFX_Portrait_Africa_Generic_land_1
+				small = GFX_Portrait_Africa_Generic_land_1_small
+			}
+		}
+		corps_commander = {
+			traits = { career_officer }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 2
+			logistics_skill = 1
+		}
+	}
+}

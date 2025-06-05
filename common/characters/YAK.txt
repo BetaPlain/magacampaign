@@ -1,0 +1,151 @@
+characters = {
+	YAK_4261 = {
+		name = sah_Talygyr_Kigilyakh
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Asia_Generic_3
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	YAK_216 = {
+		name = sah_Chagyl_sah_Bygynas
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { grand_fleet_proponent }
+			slot = political_advisor
+			idea_token = i_216
+			cost = 150
+		}
+	}
+	YAK_217 = {
+		name = sah_Langkhy_sah_Kytakhyy
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_217
+			cost = 150
+		}
+	}
+	YAK_218 = {
+		name = sah_D_uluskhaan_sah_Botoor
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_218
+			cost = 150
+		}
+	}
+	YAK_219 = {
+		name = sah_Bygynas_Anabar
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_219
+			cost = 150
+		}
+	}
+	YAK_220 = {
+		name = sah_Chagyl_Anabar
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_220
+			cost = 150
+		}
+	}
+	YAK_221 = {
+		name = sah_Kustuktaan_sah_Archyn
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_221
+			cost = 150
+		}
+	}
+	YAK_222 = {
+		name = sah_Bad_yy_Anabar
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_222
+			cost = 150
+		}
+	}
+	YAK_223 = {
+		name = sah_Surgen_Kigilyakh
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_223
+			cost = 150
+		}
+	}
+	YAK_2394 = {
+		name = sah_Tegin_Darkhan
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_1
+				small = GFX_Portrait_Asia_Generic_land_1_small
+			}
+		}
+		corps_commander = {
+			traits = { cavalry_officer ranger }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+	YAK_4582 = {
+		name = sah_Tonokh_Kigilyakh
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

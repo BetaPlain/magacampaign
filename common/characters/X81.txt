@@ -1,0 +1,174 @@
+characters = {
+	X81_2097 = {
+		name = Alung_Yunus_I_Inland
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			traits = {  }
+		}
+	}
+	X81_1608 = {
+		name = ms_Chik_Jamalullail
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_1608
+			cost = 150
+		}
+	}
+	X81_1609 = {
+		name = ms_Deris_dyn_ms_Tuah
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_1609
+			cost = 150
+		}
+	}
+	X81_1610 = {
+		name = ms_Kepli_dyn_ms_Selamat
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_1610
+			cost = 150
+		}
+	}
+	X81_1611 = {
+		name = ms_Khamis_Jamalullail
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_1611
+			cost = 150
+		}
+	}
+	X81_1612 = {
+		name = ms_Uda_Bendahara
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_1612
+			cost = 150
+		}
+	}
+	X81_1613 = {
+		name = ms_Lekiu_dyn_ms_Jantan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1613
+			cost = 150
+		}
+	}
+	X81_1614 = {
+		name = ms_Kechik_dyn_ms_Wira
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_1614
+			cost = 150
+		}
+	}
+	X81_1615 = {
+		name = ms_Sulong_dyn_ms_Mulia
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_1615
+			cost = 150
+		}
+	}
+	X81_2094 = {
+		name = Muzaffar_Shah_Thawan_dyn_ms_Sabtu
+		portraits = {
+			navy = {
+				large = GFX_Portrait_asia_generic_navy_4
+				small = GFX_Portrait_asia_generic_navy_4_small
+			}
+		}
+		navy_leader = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			maneuvering_skill = 1
+			coordination_skill = 1
+		}
+	}
+	X81_2095 = {
+		name = Inayat_Pasai
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { reluctant_interventionist }
+			slot = political_advisor
+			idea_token = i_2095
+			cost = 150
+		}
+	}
+	X81_4134 = {
+		name = ms_Sabtu_bin_Nik
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_2
+				small = GFX_Portrait_Asia_Generic_land_2_small
+			}
+		}
+		corps_commander = {
+			traits = { naval_invader }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 2
+			logistics_skill = 2
+		}
+	}
+}

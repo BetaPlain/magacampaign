@@ -1,0 +1,191 @@
+characters = {
+	X37_2034 = {
+		name = Tanat_I_Khorints
+		portraits = {
+			civilian = {
+				large = GFX_portrait_asia_generic_4
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	X37_1456 = {
+		name = sah_Manchaary_Darkhan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_1456
+			cost = 150
+		}
+	}
+	X37_1457 = {
+		name = sah_Terike_sah_Chooruos
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_1457
+			cost = 150
+		}
+	}
+	X37_1458 = {
+		name = sah_Kureyeek_sah_Taman
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_1458
+			cost = 150
+		}
+	}
+	X37_1459 = {
+		name = sah_Kusteekhey_sah_Kencheeri
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1459
+			cost = 150
+		}
+	}
+	X37_1460 = {
+		name = sah_Byyaman_Darkhan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_1460
+			cost = 150
+		}
+	}
+	X37_1461 = {
+		name = sah_Timir_Darkhan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_1461
+			cost = 150
+		}
+	}
+	X37_1462 = {
+		name = sah_Orduk_sah_Baaragay
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_1462
+			cost = 150
+		}
+	}
+	X37_1463 = {
+		name = sah_Kustuk_sah_Aydarkhan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1463
+			cost = 150
+		}
+	}
+	X37_2031 = {
+		name = Tolluman_Agna_sah_Bygynas
+		portraits = {
+			army = {
+				large = GFX_Portrait_asia_generic_land_5
+				small = GFX_Portrait_asia_generic_land_5_small
+			}
+		}
+		corps_commander = {
+			traits = { harsh_leader trait_mountaineer }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 2
+		}
+	}
+	X37_2033 = {
+		name = Kencheeri_Khorints
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { education_reformer }
+			slot = political_advisor
+			idea_token = i_2033
+			cost = 150
+		}
+	}
+	X37_3941 = {
+		name = sah_Aychaan_sah_Altan
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_3
+				small = GFX_Portrait_Asia_Generic_land_3_small
+			}
+		}
+		corps_commander = {
+			traits = { harsh_leader ranger }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+	X37_3944 = {
+		name = sah_Khatan_Anabar
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_4
+				small = GFX_Portrait_Asia_Generic_land_4_small
+			}
+		}
+		corps_commander = {
+			traits = { inflexible_strategist organizer }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 3
+		}
+	}
+}

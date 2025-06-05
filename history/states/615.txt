@@ -1,0 +1,24 @@
+state = {
+	id = 615
+	name = "STATE_615"
+	manpower = 248117
+	resources = {
+		steel = 0
+	}
+
+	state_category = rural
+
+	history = {
+		owner = W32
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = W32
+	}
+
+	provinces = {
+		7091 10005 11964 
+	}
+}

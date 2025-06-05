@@ -1,0 +1,145 @@
+characters = {
+	X43_1468 = {
+		name = non_Svan_dyn_is_Hallgrimsson
+		portraits = {
+			civilian = {
+				large = GFX_portrait_FIN_kyosti_kallio
+			}
+		}
+		country_leader = {
+			ideology = centrism
+			traits = {  }
+		}
+	}
+	X43_1464 = {
+		name = non_Odin_dyn_is_Grimsson
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_1464
+			cost = 150
+		}
+	}
+	X43_1465 = {
+		name = non_Gudmundr_dyn_is_Svavarsson
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	X43_1466 = {
+		name = non_Einar_dyn_is_Hjartarson
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_1466
+			cost = 150
+		}
+	}
+	X43_1469 = {
+		name = non_Brynjolf_dyn_is_Trausti
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1469
+			cost = 150
+		}
+	}
+	X43_1471 = {
+		name = non_Oscytell_dyn_is_Valdimarsson
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_1471
+			cost = 150
+		}
+	}
+	X43_2035 = {
+		name = Johan_Holstein_dyn_is_Vigfusson
+		portraits = {
+			army = {
+				large = GFX_portrait_europe_generic_land_13
+				small = GFX_portrait_europe_generic_land_13_small
+			}
+		}
+		corps_commander = {
+			traits = { organizer }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 2
+			logistics_skill = 1
+		}
+	}
+	X43_2037 = {
+		name = Hakon_Wagmunding
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { reluctant_interventionist }
+			slot = political_advisor
+			idea_token = i_2037
+			cost = 150
+		}
+	}
+	X43_2038 = {
+		name = Bui_I_Wagmunding
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { fascist_demagogue }
+			slot = political_advisor
+			idea_token = i_2038
+			cost = 150
+		}
+	}
+	X43_16778939 = {
+		name = non_Lythr_dyn_is_Thoroddsen
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	X43_16780222 = {
+		name = non_Solmundr_dyn_is_Valdimarsson
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_16780222
+			cost = 150
+		}
+	}
+}

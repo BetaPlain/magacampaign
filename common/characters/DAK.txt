@@ -1,0 +1,151 @@
+characters = {
+	DAK_4283 = {
+		name = Nsangou_Njoya
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_South_Africa_Political_Leader_Generic
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	DAK_488 = {
+		name = Nsangou_Sankre
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_488
+			cost = 150
+		}
+	}
+	DAK_489 = {
+		name = Ngapna_Njoya
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_489
+			cost = 150
+		}
+	}
+	DAK_490 = {
+		name = Essomba_Chinje
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_490
+			cost = 150
+		}
+	}
+	DAK_491 = {
+		name = Nsangou_Atangana
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_491
+			cost = 150
+		}
+	}
+	DAK_492 = {
+		name = Omgba_Atangana
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_492
+			cost = 150
+		}
+	}
+	DAK_493 = {
+		name = Bakar_Beyala
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_493
+			cost = 150
+		}
+	}
+	DAK_494 = {
+		name = Bakar_Chinje
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { silent_workhorse }
+			slot = political_advisor
+			idea_token = i_494
+			cost = 150
+		}
+	}
+	DAK_495 = {
+		name = Ngouhouno_Atabong
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_495
+			cost = 150
+		}
+	}
+	DAK_2734 = {
+		name = Omgba_Chinje
+		portraits = {
+			army = {
+				large = GFX_Portrait_Africa_Generic_land_1
+				small = GFX_Portrait_Africa_Generic_land_1_small
+			}
+		}
+		corps_commander = {
+			traits = { inflexible_strategist organizer }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 3
+		}
+	}
+	DAK_16779709 = {
+		name = Monjou_Njoya
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

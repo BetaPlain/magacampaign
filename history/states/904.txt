@@ -1,0 +1,26 @@
+state = {
+	id = 904
+	name = "STATE_904"
+	manpower = 50567
+	resources = {
+		aluminium = 0
+		chromium = 1
+		steel = 3
+	}
+
+	state_category = rural
+
+	history = {
+		owner = BRY
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = BRY
+	}
+
+	provinces = {
+		1792 10654 12525 
+	}
+}

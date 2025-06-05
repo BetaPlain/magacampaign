@@ -1,0 +1,151 @@
+characters = {
+	K38_4311 = {
+		name = Marco_Kalina
+		portraits = {
+			civilian = {
+				large = GFX_portrait_south_america_generic_9
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	K38_736 = {
+		name = Teodoro_Chatoyer
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_736
+			cost = 150
+		}
+	}
+	K38_737 = {
+		name = Gunfuli_Chatoyer
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_737
+			cost = 150
+		}
+	}
+	K38_738 = {
+		name = Antonio_Lopez
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_738
+			cost = 150
+		}
+	}
+	K38_739 = {
+		name = Pantaleon_Flores
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { editor }
+			slot = political_advisor
+			idea_token = i_739
+			cost = 150
+		}
+	}
+	K38_740 = {
+		name = Esteban_Kalina
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_740
+			cost = 150
+		}
+	}
+	K38_741 = {
+		name = Marco_Lopez
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_741
+			cost = 150
+		}
+	}
+	K38_742 = {
+		name = Ebedimu_Lorenzano
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_742
+			cost = 150
+		}
+	}
+	K38_743 = {
+		name = Segundo_Ramos
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_743
+			cost = 150
+		}
+	}
+	K38_3043 = {
+		name = Damaso_Kalina
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_5
+				small = GFX_Portrait_South_America_Generic_land_5_small
+			}
+		}
+		corps_commander = {
+			traits = { desert_fox organizer }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 4
+			logistics_skill = 1
+		}
+	}
+	K38_16779670 = {
+		name = Segundo_Kalina
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

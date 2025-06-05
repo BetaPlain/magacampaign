@@ -1,0 +1,191 @@
+characters = {
+	X61_2072 = {
+		name = Shihab_ad-Din_Isma_il_I_Palopo
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	X61_1560 = {
+		name = Ignacio_Palyama
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_1560
+			cost = 150
+		}
+	}
+	X61_1561 = {
+		name = Dominggus_Palyama
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_1561
+			cost = 150
+		}
+	}
+	X61_1562 = {
+		name = Mohammad_Bouma
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1562
+			cost = 150
+		}
+	}
+	X61_1564 = {
+		name = Ellyas_Sjah
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_1564
+			cost = 150
+		}
+	}
+	X61_1565 = {
+		name = Jos_Palyama
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_1565
+			cost = 150
+		}
+	}
+	X61_1566 = {
+		name = Levi_Lilipaly
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_1566
+			cost = 150
+		}
+	}
+	X61_1567 = {
+		name = Mohammad_Leiwakabessy
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_1567
+			cost = 150
+		}
+	}
+	X61_2070 = {
+		name = _Uthman_Hasanuddin_Pattinama
+		portraits = {
+			navy = {
+				large = GFX_Portrait_Asia_Generic_navy_3
+				small = GFX_Portrait_Asia_Generic_navy_3_small
+			}
+		}
+		navy_leader = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			maneuvering_skill = 1
+			coordination_skill = 1
+		}
+	}
+	X61_2071 = {
+		name = _Abd_al-Khayr_al-Mansur_Palopo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_2071
+			cost = 150
+		}
+	}
+	X61_4070 = {
+		name = Jordao_Sjah
+		portraits = {
+			army = {
+				large = GFX_Portrait_asia_generic_land_5
+				small = GFX_Portrait_asia_generic_land_5_small
+			}
+		}
+		corps_commander = {
+			traits = { cavalry_officer commando }
+			skill = 2
+			attack_skill = 3
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 2
+		}
+	}
+	X61_4387 = {
+		name = Edinho_Kolano
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_4387
+			cost = 150
+		}
+	}
+	X61_4489 = {
+		name = Levi_Sjah
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_3
+				small = GFX_Portrait_Asia_Generic_land_3_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+}

@@ -1,0 +1,29 @@
+state = {
+	id = 48
+	name = "STATE_48"
+	manpower = 2231322
+	resources = {
+		aluminium = 10
+		steel = 28
+	}
+
+	state_category = town
+
+	history = {
+		owner = PLC
+		victory_points = {
+			3460 1
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 1
+		}
+		add_core_of = PLC
+	}
+
+	provinces = {
+		17 279 388 3283 3381 3460 3510 3532 6462 6558 9532 11232 
+	}
+}

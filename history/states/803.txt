@@ -1,0 +1,24 @@
+state = {
+	id = 803
+	name = "STATE_803"
+	manpower = 294056
+
+	state_category = rural
+
+	history = {
+		owner = BYZ
+		victory_points = {
+			9816 1
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = BYZ
+	}
+
+	provinces = {
+		4943 9816 
+	}
+}

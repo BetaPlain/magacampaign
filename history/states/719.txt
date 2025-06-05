@@ -1,0 +1,29 @@
+state = {
+	id = 719
+	name = "STATE_719"
+	manpower = 271560
+	resources = {
+		aluminium = 23
+		chromium = 17
+		steel = 0
+	}
+
+	state_category = rural
+
+	history = {
+		owner = ITA
+		victory_points = {
+			9890 1
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = ITA
+	}
+
+	provinces = {
+		9849 9874 9890 11832 
+	}
+}

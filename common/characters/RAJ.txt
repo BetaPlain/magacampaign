@@ -1,0 +1,310 @@
+characters = {
+	RAJ_1778 = {
+		name = Bhuvikrama_Vaidumba_dyn_kn_Raghu
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	RAJ_64 = {
+		name = kn_Vairaja_Hegde
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_64
+			cost = 150
+		}
+	}
+	RAJ_65 = {
+		name = kn_Mahaganapati_Narayan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_65
+			cost = 150
+		}
+	}
+	RAJ_66 = {
+		name = kn_Mahaganapati_Hegde
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_66
+			cost = 150
+		}
+	}
+	RAJ_67 = {
+		name = kn_Kabilan_dyn_kn_Anandteerth
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_67
+			cost = 150
+		}
+	}
+	RAJ_68 = {
+		name = kn_Yashas_Hegde
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_68
+			cost = 150
+		}
+	}
+	RAJ_69 = {
+		name = kn_Ilamurugu_dyn_kn_Ramesh
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_69
+			cost = 150
+		}
+	}
+	RAJ_70 = {
+		name = kn_Kabilan_Hegde
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_70
+			cost = 150
+		}
+	}
+	RAJ_71 = {
+		name = kn_Gajrup_dyn_kn_Rajul
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_71
+			cost = 150
+		}
+	}
+	RAJ_1779 = {
+		name = Rama_Wodeyar
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { democratic_crusader }
+			slot = political_advisor
+			idea_token = i_1779
+			cost = 150
+		}
+	}
+	RAJ_1780 = {
+		name = Sriranga_Kamma_dyn_kn_Padukone
+		portraits = {
+			army = {
+				large = GFX_portrait_unknown
+				small = GFX_portrait_unknown_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	RAJ_1781 = {
+		name = Harihara_Mangu_dyn_kn_Raju
+		portraits = {
+			navy = {
+				large = GFX_portrait_unknown
+				small = GFX_portrait_unknown_small
+			}
+		}
+		navy_leader = {
+			traits = { media_personality }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			maneuvering_skill = 1
+			coordination_skill = 1
+		}
+	}
+	RAJ_1782 = {
+		name = Thimma_Saluva_dyn_kn_Angadi
+		portraits = {
+			navy = {
+				large = GFX_portrait_unknown
+				small = GFX_portrait_unknown_small
+			}
+		}
+		navy_leader = {
+			traits = { chief_engineer media_personality }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			maneuvering_skill = 2
+			coordination_skill = 1
+		}
+	}
+	RAJ_1783 = {
+		name = Purandaradasa_Alupa_dyn_kn_Hira
+		portraits = {
+			army = {
+				large = GFX_portrait_unknown
+				small = GFX_portrait_unknown_small
+			}
+		}
+		field_marshal = {
+			traits = { defensive_doctrine infantry_officer trait_cautious }
+			skill = 3
+			attack_skill = 2
+			defense_skill = 5
+			planning_skill = 2
+			logistics_skill = 3
+		}
+	}
+	RAJ_1785 = {
+		name = Adarsh_Govindaraya_dyn_kn_Prasad
+		portraits = {
+			army = {
+				large = GFX_portrait_unknown
+				small = GFX_portrait_unknown_small
+			}
+		}
+		corps_commander = {
+			traits = { trait_cautious }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 2
+		}
+	}
+	RAJ_1786 = {
+		name = Venkata_Nayaka_dyn_kn_Gopalakrishna
+		portraits = {
+			navy = {
+				large = GFX_portrait_unknown
+				small = GFX_portrait_unknown_small
+			}
+		}
+		navy_leader = {
+			traits = { old_guard_navy }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			maneuvering_skill = 1
+			coordination_skill = 1
+		}
+	}
+	RAJ_1787 = {
+		name = Krishna_Govindaraya_dyn_kn_Venkatesh
+		portraits = {
+			army = {
+				large = GFX_portrait_unknown
+				small = GFX_portrait_unknown_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 2
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	RAJ_1788 = {
+		name = Kaushal_Nayudu_dyn_kn_Suresh
+		portraits = {
+			army = {
+				large = GFX_portrait_unknown
+				small = GFX_portrait_unknown_small
+			}
+		}
+		corps_commander = {
+			traits = { naval_invader }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 2
+			logistics_skill = 2
+		}
+	}
+	RAJ_1789 = {
+		name = Tuluva_Keladi_dyn_kn_Venkatesh
+		portraits = {
+			navy = {
+				large = GFX_portrait_unknown
+				small = GFX_portrait_unknown_small
+			}
+		}
+		navy_leader = {
+			traits = {  }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			maneuvering_skill = 1
+			coordination_skill = 2
+		}
+	}
+	RAJ_2201 = {
+		name = kn_Akand_Narayan
+		portraits = {
+			army = {
+				large = GFX_portrait_unknown
+				small = GFX_portrait_unknown_small
+			}
+		}
+		corps_commander = {
+			traits = { commando trait_cautious }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 3
+		}
+	}
+}

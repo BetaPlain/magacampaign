@@ -1,0 +1,169 @@
+characters = {
+	YUN_2119 = {
+		name = Cihuan_I_Konbaung
+		portraits = {
+			army = {
+				large = GFX_portrait_unknown
+				small = GFX_portrait_unknown_small
+			}
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+		field_marshal = {
+			traits = { infantry_officer trait_cautious }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 3
+			planning_skill = 2
+			logistics_skill = 2
+		}
+	}
+	YUN_232 = {
+		name = Pan_Cui
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_232
+			cost = 150
+		}
+	}
+	YUN_233 = {
+		name = Hsia_Jiang
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_233
+			cost = 150
+		}
+	}
+	YUN_234 = {
+		name = Liang_Zhao
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_234
+			cost = 150
+		}
+	}
+	YUN_235 = {
+		name = Kong_Hu
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_235
+			cost = 150
+		}
+	}
+	YUN_236 = {
+		name = Yu_Li
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_236
+			cost = 150
+		}
+	}
+	YUN_237 = {
+		name = Liu_Peng
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_237
+			cost = 150
+		}
+	}
+	YUN_238 = {
+		name = Zhu_Wu
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_238
+			cost = 150
+		}
+	}
+	YUN_239 = {
+		name = Liang_Wu
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_239
+			cost = 150
+		}
+	}
+	YUN_2116 = {
+		name = Youjian_Du_Lu
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_2
+				small = GFX_Portrait_Asia_Generic_land_2_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	YUN_2117 = {
+		name = Qizhen_Konbaung
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_2117
+			cost = 150
+		}
+	}
+}

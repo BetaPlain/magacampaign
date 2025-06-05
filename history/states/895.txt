@@ -1,0 +1,21 @@
+state = {
+	id = 895
+	name = "STATE_895"
+	manpower = 33511
+
+	state_category = rural
+
+	history = {
+		owner = BRA
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = BRA
+	}
+
+	provinces = {
+		10792 
+	}
+}

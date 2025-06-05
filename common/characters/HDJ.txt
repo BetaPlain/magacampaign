@@ -1,0 +1,168 @@
+characters = {
+	HDJ_16779197 = {
+		name = ar_Kareem_al_Ulayyan
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	HDJ_4599 = {
+		name = ar_Ismail_al_Ulayyan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	HDJ_16778930 = {
+		name = ar_Nusair_al_Qasimi
+		portraits = {
+			army = {
+				large = GFX_Portrait_Arabia_Generic_land_2
+				small = GFX_Portrait_Arabia_Generic_land_2_small
+			}
+		}
+		corps_commander = {
+			traits = { inflexible_strategist organizer }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 3
+		}
+	}
+	HDJ_16779024 = {
+		name = ar_Hibah_dyn_ar_bin_Abu
+		portraits = {
+			army = {
+				large = GFX_Portrait_Arabia_Generic_land_1
+				small = GFX_Portrait_Arabia_Generic_land_1_small
+			}
+		}
+		corps_commander = {
+			traits = { old_guard }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	HDJ_16779198 = {
+		name = ar_Najee_dyn_ar_bin_Qamar
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_16779198
+			cost = 150
+		}
+	}
+	HDJ_16779205 = {
+		name = ar_Amer_Al_Sharqi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_16779205
+			cost = 150
+		}
+	}
+	HDJ_16779219 = {
+		name = ar_Koran_dyn_ar_bin_Safwan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_16779219
+			cost = 150
+		}
+	}
+	HDJ_16779223 = {
+		name = ar_Karam_Al_Maktoum
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_16779223
+			cost = 150
+		}
+	}
+	HDJ_16779230 = {
+		name = ar_Emad_dyn_ar_bin_Kadar
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { communist_revolutionary }
+			slot = political_advisor
+			idea_token = i_16779230
+			cost = 150
+		}
+	}
+	HDJ_16779244 = {
+		name = ar_Nazir_al_Rashid
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_16779244
+			cost = 150
+		}
+	}
+	HDJ_16779245 = {
+		name = ar_Talib_al_Nuaimi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_16779245
+			cost = 150
+		}
+	}
+	HDJ_16779246 = {
+		name = ar_Hadi_dyn_ar_bin_Adad
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_16779246
+			cost = 150
+		}
+	}
+}

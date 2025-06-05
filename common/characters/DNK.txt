@@ -1,0 +1,151 @@
+characters = {
+	DNK_4288 = {
+		name = Manute_Deng
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Africa_Generic_4
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	DNK_528 = {
+		name = Alier_Deng
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_528
+			cost = 150
+		}
+	}
+	DNK_529 = {
+		name = Awino_Ageerdit
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_529
+			cost = 150
+		}
+	}
+	DNK_530 = {
+		name = Bul_Ayiec
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_530
+			cost = 150
+		}
+	}
+	DNK_531 = {
+		name = Manyang_Deng
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_531
+			cost = 150
+		}
+	}
+	DNK_532 = {
+		name = Abel_Deng
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_532
+			cost = 150
+		}
+	}
+	DNK_533 = {
+		name = Bul_Maduot
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_533
+			cost = 150
+		}
+	}
+	DNK_534 = {
+		name = Awino_Anyieth
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_534
+			cost = 150
+		}
+	}
+	DNK_535 = {
+		name = Alier_Maduot
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_535
+			cost = 150
+		}
+	}
+	DNK_2780 = {
+		name = Abel_Zenab
+		portraits = {
+			army = {
+				large = GFX_Portrait_Africa_Generic_land_2
+				small = GFX_Portrait_Africa_Generic_land_2_small
+			}
+		}
+		corps_commander = {
+			traits = { commando }
+			skill = 1
+			attack_skill = 2
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 2
+		}
+	}
+	DNK_16779229 = {
+		name = Manyang_Deng
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

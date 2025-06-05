@@ -1,0 +1,22 @@
+state = {
+	id = 136
+	name = "STATE_136"
+	manpower = 575799
+
+	state_category = rural
+
+	history = {
+		owner = LAN
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+		}
+		add_core_of = LAN
+	}
+
+	provinces = {
+		13002 
+	}
+}

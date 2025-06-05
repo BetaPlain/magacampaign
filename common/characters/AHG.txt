@@ -1,0 +1,151 @@
+characters = {
+	AHG_4273 = {
+		name = Musa_Ag_Alhabib
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_South_Africa_Political_Leader_Generic
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	AHG_360 = {
+		name = Islaman_ag_Amellal
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_360
+			cost = 150
+		}
+	}
+	AHG_361 = {
+		name = Issouf_al-Hajj
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_361
+			cost = 150
+		}
+	}
+	AHG_362 = {
+		name = Abareybon_ag_Sidi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_362
+			cost = 150
+		}
+	}
+	AHG_363 = {
+		name = Hasso_al-Hajj
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_363
+			cost = 150
+		}
+	}
+	AHG_364 = {
+		name = Attici_Ikhia
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_364
+			cost = 150
+		}
+	}
+	AHG_365 = {
+		name = Aytarel_ag_Sidi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_365
+			cost = 150
+		}
+	}
+	AHG_366 = {
+		name = Kiddu_ag_Sidi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_366
+			cost = 150
+		}
+	}
+	AHG_367 = {
+		name = In_Tayaden_al-Hajj
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_367
+			cost = 150
+		}
+	}
+	AHG_2571 = {
+		name = Abareybon_Ikhia
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_Africa_Army_Generic
+				small = GFX_Portrait_South_Africa_Army_Generic_small
+			}
+		}
+		corps_commander = {
+			traits = { old_guard }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	AHG_4497 = {
+		name = Hasso_Ag_Alhabib
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

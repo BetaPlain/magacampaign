@@ -1,0 +1,220 @@
+characters = {
+	SIA_1929 = {
+		name = Narai_I_Suphannaphum
+		portraits = {
+			army = {
+				large = GFX_portrait_unknown
+				small = GFX_portrait_unknown_small
+			}
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+		field_marshal = {
+			traits = { defensive_doctrine infantry_officer trait_cautious }
+			skill = 3
+			attack_skill = 2
+			defense_skill = 5
+			planning_skill = 1
+			logistics_skill = 4
+		}
+	}
+	SIA_128 = {
+		name = ms_Sugriwa_dyn_ms_Awang
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_128
+			cost = 150
+		}
+	}
+	SIA_130 = {
+		name = ms_Jalak_bin_Nik
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_130
+			cost = 150
+		}
+	}
+	SIA_131 = {
+		name = ms_Bintang_Bendahara
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_131
+			cost = 150
+		}
+	}
+	SIA_132 = {
+		name = ms_Yahaya_Jamalullail
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_132
+			cost = 150
+		}
+	}
+	SIA_133 = {
+		name = ms_Labuh_dyn_ms_Kepli
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_133
+			cost = 150
+		}
+	}
+	SIA_134 = {
+		name = ms_Zulkifli_Jamalullail
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_134
+			cost = 150
+		}
+	}
+	SIA_135 = {
+		name = ms_Indera_dyn_ms_Danyal
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_135
+			cost = 150
+		}
+	}
+	SIA_1926 = {
+		name = Rama_Panomyaong_dyn_ms_Malim
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_2
+				small = GFX_Portrait_Asia_Generic_land_2_small
+			}
+		}
+		corps_commander = {
+			traits = { inflexible_strategist }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	SIA_1928 = {
+		name = Borommaracha_Suphannaphum
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { propaganda_expert }
+			slot = political_advisor
+			idea_token = i_1928
+			cost = 150
+		}
+	}
+	SIA_2284 = {
+		name = ms_Golok_Jamalullail
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_1
+				small = GFX_Portrait_Asia_Generic_land_1_small
+			}
+		}
+		corps_commander = {
+			traits = { armor_officer organizer }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 3
+		}
+	}
+	SIA_2287 = {
+		name = ms_Embong_bin_Nik
+		portraits = {
+			navy = {
+				large = GFX_Portrait_Asia_Generic_navy_1
+				small = GFX_Portrait_Asia_Generic_navy_1_small
+			}
+		}
+		navy_leader = {
+			traits = { bold chief_engineer }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			maneuvering_skill = 2
+			coordination_skill = 1
+		}
+	}
+	SIA_16777512 = {
+		name = ms_Merdeka_dyn_ms_Biru
+		portraits = {
+			army = {
+				large = GFX_Portrait_asia_generic_land_5
+				small = GFX_Portrait_asia_generic_land_5_small
+			}
+		}
+		corps_commander = {
+			traits = { old_guard trait_reckless }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 2
+			logistics_skill = 1
+		}
+	}
+	SIA_16778881 = {
+		name = ms_Kepli_bin_Nik
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_16778881
+			cost = 150
+		}
+	}
+}

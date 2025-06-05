@@ -1,0 +1,145 @@
+characters = {
+	K03_4302 = {
+		name = Ellis_Wallowa
+		portraits = {
+			civilian = {
+				large = GFX_portrait_south_america_generic_8
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	K03_664 = {
+		name = Hinmatoowyalahtqit_Lamatta
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_664
+			cost = 150
+		}
+	}
+	K03_665 = {
+		name = Hinmatoowyalahtqit_Piatote
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	K03_666 = {
+		name = Allalimya_Takanin_Pikunin
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_666
+			cost = 150
+		}
+	}
+	K03_667 = {
+		name = Apash_Wyakaikt_Lamatta
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_667
+			cost = 150
+		}
+	}
+	K03_668 = {
+		name = Ippakness_Wayhayken_Wallowa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_668
+			cost = 150
+		}
+	}
+	K03_669 = {
+		name = Hahtalekin_Piatote
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_669
+			cost = 150
+		}
+	}
+	K03_670 = {
+		name = Allalimya_Takanin_Wallowa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_670
+			cost = 150
+		}
+	}
+	K03_671 = {
+		name = Peopeo_Kiskiok_Hihih_Piatote
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_671
+			cost = 150
+		}
+	}
+	K03_2950 = {
+		name = Apash_Wyakaikt_Pikunin
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_5
+				small = GFX_Portrait_South_America_Generic_land_5_small
+			}
+		}
+		corps_commander = {
+			traits = { organizer trait_reckless }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 1
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+	K03_16780115 = {
+		name = Hinmatoowyalahtqit_Wallowa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

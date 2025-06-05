@@ -1,0 +1,197 @@
+characters = {
+	KHL_1885 = {
+		name = Jassa_Ahuwalia_III_Sandhawalia
+		portraits = {
+			army = {
+				large = GFX_portrait_unknown
+				small = GFX_portrait_unknown_small
+			}
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+		field_marshal = {
+			traits = { armor_officer old_guard }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 2
+			logistics_skill = 1
+		}
+	}
+	KHL_88 = {
+		name = fa_Shahram_Qajar
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_88
+			cost = 150
+		}
+	}
+	KHL_89 = {
+		name = fa_Pazhang_dyn_fa_Deldari
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { fascist_demagogue }
+			slot = political_advisor
+			idea_token = i_89
+			cost = 150
+		}
+	}
+	KHL_90 = {
+		name = fa_Viraf_dyn_fa_Bakhtiari
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_90
+			cost = 150
+		}
+	}
+	KHL_91 = {
+		name = fa_Moosa_Alamir
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_91
+			cost = 150
+		}
+	}
+	KHL_92 = {
+		name = fa_Kambiz_Farmanfarma
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_92
+			cost = 150
+		}
+	}
+	KHL_93 = {
+		name = fa_Panahy_dyn_fa_Heydari
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_93
+			cost = 150
+		}
+	}
+	KHL_94 = {
+		name = fa_Mohsen_dyn_fa_Shahy
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_94
+			cost = 150
+		}
+	}
+	KHL_95 = {
+		name = fa_Alireza_dyn_fa_Salimi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_95
+			cost = 150
+		}
+	}
+	KHL_1882 = {
+		name = Bahadur_Khokhar_dyn_fa_Zanjani
+		portraits = {
+			army = {
+				large = GFX_Portrait_Arabia_Generic_land_2
+				small = GFX_Portrait_Arabia_Generic_land_2_small
+			}
+		}
+		corps_commander = {
+			traits = { old_guard }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	KHL_1884 = {
+		name = Jassa_Ahuwalia_Sandhawalia
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	KHL_2231 = {
+		name = fa_Shahriar_Qajar
+		portraits = {
+			army = {
+				large = GFX_Portrait_Arabia_Generic_land_1
+				small = GFX_Portrait_Arabia_Generic_land_1_small
+			}
+		}
+		corps_commander = {
+			traits = { cavalry_officer commando }
+			skill = 2
+			attack_skill = 3
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 2
+		}
+	}
+	KHL_2233 = {
+		name = fa_Suhayl_Hakimi
+		portraits = {
+			army = {
+				large = GFX_Portrait_Arabia_Generic_land_3
+				small = GFX_Portrait_Arabia_Generic_land_3_small
+			}
+		}
+		corps_commander = {
+			traits = { career_officer ranger }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 3
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+}

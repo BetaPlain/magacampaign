@@ -1,0 +1,169 @@
+characters = {
+	BNY_1727 = {
+		name = Winyi_II_Amor
+		portraits = {
+			army = {
+				large = GFX_portrait_unknown
+				small = GFX_portrait_unknown_small
+			}
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+		field_marshal = {
+			traits = { desert_fox infantry_officer }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 1
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+	BNY_416 = {
+		name = Kabulu_Ndiga
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_416
+			cost = 150
+		}
+	}
+	BNY_417 = {
+		name = Musanje_Mmamba
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_417
+			cost = 150
+		}
+	}
+	BNY_418 = {
+		name = Kikulwe_Ngabi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_418
+			cost = 150
+		}
+	}
+	BNY_419 = {
+		name = Mwanga_Butiko
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { editor }
+			slot = political_advisor
+			idea_token = i_419
+			cost = 150
+		}
+	}
+	BNY_420 = {
+		name = Kagali_Abalasangeye
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_420
+			cost = 150
+		}
+	}
+	BNY_421 = {
+		name = Mutesa_Ngo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_421
+			cost = 150
+		}
+	}
+	BNY_422 = {
+		name = Musanje_Njovu
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_422
+			cost = 150
+		}
+	}
+	BNY_423 = {
+		name = Kikulwe_Ngonge
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { technocrat }
+			slot = political_advisor
+			idea_token = i_423
+			cost = 150
+		}
+	}
+	BNY_1726 = {
+		name = Mwambutsa_Huma
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { education_reformer }
+			slot = political_advisor
+			idea_token = i_1726
+			cost = 150
+		}
+	}
+	BNY_1728 = {
+		name = Olimi_Atekok_Njovu
+		portraits = {
+			army = {
+				large = GFX_Portrait_Africa_Generic_land_4
+				small = GFX_Portrait_Africa_Generic_land_4_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+}

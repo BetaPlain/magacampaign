@@ -1,0 +1,151 @@
+characters = {
+	E05_4292 = {
+		name = kca_Kushchta_Kaise
+		portraits = {
+			civilian = {
+				large = GFX_portrait_FIN_kyosti_kallio
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	E05_560 = {
+		name = kca_Chukhpelek_Nuorane
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_560
+			cost = 150
+		}
+	}
+	E05_561 = {
+		name = kca_Vashchkigi_Kaise
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { silent_workhorse }
+			slot = political_advisor
+			idea_token = i_561
+			cost = 150
+		}
+	}
+	E05_562 = {
+		name = kca_Vashchkigi_Zubov
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_562
+			cost = 150
+		}
+	}
+	E05_563 = {
+		name = kca_Lyutya_Minin
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_563
+			cost = 150
+		}
+	}
+	E05_564 = {
+		name = kca_Yuvan_Saiva
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_564
+			cost = 150
+		}
+	}
+	E05_565 = {
+		name = kca_Kushchta_Minin
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_565
+			cost = 150
+		}
+	}
+	E05_566 = {
+		name = kca_Pilya_Guoladat
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_566
+			cost = 150
+		}
+	}
+	E05_567 = {
+		name = kca_Makshchim_Ubmeje
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_567
+			cost = 150
+		}
+	}
+	E05_2820 = {
+		name = kca_Untary_Nuorane
+		portraits = {
+			army = {
+				large = GFX_Portrait_Europe_Generic_land_5
+				small = GFX_Portrait_Europe_Generic_land_5_small
+			}
+		}
+		corps_commander = {
+			traits = { trait_mountaineer }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 3
+		}
+	}
+	E05_4616 = {
+		name = kca_Epkuv_Kaise
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

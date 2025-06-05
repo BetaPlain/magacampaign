@@ -1,0 +1,151 @@
+characters = {
+	NZP_4260 = {
+		name = Apash_Wyakaikt_Wallowa
+		portraits = {
+			civilian = {
+				large = GFX_portrait_south_america_generic_7
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	NZP_208 = {
+		name = Hahtalekin_Pikunin
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_208
+			cost = 150
+		}
+	}
+	NZP_209 = {
+		name = Peopeo_Kiskiok_Hihih_Piatote
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { communist_revolutionary }
+			slot = political_advisor
+			idea_token = i_209
+			cost = 150
+		}
+	}
+	NZP_210 = {
+		name = Ellis_Piatote
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_210
+			cost = 150
+		}
+	}
+	NZP_211 = {
+		name = Toohoolhoolzote_Piatote
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_211
+			cost = 150
+		}
+	}
+	NZP_212 = {
+		name = Ollokot_Wallowa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_212
+			cost = 150
+		}
+	}
+	NZP_213 = {
+		name = Apash_Wyakaikt_Piatote
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_213
+			cost = 150
+		}
+	}
+	NZP_214 = {
+		name = Ollokot_Piatote
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_214
+			cost = 150
+		}
+	}
+	NZP_215 = {
+		name = Hallalhotsoot_Piatote
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_215
+			cost = 150
+		}
+	}
+	NZP_2381 = {
+		name = Ippakness_Wayhayken_Lamatta
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_2
+				small = GFX_Portrait_South_America_Generic_land_2_small
+			}
+		}
+		corps_commander = {
+			traits = { desert_fox harsh_leader }
+			skill = 2
+			attack_skill = 3
+			defense_skill = 1
+			planning_skill = 2
+			logistics_skill = 1
+		}
+	}
+	NZP_4592 = {
+		name = Toohoolhoolzote_Wallowa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

@@ -1,0 +1,24 @@
+state = {
+	id = 903
+	name = "STATE_903"
+	manpower = 13653
+	resources = {
+		tungsten = 16
+	}
+
+	state_category = rural
+
+	history = {
+		owner = MEX
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = MEX
+	}
+
+	provinces = {
+		7764 7818 
+	}
+}

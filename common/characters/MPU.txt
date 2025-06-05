@@ -1,0 +1,174 @@
+characters = {
+	MPU_1879 = {
+		name = Pengshiba_II_Ganavira
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	MPU_224 = {
+		name = Chingthang_Akaba
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_224
+			cost = 150
+		}
+	}
+	MPU_226 = {
+		name = Chingthang_Devi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_226
+			cost = 150
+		}
+	}
+	MPU_227 = {
+		name = Pitambara_Sharma
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_227
+			cost = 150
+		}
+	}
+	MPU_228 = {
+		name = Devendra_Ningthouja
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_228
+			cost = 150
+		}
+	}
+	MPU_229 = {
+		name = Moduchanrda_Sharma
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_229
+			cost = 150
+		}
+	}
+	MPU_230 = {
+		name = Nara_Devi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_230
+			cost = 150
+		}
+	}
+	MPU_231 = {
+		name = Devendra_Khomba
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_231
+			cost = 150
+		}
+	}
+	MPU_1878 = {
+		name = Chingthang_Khomba_Ganavira
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { reluctant_interventionist }
+			slot = political_advisor
+			idea_token = i_1878
+			cost = 150
+		}
+	}
+	MPU_1880 = {
+		name = Khagemba_Shubol_Devi
+		portraits = {
+			army = {
+				large = GFX_portrait_unknown
+				small = GFX_portrait_unknown_small
+			}
+		}
+		corps_commander = {
+			traits = { harsh_leader }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 2
+			logistics_skill = 1
+		}
+	}
+	MPU_2402 = {
+		name = Bekendra_Akaba
+		portraits = {
+			army = {
+				large = GFX_portrait_unknown
+				small = GFX_portrait_unknown_small
+			}
+		}
+		corps_commander = {
+			traits = { harsh_leader trait_mountaineer }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 2
+		}
+	}
+	MPU_16777467 = {
+		name = Moduchanrda_Ningthouja
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_16777467
+			cost = 150
+		}
+	}
+}

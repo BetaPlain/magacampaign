@@ -1,0 +1,145 @@
+characters = {
+	S08_4356 = {
+		name = Pitseolak_Tullaugaq
+		portraits = {
+			civilian = {
+				large = GFX_portrait_south_america_generic_7
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	S08_1128 = {
+		name = Jack_Paniloo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_1128
+			cost = 150
+		}
+	}
+	S08_1129 = {
+		name = David_Nutarak
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { silent_workhorse }
+			slot = political_advisor
+			idea_token = i_1129
+			cost = 150
+		}
+	}
+	S08_1130 = {
+		name = Jose_2_Atagotaaluk
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_1130
+			cost = 150
+		}
+	}
+	S08_1131 = {
+		name = Kenojuak_Tullaugaq
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { silent_workhorse }
+			slot = political_advisor
+			idea_token = i_1131
+			cost = 150
+		}
+	}
+	S08_1132 = {
+		name = Markoosie_Atagotaaluk
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { grand_fleet_proponent }
+			slot = political_advisor
+			idea_token = i_1132
+			cost = 150
+		}
+	}
+	S08_1133 = {
+		name = Germaine_Atagotaaluk
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_1133
+			cost = 150
+		}
+	}
+	S08_1134 = {
+		name = James_Atagotaaluk
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_1134
+			cost = 150
+		}
+	}
+	S08_1135 = {
+		name = Ernie_Tullaugaq
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	S08_3534 = {
+		name = Ipeelee_Evaloarjuk
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_4
+				small = GFX_Portrait_South_America_Generic_land_4_small
+			}
+		}
+		corps_commander = {
+			traits = { cavalry_officer commando }
+			skill = 2
+			attack_skill = 3
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 2
+		}
+	}
+	S08_4613 = {
+		name = Titus_Tullaugaq
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

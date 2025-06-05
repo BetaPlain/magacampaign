@@ -1,0 +1,27 @@
+state = {
+	id = 480
+	name = "STATE_480"
+	manpower = 362408
+	resources = {
+		steel = 6
+	}
+
+	state_category = rural
+
+	history = {
+		owner = SCA
+		victory_points = {
+			2996 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = SCA
+	}
+
+	provinces = {
+		62 84 106 143 164 174 2996 3056 3079 3087 3099 3135 3164 6091 6112 6119 6166 6190 9043 9101 9110 9113 9168 9202 9222 11074 11086 11095 11143 11177 
+	}
+}

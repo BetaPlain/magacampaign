@@ -1,0 +1,146 @@
+characters = {
+	BNG_4277 = {
+		name = Mabi_Bukuru
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_Africa_Army_Generic_2
+				small = GFX_Portrait_South_Africa_Army_Generic_2_small
+			}
+			civilian = {
+				large = GFX_Portrait_South_Africa_Army_Generic_2
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+		field_marshal = {
+			traits = { old_guard ranger trait_reckless }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 3
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+	BNG_408 = {
+		name = Koloso_Sungilanga
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_408
+			cost = 150
+		}
+	}
+	BNG_409 = {
+		name = Banyingela_Alenga
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_409
+			cost = 150
+		}
+	}
+	BNG_410 = {
+		name = Kisempia_Alenga
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_410
+			cost = 150
+		}
+	}
+	BNG_411 = {
+		name = Mauva_Bukuru
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_411
+			cost = 150
+		}
+	}
+	BNG_412 = {
+		name = Banyingela_Bukuru
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_412
+			cost = 150
+		}
+	}
+	BNG_413 = {
+		name = Ilunga_Katsuva
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_413
+			cost = 150
+		}
+	}
+	BNG_414 = {
+		name = Mosambaye_Katsuva
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_414
+			cost = 150
+		}
+	}
+	BNG_415 = {
+		name = Kisula_Katsuva
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { fascist_demagogue }
+			slot = political_advisor
+			idea_token = i_415
+			cost = 150
+		}
+	}
+	BNG_16781667 = {
+		name = Kalenga_Bukuru
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

@@ -1,0 +1,145 @@
+characters = {
+	UTE_4263 = {
+		name = Guero_Umatilla
+		portraits = {
+			civilian = {
+				large = GFX_portrait_south_america_generic_9
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	UTE_256 = {
+		name = Kanosh_Daggett
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_256
+			cost = 150
+		}
+	}
+	UTE_257 = {
+		name = Sapinero_Timbimboo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_257
+			cost = 150
+		}
+	}
+	UTE_258 = {
+		name = Severo_Umatilla
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	UTE_259 = {
+		name = Posey_Timpanog
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_259
+			cost = 150
+		}
+	}
+	UTE_260 = {
+		name = Cameahwait_Timpanog
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_260
+			cost = 150
+		}
+	}
+	UTE_261 = {
+		name = Wirasuap_Estep
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { communist_revolutionary }
+			slot = political_advisor
+			idea_token = i_261
+			cost = 150
+		}
+	}
+	UTE_262 = {
+		name = Ouray_Rael
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_262
+			cost = 150
+		}
+	}
+	UTE_263 = {
+		name = Colorow_Trahant
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_263
+			cost = 150
+		}
+	}
+	UTE_2443 = {
+		name = Ouray_House
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_3
+				small = GFX_Portrait_South_America_Generic_land_3_small
+			}
+		}
+		corps_commander = {
+			traits = { old_guard }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	UTE_16778956 = {
+		name = Tse-Ne-Gat_Umatilla
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

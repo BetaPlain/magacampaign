@@ -1,0 +1,25 @@
+state = {
+	id = 799
+	name = "STATE_799"
+	manpower = 189552
+
+	state_category = rural
+
+	history = {
+		owner = TNG
+		victory_points = {
+			7290 15
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 5
+		}
+		add_core_of = TNG
+	}
+
+	provinces = {
+		7290 13080 
+	}
+}

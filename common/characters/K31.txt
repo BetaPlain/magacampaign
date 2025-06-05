@@ -1,0 +1,151 @@
+characters = {
+	K31_4308 = {
+		name = Raoni_Bororo
+		portraits = {
+			civilian = {
+				large = GFX_portrait_south_america_generic_7
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	K31_712 = {
+		name = Julio_Matses
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { propaganda_expert }
+			slot = political_advisor
+			idea_token = i_712
+			cost = 150
+		}
+	}
+	K31_713 = {
+		name = David_Xerente
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { silent_workhorse }
+			slot = political_advisor
+			idea_token = i_713
+			cost = 150
+		}
+	}
+	K31_714 = {
+		name = Duarte_Nambikwara
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_714
+			cost = 150
+		}
+	}
+	K31_715 = {
+		name = Sergio_Kamakan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_715
+			cost = 150
+		}
+	}
+	K31_716 = {
+		name = Bento_Baniwa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_716
+			cost = 150
+		}
+	}
+	K31_717 = {
+		name = Rafael_2_Kaingang
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_717
+			cost = 150
+		}
+	}
+	K31_718 = {
+		name = Leopoldo_Jeiko
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_718
+			cost = 150
+		}
+	}
+	K31_719 = {
+		name = Nuno_Kalinago
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_719
+			cost = 150
+		}
+	}
+	K31_3011 = {
+		name = Roberto_Matses
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_1
+				small = GFX_Portrait_South_America_Generic_land_1_small
+			}
+		}
+		corps_commander = {
+			traits = { desert_fox }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 1
+			planning_skill = 2
+			logistics_skill = 2
+		}
+	}
+	K31_16779052 = {
+		name = Simao_Bororo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

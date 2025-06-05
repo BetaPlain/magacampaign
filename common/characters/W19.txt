@@ -1,0 +1,145 @@
+characters = {
+	W19_4378 = {
+		name = Uboni_Kalina
+		portraits = {
+			civilian = {
+				large = GFX_portrait_south_america_generic_7
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	W19_1320 = {
+		name = JosE__Lorenzano
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_1320
+			cost = 150
+		}
+	}
+	W19_1321 = {
+		name = Seme_n_Colo_n
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_1321
+			cost = 150
+		}
+	}
+	W19_1322 = {
+		name = Esteban_Palacio
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_1322
+			cost = 150
+		}
+	}
+	W19_1323 = {
+		name = Domingo_Kalina
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1323
+			cost = 150
+		}
+	}
+	W19_1324 = {
+		name = Segundo_Chatoyer
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	W19_1325 = {
+		name = Segundo_Martinez
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_1325
+			cost = 150
+		}
+	}
+	W19_1326 = {
+		name = Esteban_Kalina
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_1326
+			cost = 150
+		}
+	}
+	W19_1327 = {
+		name = Enes_Flores
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_1327
+			cost = 150
+		}
+	}
+	W19_3773 = {
+		name = Enes_Kalina
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_4
+				small = GFX_Portrait_South_America_Generic_land_4_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	W19_16778683 = {
+		name = Pantaleon_Kalina
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

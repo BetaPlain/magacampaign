@@ -1,0 +1,146 @@
+characters = {
+	IN1_4301 = {
+		name = esx_Samwillie_Atagotaaluk
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_3
+				small = GFX_Portrait_Asia_Generic_land_3_small
+			}
+			civilian = {
+				large = GFX_Portrait_Asia_Generic_land_3
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+		field_marshal = {
+			traits = { old_guard ranger trait_reckless }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 3
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+	IN1_656 = {
+		name = esx_Jamasie_Tullaugaq
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_656
+			cost = 150
+		}
+	}
+	IN1_657 = {
+		name = esx_Aiyarani_dyn_esx_Nyuurnibe
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_657
+			cost = 150
+		}
+	}
+	IN1_658 = {
+		name = esx_Pudlo_Atagotaaluk
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_658
+			cost = 150
+		}
+	}
+	IN1_659 = {
+		name = esx_Silasie_dyn_esx_Kunuk
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_659
+			cost = 150
+		}
+	}
+	IN1_660 = {
+		name = esx_Kavavau_Tullaugaq
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_660
+			cost = 150
+		}
+	}
+	IN1_661 = {
+		name = esx_Toonoo_dyn_esx_Kusugak
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { fascist_demagogue }
+			slot = political_advisor
+			idea_token = i_661
+			cost = 150
+		}
+	}
+	IN1_662 = {
+		name = esx_Echalook_dyn_esx_Lucassie
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_662
+			cost = 150
+		}
+	}
+	IN1_663 = {
+		name = esx_Epirvik_dyn_esx_Qimirpiq
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_663
+			cost = 150
+		}
+	}
+	IN1_4593 = {
+		name = esx_Juanasi_Atagotaaluk
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

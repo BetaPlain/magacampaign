@@ -1,0 +1,378 @@
+characters = {
+	HRE_1799 = {
+		name = Maximilian_III_von_Habsburg
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = centrism
+			traits = {  }
+		}
+	}
+	HRE_280 = {
+		name = de_Denis_dyn_de_Schneider
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_280
+			cost = 150
+		}
+	}
+	HRE_281 = {
+		name = de_Michael_dyn_de_Siegel
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_281
+			cost = 150
+		}
+	}
+	HRE_282 = {
+		name = de_Emil_von_Nagel_zu_Aichberg
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_282
+			cost = 150
+		}
+	}
+	HRE_283 = {
+		name = de_Maik_dyn_de_Kurtz
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_283
+			cost = 150
+		}
+	}
+	HRE_284 = {
+		name = de_Elias_von_Denis
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_284
+			cost = 150
+		}
+	}
+	HRE_285 = {
+		name = de_Heinrich_dyn_de_Metz
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_285
+			cost = 150
+		}
+	}
+	HRE_286 = {
+		name = de_Heinrich_dyn_de_Schafer
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_286
+			cost = 150
+		}
+	}
+	HRE_287 = {
+		name = de_Adelbert_dyn_de_Linder
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_287
+			cost = 150
+		}
+	}
+	HRE_1790 = {
+		name = Matthias_Wachsmuth_dyn_de_Mann
+		portraits = {
+			army = {
+				large = GFX_Portrait_Germany_Generic_land_4
+				small = GFX_Portrait_Germany_Generic_land_4_small
+			}
+		}
+		field_marshal = {
+			traits = { armor_officer offensive_doctrine }
+			skill = 3
+			attack_skill = 4
+			defense_skill = 1
+			planning_skill = 3
+			logistics_skill = 2
+		}
+	}
+	HRE_1791 = {
+		name = Friedrich_Deneke_dyn_it_Donizetti
+		portraits = {
+			army = {
+				large = GFX_Portrait_Italy_Generic_land_5
+				small = GFX_Portrait_Italy_Generic_land_5_small
+			}
+		}
+		corps_commander = {
+			traits = { infantry_officer }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 2
+		}
+	}
+	HRE_1792 = {
+		name = Ludwig_Oelgemoller_dyn_cs_Kozelka
+		portraits = {
+			army = {
+				large = GFX_portrait_europe_generic_land_8
+				small = GFX_portrait_europe_generic_land_8_small
+			}
+		}
+		corps_commander = {
+			traits = { infantry_officer ranger }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+	HRE_1793 = {
+		name = Friedrich_Albrecht_Kohn_dyn_cs_Walko
+		portraits = {
+			army = {
+				large = GFX_portrait_europe_generic_land_7
+				small = GFX_portrait_europe_generic_land_7_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	HRE_1794 = {
+		name = Karl_Joseph_Arndt_dyn_cs_Matejka
+		portraits = {
+			army = {
+				large = GFX_Portrait_Europe_Generic_land_5
+				small = GFX_Portrait_Europe_Generic_land_5_small
+			}
+		}
+		field_marshal = {
+			traits = { career_officer organizer }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+	HRE_1795 = {
+		name = Friedrich_von_Habsburg
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { propaganda_expert }
+			slot = political_advisor
+			idea_token = i_1795
+			cost = 150
+		}
+	}
+	HRE_1796 = {
+		name = August_Buttner_dyn_de_Altman
+		portraits = {
+			army = {
+				large = GFX_Portrait_Germany_Generic_land_9
+				small = GFX_Portrait_Germany_Generic_land_9_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	HRE_1797 = {
+		name = Ladislav_Necker_dyn_cs_Dudeck
+		portraits = {
+			army = {
+				large = GFX_portrait_europe_generic_land_13
+				small = GFX_portrait_europe_generic_land_13_small
+			}
+		}
+		corps_commander = {
+			traits = { ranger }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 2
+			logistics_skill = 1
+		}
+	}
+	HRE_1800 = {
+		name = Maximilian_Philipp_Becker_dyn_it_Viotti
+		portraits = {
+			army = {
+				large = GFX_Portrait_Italy_Generic_land_6
+				small = GFX_Portrait_Italy_Generic_land_6_small
+			}
+		}
+		corps_commander = {
+			traits = { infantry_officer }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 2
+		}
+	}
+	HRE_1801 = {
+		name = Karl_Albrecht_von_Vitzgau_dyn_de_Fritz
+		portraits = {
+			army = {
+				large = GFX_Portrait_Germany_Generic_land_8
+				small = GFX_Portrait_Germany_Generic_land_8_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 2
+		}
+	}
+	HRE_1803 = {
+		name = Wilhelm_Thelen_dyn_cs_Hanzely
+		portraits = {
+			army = {
+				large = GFX_Portrait_Europe_Generic_land_3
+				small = GFX_Portrait_Europe_Generic_land_3_small
+			}
+		}
+		corps_commander = {
+			traits = { harsh_leader trait_mountaineer }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 2
+			logistics_skill = 2
+		}
+	}
+	HRE_1804 = {
+		name = Karl_Scharfbillig_dyn_cs_Tomek
+		portraits = {
+			army = {
+				large = GFX_Portrait_Europe_Generic_land_2
+				small = GFX_Portrait_Europe_Generic_land_2_small
+			}
+		}
+		corps_commander = {
+			traits = { desert_fox infantry_officer }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 2
+			logistics_skill = 3
+		}
+	}
+	HRE_1805 = {
+		name = Joseph_Carl_dyn_it_Lojodice
+		portraits = {
+			army = {
+				large = GFX_Portrait_Italy_Generic_land_3
+				small = GFX_Portrait_Italy_Generic_land_3_small
+			}
+		}
+		corps_commander = {
+			traits = { armor_officer }
+			skill = 1
+			attack_skill = 2
+			defense_skill = 1
+			planning_skill = 2
+			logistics_skill = 1
+		}
+	}
+	HRE_1806 = {
+		name = Johann_Haase_dyn_cs_Suchopcek
+		portraits = {
+			army = {
+				large = GFX_Portrait_Europe_Generic_land_1
+				small = GFX_Portrait_Europe_Generic_land_1_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	HRE_2477 = {
+		name = de_Gerald_dyn_de_Swartz
+		portraits = {
+			navy = {
+				large = GFX_Portrait_Germany_Generic_navy_3
+				small = GFX_Portrait_Germany_Generic_navy_3_small
+			}
+		}
+		navy_leader = {
+			traits = { chief_engineer }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			maneuvering_skill = 2
+			coordination_skill = 1
+		}
+	}
+}

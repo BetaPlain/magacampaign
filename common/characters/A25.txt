@@ -1,0 +1,146 @@
+characters = {
+	A25_4269 = {
+		name = JosE__Chatoyer
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_2
+				small = GFX_Portrait_South_America_Generic_land_2_small
+			}
+			civilian = {
+				large = GFX_Portrait_South_America_Generic_land_2
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+		field_marshal = {
+			traits = { armor_officer logistics_wizard old_guard organizer }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 3
+			planning_skill = 1
+			logistics_skill = 3
+		}
+	}
+	A25_328 = {
+		name = Aurelio_Lopez
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_328
+			cost = 150
+		}
+	}
+	A25_329 = {
+		name = Ebedimu_Colo_n
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_329
+			cost = 150
+		}
+	}
+	A25_330 = {
+		name = Ebedimu_Palacio
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_330
+			cost = 150
+		}
+	}
+	A25_331 = {
+		name = Ebedimu_Flores
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_331
+			cost = 150
+		}
+	}
+	A25_332 = {
+		name = Ebedimu_Panapi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_332
+			cost = 150
+		}
+	}
+	A25_333 = {
+		name = Enes_Lopez
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_333
+			cost = 150
+		}
+	}
+	A25_334 = {
+		name = Brigido_Flores
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_334
+			cost = 150
+		}
+	}
+	A25_335 = {
+		name = Segundo_Lopez
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_335
+			cost = 150
+		}
+	}
+	A25_16779258 = {
+		name = Enes_Chatoyer
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

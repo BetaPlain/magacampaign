@@ -1,0 +1,30 @@
+state = {
+	id = 260
+	name = "STATE_260"
+	manpower = 569574
+	resources = {
+		rubber = 0
+		steel = 1
+		tungsten = 1
+	}
+
+	state_category = rural
+
+	history = {
+		owner = LAN
+		victory_points = {
+			12125 1
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+		}
+		add_core_of = LAN
+	}
+
+	provinces = {
+		1403 7295 12125 
+	}
+}

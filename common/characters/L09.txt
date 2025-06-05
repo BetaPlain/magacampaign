@@ -1,0 +1,143 @@
+characters = {
+	L09_1837 = {
+		name = Marron_Kalti_dyn_au_Djilangya
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			traits = {  }
+		}
+	}
+	L09_800 = {
+		name = au_Marron_Totj
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { propaganda_expert }
+			slot = political_advisor
+			idea_token = i_800
+			cost = 150
+		}
+	}
+	L09_801 = {
+		name = au_Parri_dyn_au_Tipungwuti
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_801
+			cost = 150
+		}
+	}
+	L09_802 = {
+		name = au_Apari_dyn_au_Wubugwubuk
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_802
+			cost = 150
+		}
+	}
+	L09_804 = {
+		name = au_Matong_Jarowair
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { communist_revolutionary }
+			slot = political_advisor
+			idea_token = i_804
+			cost = 150
+		}
+	}
+	L09_806 = {
+		name = au_Mudjidell_dyn_au_Tapai
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_806
+			cost = 150
+		}
+	}
+	L09_807 = {
+		name = au_Jirra_dyn_au_Yamma
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_807
+			cost = 150
+		}
+	}
+	L09_3123 = {
+		name = au_Gelar_dyn_au_Jabanungga
+		portraits = {
+			army = {
+				large = GFX_Portrait_asia_generic_land_5
+				small = GFX_Portrait_asia_generic_land_5_small
+			}
+		}
+		corps_commander = {
+			traits = { career_officer ranger }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 3
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+	L09_16779178 = {
+		name = au_Gatjil_dyn_au_Baymarrwangga
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_16779178
+			cost = 150
+		}
+	}
+	L09_16780107 = {
+		name = au_Taree_dyn_au_Narogin
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_16780107
+			cost = 150
+		}
+	}
+}

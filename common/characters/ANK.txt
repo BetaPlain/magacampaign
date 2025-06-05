@@ -1,0 +1,174 @@
+characters = {
+	ANK_1715 = {
+		name = Ruhinda_V_Hinda
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	ANK_368 = {
+		name = Terwewalwa_Ndiga
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_368
+			cost = 150
+		}
+	}
+	ANK_369 = {
+		name = Musanje_Ngonge
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_369
+			cost = 150
+		}
+	}
+	ANK_370 = {
+		name = Kikulwe_Lugave
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_370
+			cost = 150
+		}
+	}
+	ANK_371 = {
+		name = Terwewalwa_Mmamba
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_371
+			cost = 150
+		}
+	}
+	ANK_372 = {
+		name = Kikulwe_Bagalayze
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_372
+			cost = 150
+		}
+	}
+	ANK_373 = {
+		name = Semakookiro_Njovu
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_373
+			cost = 150
+		}
+	}
+	ANK_374 = {
+		name = Jjunju_Mmamba
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_374
+			cost = 150
+		}
+	}
+	ANK_375 = {
+		name = Namugala_Ngonge
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_375
+			cost = 150
+		}
+	}
+	ANK_1712 = {
+		name = Mutambuka_Bongera_Ndahindurwa
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_Africa_Army_Generic_2
+				small = GFX_Portrait_South_Africa_Army_Generic_2_small
+			}
+		}
+		corps_commander = {
+			traits = { infantry_officer }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 2
+		}
+	}
+	ANK_1713 = {
+		name = Ruhinda_Hinda
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_1713
+			cost = 150
+		}
+	}
+	ANK_2583 = {
+		name = Kagali_Nseenene
+		portraits = {
+			army = {
+				large = GFX_Portrait_Africa_Generic_land_3
+				small = GFX_Portrait_Africa_Generic_land_3_small
+			}
+		}
+		corps_commander = {
+			traits = { armor_officer organizer }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 3
+		}
+	}
+}

@@ -1,0 +1,151 @@
+characters = {
+	M45_4328 = {
+		name = Augusto_Wayana
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_South_America_Generic_3
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	M45_888 = {
+		name = Anibal_Jeiko
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_888
+			cost = 150
+		}
+	}
+	M45_889 = {
+		name = Donato_Paiakan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_889
+			cost = 150
+		}
+	}
+	M45_890 = {
+		name = Vasco_Guayana
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_890
+			cost = 150
+		}
+	}
+	M45_891 = {
+		name = Rafael_2_Jeiko
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_891
+			cost = 150
+		}
+	}
+	M45_892 = {
+		name = Bento_Parintintin
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_892
+			cost = 150
+		}
+	}
+	M45_893 = {
+		name = Hugo_Arawa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_893
+			cost = 150
+		}
+	}
+	M45_894 = {
+		name = Bernardo_Xavante
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_894
+			cost = 150
+		}
+	}
+	M45_895 = {
+		name = JoA_o_Bororo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_895
+			cost = 150
+		}
+	}
+	M45_3233 = {
+		name = Francisco_Yanomami
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_5
+				small = GFX_Portrait_South_America_Generic_land_5_small
+			}
+		}
+		corps_commander = {
+			traits = { infantry_officer organizer }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+	M45_16777834 = {
+		name = Hugo_Wayana
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

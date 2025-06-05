@@ -1,0 +1,185 @@
+characters = {
+	BAL_2016 = {
+		name = Tuni_Djallori_I_Palopo
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	BAL_1416 = {
+		name = Jordao_Kolano
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { fascist_demagogue }
+			slot = political_advisor
+			idea_token = i_1416
+			cost = 150
+		}
+	}
+	BAL_1417 = {
+		name = Denny_Mainaky
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_1417
+			cost = 150
+		}
+	}
+	BAL_1418 = {
+		name = Levi_Mainaky
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_1418
+			cost = 150
+		}
+	}
+	BAL_1419 = {
+		name = Ignacio_Kolano
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_1419
+			cost = 150
+		}
+	}
+	BAL_1420 = {
+		name = Jos_Kolano
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1420
+			cost = 150
+		}
+	}
+	BAL_1421 = {
+		name = Mohammad_Kolano
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_1421
+			cost = 150
+		}
+	}
+	BAL_1422 = {
+		name = Jordao_Palyama
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { ideological_crusader }
+			slot = political_advisor
+			idea_token = i_1422
+			cost = 150
+		}
+	}
+	BAL_1423 = {
+		name = Mohammad_Pelmelay
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_1423
+			cost = 150
+		}
+	}
+	BAL_2015 = {
+		name = Muhammad_Sa_id_Palopo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	BAL_2017 = {
+		name = Tunitangkalopi_Chairul_Pelmelay
+		portraits = {
+			navy = {
+				large = GFX_Portrait_Asia_Generic_navy_1
+				small = GFX_Portrait_Asia_Generic_navy_1_small
+			}
+		}
+		navy_leader = {
+			traits = { cuts_corners }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			maneuvering_skill = 2
+			coordination_skill = 2
+		}
+	}
+	BAL_3890 = {
+		name = Edinho_Kolano
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_2
+				small = GFX_Portrait_Asia_Generic_land_2_small
+			}
+		}
+		corps_commander = {
+			traits = { infantry_officer }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 2
+		}
+	}
+	BAL_4530 = {
+		name = Dominggus_Kolano
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_1
+				small = GFX_Portrait_Asia_Generic_land_1_small
+			}
+		}
+		corps_commander = {
+			traits = { brilliant_strategist infantry_officer }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 2
+		}
+	}
+}

@@ -1,0 +1,27 @@
+state = {
+	id = 801
+	name = "STATE_801"
+	manpower = 263871
+	resources = {
+		chromium = 59
+	}
+
+	state_category = rural
+
+	history = {
+		owner = LAN
+		victory_points = {
+			4247 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = LAN
+	}
+
+	provinces = {
+		1237 4247 7390 12120 
+	}
+}

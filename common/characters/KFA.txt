@@ -1,0 +1,143 @@
+characters = {
+	KFA_4472 = {
+		name = Aba_Minjo
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	KFA_760 = {
+		name = Tekle_Qallu
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_760
+			cost = 150
+		}
+	}
+	KFA_761 = {
+		name = Galli_Gaocho
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_761
+			cost = 150
+		}
+	}
+	KFA_762 = {
+		name = Gaha_Gaocho
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_762
+			cost = 150
+		}
+	}
+	KFA_763 = {
+		name = Gaki_Ginocho
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_763
+			cost = 150
+		}
+	}
+	KFA_764 = {
+		name = Gunji_Dinagde
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_764
+			cost = 150
+		}
+	}
+	KFA_765 = {
+		name = Jawe_Damot
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_765
+			cost = 150
+		}
+	}
+	KFA_766 = {
+		name = Tekle_Gaocho
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_766
+			cost = 150
+		}
+	}
+	KFA_767 = {
+		name = Aba_Bulgu
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_767
+			cost = 150
+		}
+	}
+	KFA_3073 = {
+		name = Galli_Damot
+		portraits = {
+			army = {
+				large = GFX_portrait_ETH_generic_male_4
+				small = GFX_portrait_ETH_generic_male_4_small
+			}
+		}
+		corps_commander = {
+			traits = { brilliant_strategist old_guard }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+}

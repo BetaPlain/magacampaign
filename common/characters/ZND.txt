@@ -1,0 +1,151 @@
+characters = {
+	ZND_4385 = {
+		name = Mwerve_Vungara
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_South_Africa_Political_Leader_Generic_2
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	ZND_1696 = {
+		name = Rugema_Dericoyard
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_1696
+			cost = 150
+		}
+	}
+	ZND_1697 = {
+		name = Ngabwe_Vungara
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_1697
+			cost = 150
+		}
+	}
+	ZND_1698 = {
+		name = Birhenjira_Dericoyard
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_1698
+			cost = 150
+		}
+	}
+	ZND_1699 = {
+		name = Souau_Nabushi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_1699
+			cost = 150
+		}
+	}
+	ZND_1700 = {
+		name = Rugema_Vungara
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_1700
+			cost = 150
+		}
+	}
+	ZND_1701 = {
+		name = Rugemaninzi_Younga
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_1701
+			cost = 150
+		}
+	}
+	ZND_1702 = {
+		name = Souau_Younga
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_1702
+			cost = 150
+		}
+	}
+	ZND_1703 = {
+		name = Mwerve_Nabushi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_1703
+			cost = 150
+		}
+	}
+	ZND_4240 = {
+		name = Kabare_Dericoyard
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_Africa_Army_Generic_2
+				small = GFX_Portrait_South_Africa_Army_Generic_2_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	ZND_16779280 = {
+		name = Ngabwe_Vungara
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

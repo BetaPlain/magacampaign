@@ -1,0 +1,151 @@
+characters = {
+	P25_4353 = {
+		name = dw_Torui_dw_Mudaukaho
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_South_America_Generic_3
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	P25_1104 = {
+		name = dw_Torui_dw_Korobahado
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_1104
+			cost = 150
+		}
+	}
+	P25_1105 = {
+		name = dw_Haubariria_dw_Mudaukaho
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_1105
+			cost = 150
+		}
+	}
+	P25_1106 = {
+		name = dw_Wiwakaleme_dw_Waia
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_1106
+			cost = 150
+		}
+	}
+	P25_1107 = {
+		name = dw_Amorotahe_dw_Makushi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1107
+			cost = 150
+		}
+	}
+	P25_1108 = {
+		name = dw_Mbicy_dw_Mudaukaho
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_1108
+			cost = 150
+		}
+	}
+	P25_1109 = {
+		name = dw_Arah_dw_Nenege
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_1109
+			cost = 150
+		}
+	}
+	P25_1110 = {
+		name = dw_Arata_dw_Mudaukaho
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_1110
+			cost = 150
+		}
+	}
+	P25_1111 = {
+		name = dw_Mbicy_dw_Kafotay
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_1111
+			cost = 150
+		}
+	}
+	P25_3502 = {
+		name = dw_Amorotahe_dw_Waricha
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_4
+				small = GFX_Portrait_South_America_Generic_land_4_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	P25_16779166 = {
+		name = dw_Haubariria_dw_Mudaukaho
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

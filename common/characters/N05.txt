@@ -1,0 +1,151 @@
+characters = {
+	N05_4336 = {
+		name = Antonga_Tussawehee
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_South_America_Generic_3
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	N05_960 = {
+		name = Canalla_Rael
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_960
+			cost = 150
+		}
+	}
+	N05_961 = {
+		name = Antonga_Estep
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_961
+			cost = 150
+		}
+	}
+	N05_962 = {
+		name = Pocatello_Trudell
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_962
+			cost = 150
+		}
+	}
+	N05_963 = {
+		name = Tse-Ne-Gat_Trahant
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_963
+			cost = 150
+		}
+	}
+	N05_964 = {
+		name = Posey_Timpanog
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_964
+			cost = 150
+		}
+	}
+	N05_965 = {
+		name = Cameahwait_Manning
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_965
+			cost = 150
+		}
+	}
+	N05_966 = {
+		name = Pocatello_Timbimboo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_966
+			cost = 150
+		}
+	}
+	N05_967 = {
+		name = Pocatello_Manning
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { editor }
+			slot = political_advisor
+			idea_token = i_967
+			cost = 150
+		}
+	}
+	N05_3323 = {
+		name = Canalla_Timbimboo
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_2
+				small = GFX_Portrait_South_America_Generic_land_2_small
+			}
+		}
+		corps_commander = {
+			traits = { career_officer organizer }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+	N05_16780109 = {
+		name = Sapiah_Tussawehee
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

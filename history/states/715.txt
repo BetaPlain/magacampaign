@@ -1,0 +1,21 @@
+state = {
+	id = 715
+	name = "STATE_715"
+	manpower = 87219
+
+	state_category = rural
+
+	history = {
+		owner = PER
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = PER
+	}
+
+	provinces = {
+		1732 
+	}
+}

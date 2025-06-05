@@ -1,0 +1,31 @@
+state = {
+	id = 173
+	name = "STATE_173"
+	manpower = 1383084
+	resources = {
+		aluminium = 0
+		oil = 1
+		steel = 5
+		tungsten = 6
+	}
+
+	state_category = town
+
+	history = {
+		owner = HRE
+		victory_points = {
+			653 1
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 1
+		}
+		add_core_of = HRE
+	}
+
+	provinces = {
+		653 668 3673 6673 6687 6691 9646 9648 9650 9679 11612 
+	}
+}

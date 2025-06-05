@@ -1,0 +1,192 @@
+characters = {
+	X57_2056 = {
+		name = Elenoa_I_Lompo
+		gender = female
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	X57_1536 = {
+		name = fj_Filipe_dyn_fj_Gaunavou
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { communist_revolutionary }
+			slot = political_advisor
+			idea_token = i_1536
+			cost = 150
+		}
+	}
+	X57_1537 = {
+		name = fj_Jo_Sukuna
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_1537
+			cost = 150
+		}
+	}
+	X57_1538 = {
+		name = fj_Ovini_dyn_fj_Muavesi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1538
+			cost = 150
+		}
+	}
+	X57_1539 = {
+		name = fj_Lemeki_Sukuna
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_1539
+			cost = 150
+		}
+	}
+	X57_1540 = {
+		name = fj_Petero_Uluviti
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_1540
+			cost = 150
+		}
+	}
+	X57_1541 = {
+		name = fj_Jesoni_dyn_fj_Mailei
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { silent_workhorse }
+			slot = political_advisor
+			idea_token = i_1541
+			cost = 150
+		}
+	}
+	X57_1542 = {
+		name = fj_Berenado_dyn_fj_Rabukawaqa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_1542
+			cost = 150
+		}
+	}
+	X57_1543 = {
+		name = fj_Petero_dyn_fj_Finau
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_1543
+			cost = 150
+		}
+	}
+	X57_2055 = {
+		name = Adi_Lompo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_2055
+			cost = 150
+		}
+	}
+	X57_2057 = {
+		name = Tanna_Karavadi_dyn_fj_Banuve
+		portraits = {
+			navy = {
+				large = GFX_Portrait_Asia_Generic_navy_3
+				small = GFX_Portrait_Asia_Generic_navy_3_small
+			}
+		}
+		navy_leader = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			maneuvering_skill = 1
+			coordination_skill = 1
+		}
+	}
+	X57_2058 = {
+		name = Penaia_Kai_dyn_fj_Sauliga
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_2
+				small = GFX_Portrait_Asia_Generic_land_2_small
+			}
+		}
+		corps_commander = {
+			traits = { infantry_officer organizer }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 4
+		}
+	}
+	X57_4041 = {
+		name = fj_Jovesa_dyn_fj_Gaunavou
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_1
+				small = GFX_Portrait_Asia_Generic_land_1_small
+			}
+		}
+		corps_commander = {
+			traits = { desert_fox harsh_leader }
+			skill = 2
+			attack_skill = 3
+			defense_skill = 1
+			planning_skill = 2
+			logistics_skill = 1
+		}
+	}
+}

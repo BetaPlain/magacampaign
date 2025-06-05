@@ -1,0 +1,28 @@
+state = {
+	id = 298
+	name = "STATE_298"
+	manpower = 681308
+	resources = {
+		rubber = 5
+		tungsten = 5
+	}
+
+	state_category = rural
+
+	history = {
+		owner = SPR
+		victory_points = {
+			2024 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = SPR
+	}
+
+	provinces = {
+		1731 2024 4128 7716 8016 9986 12775 13370 
+	}
+}

@@ -1,0 +1,25 @@
+state = {
+	id = 85
+	name = "STATE_85"
+	manpower = 3297819
+
+	state_category = town
+
+	history = {
+		owner = PER
+		victory_points = {
+			4682 1
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 1
+		}
+		add_core_of = PER
+	}
+
+	provinces = {
+		1703 1766 1943 1970 2015 2074 4682 4828 4973 5016 5042 5087 7273 7790 7949 8042 8086 8112 10315 10821 10885 10911 12119 12864 
+	}
+}

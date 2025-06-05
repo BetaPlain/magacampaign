@@ -1,0 +1,26 @@
+state = {
+	id = 824
+	name = "STATE_824"
+	manpower = 285120
+	resources = {
+		chromium = 0
+		oil = 0
+	}
+
+	state_category = rural
+
+	history = {
+		owner = DFT
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 5
+		}
+		add_core_of = DFT
+	}
+
+	provinces = {
+		10764 10857 
+	}
+}

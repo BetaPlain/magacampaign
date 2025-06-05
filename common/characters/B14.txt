@@ -1,0 +1,174 @@
+characters = {
+	B14_1722 = {
+		name = Bata_Saja_I_Butuan
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	B14_384 = {
+		name = tl_Kidlat_Aguainaldo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_384
+			cost = 150
+		}
+	}
+	B14_385 = {
+		name = tl_Heherson_dyn_tl_Dailisan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_385
+			cost = 150
+		}
+	}
+	B14_386 = {
+		name = tl_Joriz_Mangubat
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_386
+			cost = 150
+		}
+	}
+	B14_387 = {
+		name = tl_Bayani_dyn_tl_Dimaunahan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_387
+			cost = 150
+		}
+	}
+	B14_388 = {
+		name = Simeon_2_Burgos
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_388
+			cost = 150
+		}
+	}
+	B14_389 = {
+		name = Manuel_dyn_tl_Maghirang
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { editor }
+			slot = political_advisor
+			idea_token = i_389
+			cost = 150
+		}
+	}
+	B14_390 = {
+		name = JosE__Bonifacio
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_390
+			cost = 150
+		}
+	}
+	B14_391 = {
+		name = tl_Buwan_dyn_tl_Casacop
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_391
+			cost = 150
+		}
+	}
+	B14_1720 = {
+		name = Awi_Karna_dyn_tl_Maranan
+		portraits = {
+			navy = {
+				large = GFX_Portrait_Asia_Generic_navy_2
+				small = GFX_Portrait_Asia_Generic_navy_2_small
+			}
+		}
+		navy_leader = {
+			traits = { naval_lineage }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			maneuvering_skill = 1
+			coordination_skill = 2
+		}
+	}
+	B14_1721 = {
+		name = Colambu_Butuan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_1721
+			cost = 150
+		}
+	}
+	B14_2602 = {
+		name = Simeon_2_dyn_tl_Mamaril
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_2
+				small = GFX_Portrait_Asia_Generic_land_2_small
+			}
+		}
+		corps_commander = {
+			traits = { ranger trait_reckless }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+}

@@ -1,0 +1,208 @@
+characters = {
+	MLI_905 = {
+		name = Losene_Konneh
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Africa_Generic_2
+			}
+		}
+		country_leader = {
+			ideology = conservatism
+			traits = {  }
+		}
+	}
+	MLI_904 = {
+		name = Daba_Konneh
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_904
+			cost = 150
+		}
+	}
+	MLI_906 = {
+		name = Massa_Jammeh
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_906
+			cost = 150
+		}
+	}
+	MLI_907 = {
+		name = Kanji_Suso
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { silent_workhorse }
+			slot = political_advisor
+			idea_token = i_907
+			cost = 150
+		}
+	}
+	MLI_908 = {
+		name = Kanji_Sankoh
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_908
+			cost = 150
+		}
+	}
+	MLI_909 = {
+		name = Alhassani_Sidibe
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_909
+			cost = 150
+		}
+	}
+	MLI_910 = {
+		name = Foda_Sidibe
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	MLI_911 = {
+		name = Massa_Diawara
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_911
+			cost = 150
+		}
+	}
+	MLI_1860 = {
+		name = Da_ud_Diarra_Congacou
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_Africa_Army_Generic_2
+				small = GFX_Portrait_South_Africa_Army_Generic_2_small
+			}
+		}
+		corps_commander = {
+			traits = { organizer }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 3
+		}
+	}
+	MLI_1861 = {
+		name = Mami_Amadou_Zamnagawa
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_Africa_Army_Generic_2
+				small = GFX_Portrait_South_Africa_Army_Generic_2_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	MLI_1862 = {
+		name = Sanibar_Moussa_Koddu
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_Africa_Army_Generic
+				small = GFX_Portrait_South_Africa_Army_Generic_small
+			}
+		}
+		corps_commander = {
+			traits = { commando organizer }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 4
+		}
+	}
+	MLI_1863 = {
+		name = Dhu_al-Nun_Deo_Wattara
+		portraits = {
+			army = {
+				large = GFX_Portrait_Africa_Generic_land_4
+				small = GFX_Portrait_Africa_Generic_land_4_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	MLI_1864 = {
+		name = _Ammar_Keita_Beri
+		portraits = {
+			navy = {
+				large = GFX_Portrait_Africa_Generic_navy_4
+				small = GFX_Portrait_Africa_Generic_navy_4_small
+			}
+		}
+		navy_leader = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			maneuvering_skill = 1
+			coordination_skill = 1
+		}
+	}
+	MLI_1866 = {
+		name = _Ali_Zalil_Konare_Bari
+		portraits = {
+			navy = {
+				large = GFX_Portrait_Africa_Generic_navy_4
+				small = GFX_Portrait_Africa_Generic_navy_4_small
+			}
+		}
+		navy_leader = {
+			traits = { arctic_water_expert }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			maneuvering_skill = 1
+			coordination_skill = 1
+		}
+	}
+}

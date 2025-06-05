@@ -1,0 +1,151 @@
+characters = {
+	N22_4341 = {
+		name = David_Canela
+		portraits = {
+			civilian = {
+				large = GFX_portrait_south_america_generic_9
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	N22_1000 = {
+		name = Francisco_Puri
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_1000
+			cost = 150
+		}
+	}
+	N22_1001 = {
+		name = David_Hupda
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_1001
+			cost = 150
+		}
+	}
+	N22_1002 = {
+		name = Lucas_Yanomamo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1002
+			cost = 150
+		}
+	}
+	N22_1003 = {
+		name = Vasco_Jecupe
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_1003
+			cost = 150
+		}
+	}
+	N22_1004 = {
+		name = Raoni_Hupda
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_1004
+			cost = 150
+		}
+	}
+	N22_1005 = {
+		name = Fernando_Kayapo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_1005
+			cost = 150
+		}
+	}
+	N22_1006 = {
+		name = Zeferino_Timbira
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_1006
+			cost = 150
+		}
+	}
+	N22_1007 = {
+		name = Nuno_Matses
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_1007
+			cost = 150
+		}
+	}
+	N22_3370 = {
+		name = Duarte_Arawa
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_4
+				small = GFX_Portrait_South_America_Generic_land_4_small
+			}
+		}
+		corps_commander = {
+			traits = { organizer trait_reckless }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 1
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+	N22_16777516 = {
+		name = Bernardo_Canela
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

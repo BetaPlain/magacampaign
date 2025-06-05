@@ -1,0 +1,25 @@
+state = {
+	id = 365
+	name = "STATE_365"
+	manpower = 724486
+
+	state_category = rural
+
+	history = {
+		owner = LAO
+		victory_points = {
+			1592 1
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+		}
+		add_core_of = LAO
+	}
+
+	provinces = {
+		1563 1592 10453 
+	}
+}

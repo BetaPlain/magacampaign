@@ -1,0 +1,29 @@
+state = {
+	id = 862
+	name = "STATE_862"
+	manpower = 124836
+	resources = {
+		aluminium = 1
+		rubber = 0
+	}
+
+	state_category = rural
+
+	history = {
+		owner = UYA
+		victory_points = {
+			10972 10
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 5
+		}
+		add_core_of = UYA
+	}
+
+	provinces = {
+		10972 
+	}
+}

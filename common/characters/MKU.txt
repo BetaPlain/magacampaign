@@ -1,0 +1,146 @@
+characters = {
+	MKU_4331 = {
+		name = Kenyi_Kalonga
+		portraits = {
+			army = {
+				large = GFX_Portrait_Africa_Generic_land_3
+				small = GFX_Portrait_Africa_Generic_land_3_small
+			}
+			civilian = {
+				large = GFX_Portrait_Africa_Generic_land_3
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+		field_marshal = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	MKU_920 = {
+		name = Raimi_Marave
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_920
+			cost = 150
+		}
+	}
+	MKU_921 = {
+		name = Kenyi_Molidi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_921
+			cost = 150
+		}
+	}
+	MKU_922 = {
+		name = Chata_Raja
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_922
+			cost = 150
+		}
+	}
+	MKU_923 = {
+		name = Amadi_Banda
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_923
+			cost = 150
+		}
+	}
+	MKU_924 = {
+		name = Bayode_Chisakamzondi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_924
+			cost = 150
+		}
+	}
+	MKU_925 = {
+		name = Jaguan_Raja
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_925
+			cost = 150
+		}
+	}
+	MKU_926 = {
+		name = Kabili_Umkubu_Muntu
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_926
+			cost = 150
+		}
+	}
+	MKU_927 = {
+		name = Raimi_Muhammad_Raja
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_927
+			cost = 150
+		}
+	}
+	MKU_16777868 = {
+		name = Amadi_Kalonga
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

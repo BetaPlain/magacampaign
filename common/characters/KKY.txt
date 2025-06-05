@@ -1,0 +1,151 @@
+characters = {
+	KKY_4314 = {
+		name = Hiuhu_wa_Gathecha
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_South_Africa_Political_Leader_Generic
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	KKY_768 = {
+		name = Kiara_Mbugua
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_768
+			cost = 150
+		}
+	}
+	KKY_769 = {
+		name = Githinji_Ndemi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_769
+			cost = 150
+		}
+	}
+	KKY_770 = {
+		name = Wamungunda_wa_Makeri
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_770
+			cost = 150
+		}
+	}
+	KKY_771 = {
+		name = Muthengi_Ciira
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { communist_revolutionary }
+			slot = political_advisor
+			idea_token = i_771
+			cost = 150
+		}
+	}
+	KKY_772 = {
+		name = Ngengi_wa_Gakure
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_772
+			cost = 150
+		}
+	}
+	KKY_773 = {
+		name = Wamungunda_Gitau
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_773
+			cost = 150
+		}
+	}
+	KKY_774 = {
+		name = Runo_Kinuthia
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_774
+			cost = 150
+		}
+	}
+	KKY_775 = {
+		name = Matu_Kinyanjui
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_775
+			cost = 150
+		}
+	}
+	KKY_3082 = {
+		name = Hiuhu_wa_Makeri
+		portraits = {
+			army = {
+				large = GFX_Portrait_Africa_Generic_land_4
+				small = GFX_Portrait_Africa_Generic_land_4_small
+			}
+		}
+		corps_commander = {
+			traits = { trait_mountaineer }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 3
+		}
+	}
+	KKY_16779992 = {
+		name = Githinji_wa_Gathecha
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

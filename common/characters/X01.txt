@@ -1,0 +1,143 @@
+characters = {
+	X01_2001 = {
+		name = Cumshewa_Kasaan_Nappaaluk
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			traits = {  }
+		}
+	}
+	X01_1392 = {
+		name = Peter_Enuaraq
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_1392
+			cost = 150
+		}
+	}
+	X01_1393 = {
+		name = Ernie_Atagotaaluk
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_1393
+			cost = 150
+		}
+	}
+	X01_1394 = {
+		name = Pitseolak_Alakannuark
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { editor }
+			slot = political_advisor
+			idea_token = i_1394
+			cost = 150
+		}
+	}
+	X01_1395 = {
+		name = Steve_Evaloarjuk
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_1395
+			cost = 150
+		}
+	}
+	X01_1396 = {
+		name = James_Tullaugaq
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1396
+			cost = 150
+		}
+	}
+	X01_1397 = {
+		name = Ernie_Ipeelee
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_1397
+			cost = 150
+		}
+	}
+	X01_1398 = {
+		name = Peter_Evaloarjuk
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_1398
+			cost = 150
+		}
+	}
+	X01_1399 = {
+		name = Jack_Arreak
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_1399
+			cost = 150
+		}
+	}
+	X01_3863 = {
+		name = Kenojuak_Ungallaq
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_2
+				small = GFX_Portrait_South_America_Generic_land_2_small
+			}
+		}
+		corps_commander = {
+			traits = { desert_fox trait_cautious }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+}

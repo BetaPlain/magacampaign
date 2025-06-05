@@ -1,0 +1,28 @@
+state = {
+	id = 217
+	name = "STATE_217"
+	manpower = 881663
+	resources = {
+		aluminium = 26
+	}
+
+	state_category = rural
+
+	history = {
+		owner = HRE
+		victory_points = {
+			663 1
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+		}
+		add_core_of = HRE
+	}
+
+	provinces = {
+		658 661 663 3641 3660 3662 9600 11601 11604 11623 
+	}
+}

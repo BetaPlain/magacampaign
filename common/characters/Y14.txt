@@ -1,0 +1,145 @@
+characters = {
+	Y14_4383 = {
+		name = Mateus_Caiubi
+		portraits = {
+			civilian = {
+				large = GFX_portrait_south_america_generic_9
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	Y14_1680 = {
+		name = Jordao_2_Tabajara
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_1680
+			cost = 150
+		}
+	}
+	Y14_1681 = {
+		name = Vitor_Temimino
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1681
+			cost = 150
+		}
+	}
+	Y14_1682 = {
+		name = Jordao_2_Temimino
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_1682
+			cost = 150
+		}
+	}
+	Y14_1683 = {
+		name = Lucio_Temimino
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_1683
+			cost = 150
+		}
+	}
+	Y14_1684 = {
+		name = Vitor_Maracaiaguacu
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_1684
+			cost = 150
+		}
+	}
+	Y14_1685 = {
+		name = Henrique_Tabajara
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_1685
+			cost = 150
+		}
+	}
+	Y14_1686 = {
+		name = JosE__Potiguara
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_1686
+			cost = 150
+		}
+	}
+	Y14_1687 = {
+		name = Fabio_2_Caetes
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	Y14_4224 = {
+		name = Diogo_Caetes
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_2
+				small = GFX_Portrait_South_America_Generic_land_2_small
+			}
+		}
+		corps_commander = {
+			traits = { armor_officer organizer }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 3
+		}
+	}
+	Y14_4615 = {
+		name = Gabriel_Caiubi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

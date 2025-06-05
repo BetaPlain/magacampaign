@@ -1,0 +1,27 @@
+state = {
+	id = 722
+	name = "STATE_722"
+	manpower = 413742
+	resources = {
+		steel = 1
+	}
+
+	state_category = rural
+
+	history = {
+		owner = SPR
+		victory_points = {
+			1149 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = SPR
+	}
+
+	provinces = {
+		1149 1174 1189 4051 4117 4176 4194 7066 7154 10037 10067 11940 12009 12039 
+	}
+}

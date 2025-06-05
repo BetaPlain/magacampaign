@@ -1,0 +1,168 @@
+characters = {
+	W29_1979 = {
+		name = Karavadi_I_Sallo
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	W29_1344 = {
+		name = fj_Jope_dyn_fj_Daniva
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_1344
+			cost = 150
+		}
+	}
+	W29_1345 = {
+		name = fj_Jope_dyn_fj_Bola
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_1345
+			cost = 150
+		}
+	}
+	W29_1346 = {
+		name = fj_Wije_Uluviti
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_1346
+			cost = 150
+		}
+	}
+	W29_1347 = {
+		name = fj_Solomone_dyn_fj_Serevi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_1347
+			cost = 150
+		}
+	}
+	W29_1348 = {
+		name = fj_Aminiasi_Sukuna
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_1348
+			cost = 150
+		}
+	}
+	W29_1349 = {
+		name = fj_Cakobau_dyn_fj_Mataika
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	W29_1350 = {
+		name = fj_Josefa_dyn_fj_Fatiaki
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1350
+			cost = 150
+		}
+	}
+	W29_1351 = {
+		name = fj_Josefa_dyn_fj_Veka_na_toa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_1351
+			cost = 150
+		}
+	}
+	W29_1978 = {
+		name = Waisake_Sallo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_1978
+			cost = 150
+		}
+	}
+	W29_3802 = {
+		name = fj_Jesoni_Dovi
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_4
+				small = GFX_Portrait_Asia_Generic_land_4_small
+			}
+		}
+		corps_commander = {
+			traits = { infantry_officer }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 3
+		}
+	}
+	W29_3807 = {
+		name = fj_Marika_dyn_fj_Niumataiwalu
+		portraits = {
+			navy = {
+				large = GFX_Portrait_Asia_Generic_navy_1
+				small = GFX_Portrait_Asia_Generic_navy_1_small
+			}
+		}
+		navy_leader = {
+			traits = { gentlemanly }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 1
+			maneuvering_skill = 2
+			coordination_skill = 2
+		}
+	}
+}

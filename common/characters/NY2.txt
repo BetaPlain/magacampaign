@@ -1,0 +1,151 @@
+characters = {
+	NY2_4345 = {
+		name = au_Derain_Dhiraila
+		portraits = {
+			civilian = {
+				large = GFX_portrait_asia_generic_4
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	NY2_1040 = {
+		name = au_Koorong_dyn_au_Lanhupuy
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1040
+			cost = 150
+		}
+	}
+	NY2_1041 = {
+		name = au_Bardo_dyn_au_Yow_Yeh
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_1041
+			cost = 150
+		}
+	}
+	NY2_1042 = {
+		name = au_Kolet_dyn_au_Tjakamarra
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_1042
+			cost = 150
+		}
+	}
+	NY2_1043 = {
+		name = au_Malalapay_dyn_au_Jungarai
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_1043
+			cost = 150
+		}
+	}
+	NY2_1044 = {
+		name = au_Mpetyane_Quandamooka
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_1044
+			cost = 150
+		}
+	}
+	NY2_1045 = {
+		name = au_Warra_dyn_au_Kwaymullina
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1045
+			cost = 150
+		}
+	}
+	NY2_1046 = {
+		name = au_Darel_dyn_au_Payungka
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_1046
+			cost = 150
+		}
+	}
+	NY2_1047 = {
+		name = au_Woorak_dyn_au_Burarrwanga
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_1047
+			cost = 150
+		}
+	}
+	NY2_3423 = {
+		name = au_Orad_dyn_au_Yunipingu
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_4
+				small = GFX_Portrait_Asia_Generic_land_4_small
+			}
+		}
+		corps_commander = {
+			traits = { old_guard }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	NY2_16780106 = {
+		name = au_Gatjil_Dhiraila
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

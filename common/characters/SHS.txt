@@ -1,0 +1,151 @@
+characters = {
+	SHS_1925 = {
+		name = Thadominbya_V_Suphannaphum
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			traits = {  }
+		}
+	}
+	SHS_288 = {
+		name = Pe_Sao
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { grand_fleet_proponent }
+			slot = political_advisor
+			idea_token = i_288
+			cost = 150
+		}
+	}
+	SHS_289 = {
+		name = Hpa_Sao
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_289
+			cost = 150
+		}
+	}
+	SHS_290 = {
+		name = Hswe_Nan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_290
+			cost = 150
+		}
+	}
+	SHS_291 = {
+		name = Naw_Hmu
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_291
+			cost = 150
+		}
+	}
+	SHS_292 = {
+		name = Hso_Sao
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_292
+			cost = 150
+		}
+	}
+	SHS_293 = {
+		name = Hseng_Mong
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_293
+			cost = 150
+		}
+	}
+	SHS_294 = {
+		name = Sun_Hpu
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_294
+			cost = 150
+		}
+	}
+	SHS_295 = {
+		name = Natsu_Pak
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_295
+			cost = 150
+		}
+	}
+	SHS_1924 = {
+		name = Minkhaung_Suphannaphum
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	SHS_2480 = {
+		name = Hmu_Sao
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_2
+				small = GFX_Portrait_Asia_Generic_land_2_small
+			}
+		}
+		corps_commander = {
+			traits = { trait_cautious trait_mountaineer }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 3
+			planning_skill = 2
+			logistics_skill = 2
+		}
+	}
+}

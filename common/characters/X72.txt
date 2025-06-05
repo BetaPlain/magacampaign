@@ -1,0 +1,157 @@
+characters = {
+	X72_1593 = {
+		name = Samudragupta_Singh
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			traits = {  }
+		}
+	}
+	X72_1592 = {
+		name = Vachaspati_Mishra
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_1592
+			cost = 150
+		}
+	}
+	X72_1594 = {
+		name = Chanakya_Singh
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1594
+			cost = 150
+		}
+	}
+	X72_1595 = {
+		name = Udayanacharaya_Janak
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_1595
+			cost = 150
+		}
+	}
+	X72_1596 = {
+		name = Mahavira_Singh
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1596
+			cost = 150
+		}
+	}
+	X72_1597 = {
+		name = Shivshankar_Gupta
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_1597
+			cost = 150
+		}
+	}
+	X72_1599 = {
+		name = Asvaghosa_Singh
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_1599
+			cost = 150
+		}
+	}
+	X72_2087 = {
+		name = Maharato_Wodeyar
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { propaganda_expert }
+			slot = political_advisor
+			idea_token = i_2087
+			cost = 150
+		}
+	}
+	X72_2089 = {
+		name = Sriranga_IX_Wodeyar
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_backstabber }
+			slot = political_advisor
+			idea_token = i_2089
+			cost = 150
+		}
+	}
+	X72_4112 = {
+		name = Ashtravakra_Singh
+		portraits = {
+			army = {
+				large = GFX_portrait_unknown
+				small = GFX_portrait_unknown_small
+			}
+		}
+		corps_commander = {
+			traits = { commando trait_cautious }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 3
+		}
+	}
+	X72_16777441 = {
+		name = Vatsyayana_Singh
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_16777441
+			cost = 150
+		}
+	}
+}

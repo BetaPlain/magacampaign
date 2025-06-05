@@ -1,0 +1,146 @@
+characters = {
+	NUE_4343 = {
+		name = Hon_arap_Chebii
+		portraits = {
+			army = {
+				large = GFX_Portrait_Africa_Generic_land_1
+				small = GFX_Portrait_Africa_Generic_land_1_small
+			}
+			civilian = {
+				large = GFX_Portrait_Africa_Generic_land_1
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+		field_marshal = {
+			traits = { old_guard ranger trait_reckless }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 3
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+	NUE_1024 = {
+		name = Gai_Chotper
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_1024
+			cost = 150
+		}
+	}
+	NUE_1025 = {
+		name = Dei_arap_Chebii
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1025
+			cost = 150
+		}
+	}
+	NUE_1026 = {
+		name = Hon_Juak
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_1026
+			cost = 150
+		}
+	}
+	NUE_1027 = {
+		name = Diu_Bong
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { ideological_crusader }
+			slot = political_advisor
+			idea_token = i_1027
+			cost = 150
+		}
+	}
+	NUE_1028 = {
+		name = Deng_Bong
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { communist_revolutionary }
+			slot = political_advisor
+			idea_token = i_1028
+			cost = 150
+		}
+	}
+	NUE_1029 = {
+		name = Ochan_Lieth
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_1029
+			cost = 150
+		}
+	}
+	NUE_1030 = {
+		name = Pal_Luth
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_1030
+			cost = 150
+		}
+	}
+	NUE_1031 = {
+		name = Ochan_Nyuot
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { fascist_demagogue }
+			slot = political_advisor
+			idea_token = i_1031
+			cost = 150
+		}
+	}
+	NUE_16777514 = {
+		name = Diu_arap_Chebii
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

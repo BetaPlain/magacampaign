@@ -1,0 +1,151 @@
+characters = {
+	N18_4339 = {
+		name = kca_Epkuv_Magga
+		portraits = {
+			civilian = {
+				large = GFX_portrait_FIN_risto_heikki_ryti
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	N18_984 = {
+		name = kca_Yuvan_Sibiriak
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_984
+			cost = 150
+		}
+	}
+	N18_985 = {
+		name = kca_Yukhur_Tikhanov
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_985
+			cost = 150
+		}
+	}
+	N18_986 = {
+		name = kca_Yoshchka_Tikhanov
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_986
+			cost = 150
+		}
+	}
+	N18_987 = {
+		name = kca_Epkuv_Keite
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_987
+			cost = 150
+		}
+	}
+	N18_988 = {
+		name = kca_Yoshchka_Magga
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_988
+			cost = 150
+		}
+	}
+	N18_989 = {
+		name = kca_Lyutya_Likhachev
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_989
+			cost = 150
+		}
+	}
+	N18_990 = {
+		name = kca_Lyutya_Sibiriak
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { fascist_demagogue }
+			slot = political_advisor
+			idea_token = i_990
+			cost = 150
+		}
+	}
+	N18_991 = {
+		name = kca_Yukhur_Likhachev
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_991
+			cost = 150
+		}
+	}
+	N18_3350 = {
+		name = kca_Vashchkigi_Tikhanov
+		portraits = {
+			army = {
+				large = GFX_portrait_FIN_carl_mannerheim
+				small = GFX_portrait_FIN_carl_mannerheim_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	N18_16781811 = {
+		name = kca_Vashchka_Magga
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

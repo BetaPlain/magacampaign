@@ -1,0 +1,129 @@
+characters = {
+	X45_1484 = {
+		name = Amara_Sekou
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_South_Africa_Political_Leader_Generic_2
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			traits = {  }
+		}
+	}
+	X45_1480 = {
+		name = Sekouba_Sankoh
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_1480
+			cost = 150
+		}
+	}
+	X45_1481 = {
+		name = Sekou_Diawara
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_1481
+			cost = 150
+		}
+	}
+	X45_1482 = {
+		name = Foda_Diawara
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_1482
+			cost = 150
+		}
+	}
+	X45_1483 = {
+		name = Lansana_Quiwonkpa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_1483
+			cost = 150
+		}
+	}
+	X45_1485 = {
+		name = Neneh_Diawara
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_1485
+			cost = 150
+		}
+	}
+	X45_1486 = {
+		name = Losene_Kanneh
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_1486
+			cost = 150
+		}
+	}
+	X45_1487 = {
+		name = Lansana_Keita
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_1487
+			cost = 150
+		}
+	}
+	X45_3974 = {
+		name = Lansana_Sekou
+		portraits = {
+			army = {
+				large = GFX_Portrait_Africa_Generic_land_1
+				small = GFX_Portrait_Africa_Generic_land_1_small
+			}
+		}
+		corps_commander = {
+			traits = { desert_fox harsh_leader }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 1
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+}

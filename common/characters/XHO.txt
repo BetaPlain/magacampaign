@@ -1,0 +1,151 @@
+characters = {
+	XHO_4381 = {
+		name = Paki_kaPhalo
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Africa_Generic_4
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	XHO_1656 = {
+		name = Themba_Sigcawu
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_1656
+			cost = 150
+		}
+	}
+	XHO_1657 = {
+		name = Uuka_Xesibe
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_1657
+			cost = 150
+		}
+	}
+	XHO_1658 = {
+		name = Sipliwo_kaPhalo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_1658
+			cost = 150
+		}
+	}
+	XHO_1659 = {
+		name = Mthuthuzeli_kaGcaleka
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_1659
+			cost = 150
+		}
+	}
+	XHO_1660 = {
+		name = Paki_kaHintsa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_1660
+			cost = 150
+		}
+	}
+	XHO_1661 = {
+		name = Uuka_Khawatu
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_1661
+			cost = 150
+		}
+	}
+	XHO_1662 = {
+		name = Nonceba_kaGcaleka
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1662
+			cost = 150
+		}
+	}
+	XHO_1663 = {
+		name = Nolizwe_Dosini
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_1663
+			cost = 150
+		}
+	}
+	XHO_4193 = {
+		name = Themba_Gxarha
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_Africa_Army_Generic_2
+				small = GFX_Portrait_South_Africa_Army_Generic_2_small
+			}
+		}
+		corps_commander = {
+			traits = { organizer trait_cautious }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 4
+		}
+	}
+	XHO_4603 = {
+		name = Paki_kaPhalo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

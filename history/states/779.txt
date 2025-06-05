@@ -1,0 +1,27 @@
+state = {
+	id = 779
+	name = "STATE_779"
+	manpower = 243525
+	resources = {
+		steel = 3
+	}
+
+	state_category = rural
+
+	history = {
+		owner = WAS
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			7481 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = WAS
+	}
+
+	provinces = {
+		7481 10276 12246 
+	}
+}

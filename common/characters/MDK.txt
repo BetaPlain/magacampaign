@@ -1,0 +1,145 @@
+characters = {
+	MDK_4330 = {
+		name = Kanji_Sankoh
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Africa_Generic_3
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	MDK_912 = {
+		name = Kaleefa_Jaabi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_912
+			cost = 150
+		}
+	}
+	MDK_913 = {
+		name = Kanji_Keita
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { grand_fleet_proponent }
+			slot = political_advisor
+			idea_token = i_913
+			cost = 150
+		}
+	}
+	MDK_914 = {
+		name = Amara_Sekou
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	MDK_915 = {
+		name = Foda_Diawara
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_915
+			cost = 150
+		}
+	}
+	MDK_916 = {
+		name = Massa_Sekou
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_916
+			cost = 150
+		}
+	}
+	MDK_917 = {
+		name = Aoua_Jammeh
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_917
+			cost = 150
+		}
+	}
+	MDK_918 = {
+		name = Kaleefa_Konneh
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_918
+			cost = 150
+		}
+	}
+	MDK_919 = {
+		name = Amara_Quiwonkpa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { fascist_demagogue }
+			slot = political_advisor
+			idea_token = i_919
+			cost = 150
+		}
+	}
+	MDK_3263 = {
+		name = Alhassani_Sidibe
+		portraits = {
+			army = {
+				large = GFX_Portrait_Africa_Generic_land_2
+				small = GFX_Portrait_Africa_Generic_land_2_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	MDK_16779276 = {
+		name = Alhassani_Sankoh
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

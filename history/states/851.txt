@@ -1,0 +1,30 @@
+state = {
+	id = 851
+	name = "STATE_851"
+	manpower = 145665
+	resources = {
+		aluminium = 1
+		rubber = 0
+		steel = 0
+	}
+
+	state_category = rural
+
+	history = {
+		owner = KRU
+		victory_points = {
+			10762 10
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 5
+		}
+		add_core_of = KRU
+	}
+
+	provinces = {
+		10762 
+	}
+}

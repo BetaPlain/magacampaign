@@ -1,0 +1,265 @@
+characters = {
+	SPR_1936 = {
+		name = Felipe_II_von_Hohenzollern
+		portraits = {
+			army = {
+				large = GFX_portrait_unknown
+				small = GFX_portrait_unknown_small
+			}
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			traits = {  }
+		}
+		field_marshal = {
+			traits = { trait_cautious }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 2
+		}
+	}
+	SPR_40 = {
+		name = es_Orfeo_dyn_es_Guerrero
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_40
+			cost = 150
+		}
+	}
+	SPR_41 = {
+		name = es_Felipe_LO_pez_de_Haro
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_41
+			cost = 150
+		}
+	}
+	SPR_42 = {
+		name = es_Franco_dyn_es_Duran
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_42
+			cost = 150
+		}
+	}
+	SPR_44 = {
+		name = es_Crispo_RamI_rez_de_Saavedra
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_44
+			cost = 150
+		}
+	}
+	SPR_45 = {
+		name = es_Maciel_dyn_es_Quintana
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_45
+			cost = 150
+		}
+	}
+	SPR_46 = {
+		name = es_Domingo_SuA_rez_de_ArgudI_n
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_46
+			cost = 150
+		}
+	}
+	SPR_47 = {
+		name = es_Patricio_dyn_es_Sandoval
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_47
+			cost = 150
+		}
+	}
+	SPR_1932 = {
+		name = Gaspar_Cabeza_de_Vaca_dyn_es_Cruz
+		portraits = {
+			army = {
+				large = GFX_Portrait_Europe_Generic_land_2
+				small = GFX_Portrait_Europe_Generic_land_2_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	SPR_1933 = {
+		name = Jorge_de_Ayala_dyn_es_Esparza
+		portraits = {
+			army = {
+				large = GFX_Portrait_Europe_Generic_land_1
+				small = GFX_Portrait_Europe_Generic_land_1_small
+			}
+		}
+		field_marshal = {
+			traits = { career_officer }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 2
+			logistics_skill = 1
+		}
+	}
+	SPR_1935 = {
+		name = Jose_von_Hohenzollern
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	SPR_1937 = {
+		name = Juan_Bautista_de_Borja_dyn_es_Gonzalez
+		portraits = {
+			army = {
+				large = GFX_Portrait_Europe_Generic_land_4
+				small = GFX_Portrait_Europe_Generic_land_4_small
+			}
+		}
+		corps_commander = {
+			traits = { trait_cautious }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 2
+		}
+	}
+	SPR_1938 = {
+		name = Juan_Bautista_de_Borja_dyn_es_Quinones
+		portraits = {
+			army = {
+				large = GFX_portrait_europe_generic_land_8
+				small = GFX_portrait_europe_generic_land_8_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	SPR_1939 = {
+		name = Antonio_Nunez_de_Balboa_dyn_es_Campos
+		portraits = {
+			army = {
+				large = GFX_portrait_europe_generic_land_7
+				small = GFX_portrait_europe_generic_land_7_small
+			}
+		}
+		corps_commander = {
+			traits = { armor_officer organizer }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 4
+			logistics_skill = 1
+		}
+	}
+	SPR_1940 = {
+		name = Antonio_Nunez_de_Balboa_dyn_es_Valdez
+		portraits = {
+			army = {
+				large = GFX_Portrait_Europe_Generic_land_5
+				small = GFX_Portrait_Europe_Generic_land_5_small
+			}
+		}
+		corps_commander = {
+			traits = { infantry_officer }
+			skill = 3
+			attack_skill = 2
+			defense_skill = 4
+			planning_skill = 1
+			logistics_skill = 3
+		}
+	}
+	SPR_1941 = {
+		name = Enrique_Patino_dyn_es_Delgado
+		portraits = {
+			army = {
+				large = GFX_portrait_europe_generic_land_13
+				small = GFX_portrait_europe_generic_land_13_small
+			}
+		}
+		corps_commander = {
+			traits = { infantry_officer organizer }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+	SPR_16779183 = {
+		name = es_Anibal_dyn_es_Medrano
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_16779183
+			cost = 150
+		}
+	}
+}

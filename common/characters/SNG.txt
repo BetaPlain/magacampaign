@@ -1,0 +1,134 @@
+characters = {
+	SNG_4360 = {
+		name = Raimi_Zwagendaba
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Africa_Generic_3
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	SNG_1168 = {
+		name = Amadi_Bulungute
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_1168
+			cost = 150
+		}
+	}
+	SNG_1169 = {
+		name = Chane_Mnywasele
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_1169
+			cost = 150
+		}
+	}
+	SNG_1170 = {
+		name = Amadi_Mnywasele
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_1170
+			cost = 150
+		}
+	}
+	SNG_1171 = {
+		name = Amadi_Mkasiwa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_1171
+			cost = 150
+		}
+	}
+	SNG_1172 = {
+		name = Andikan_Watuta
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_1172
+			cost = 150
+		}
+	}
+	SNG_1173 = {
+		name = Bayode_Mirambo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1173
+			cost = 150
+		}
+	}
+	SNG_1174 = {
+		name = Musawenkosi_Mkasiwa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_1174
+			cost = 150
+		}
+	}
+	SNG_1175 = {
+		name = Musawenkosi_Mirambo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_1175
+			cost = 150
+		}
+	}
+	SNG_16777833 = {
+		name = Raimi_Zwagendaba
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

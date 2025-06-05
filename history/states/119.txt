@@ -1,0 +1,25 @@
+state = {
+	id = 119
+	name = "STATE_119"
+	manpower = 3053399
+
+	state_category = rural
+
+	history = {
+		owner = RAJ
+		victory_points = {
+			12777 1
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+		}
+		add_core_of = RAJ
+	}
+
+	provinces = {
+		1377 2005 7064 7334 8114 9973 10751 12777 12786 
+	}
+}

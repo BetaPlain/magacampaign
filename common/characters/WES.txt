@@ -1,0 +1,151 @@
+characters = {
+	WES_4358 = {
+		name = ber_Firhun_el_Krim
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Arabia_Generic_3
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	WES_1144 = {
+		name = ber_Adum_dyn_ber_Khalid
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { grand_fleet_proponent }
+			slot = political_advisor
+			idea_token = i_1144
+			cost = 150
+		}
+	}
+	WES_1145 = {
+		name = ber_Salla_Al-Khattabi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_1145
+			cost = 150
+		}
+	}
+	WES_1146 = {
+		name = ber_Zeggar_dyn_ber_Saidi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_1146
+			cost = 150
+		}
+	}
+	WES_1147 = {
+		name = ber_Awlagh_dyn_ber_Wahbi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { silent_workhorse }
+			slot = political_advisor
+			idea_token = i_1147
+			cost = 150
+		}
+	}
+	WES_1148 = {
+		name = ber_Aqqasen_Al-Khattabi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_1148
+			cost = 150
+		}
+	}
+	WES_1149 = {
+		name = ber_Amenzu_dyn_ber_Hachemi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1149
+			cost = 150
+		}
+	}
+	WES_1150 = {
+		name = ber_Abayghur_dyn_ber_Mokhtari
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_1150
+			cost = 150
+		}
+	}
+	WES_1151 = {
+		name = ber_Buxtuc_dyn_ber_Benbouchta
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_1151
+			cost = 150
+		}
+	}
+	WES_3554 = {
+		name = ber_Mezwar_el_Krim
+		portraits = {
+			army = {
+				large = GFX_Portrait_Arabia_Generic_land_3
+				small = GFX_Portrait_Arabia_Generic_land_3_small
+			}
+		}
+		corps_commander = {
+			traits = { armor_officer organizer }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 3
+		}
+	}
+	WES_16780108 = {
+		name = ber_Takfarinas_el_Krim
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

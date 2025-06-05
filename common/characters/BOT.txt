@@ -1,0 +1,151 @@
+characters = {
+	BOT_4368 = {
+		name = Moetapele_Mogale
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_South_Africa_Political_Leader_Generic_2
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	BOT_1232 = {
+		name = Baruti_Bamangwato
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_1232
+			cost = 150
+		}
+	}
+	BOT_1233 = {
+		name = Turnelo_Bakgalakgadi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_1233
+			cost = 150
+		}
+	}
+	BOT_1234 = {
+		name = Molefi_Batlokwa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1234
+			cost = 150
+		}
+	}
+	BOT_1235 = {
+		name = Sebele_Kgosiemang
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_1235
+			cost = 150
+		}
+	}
+	BOT_1236 = {
+		name = Mowen_Mogale
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_1236
+			cost = 150
+		}
+	}
+	BOT_1237 = {
+		name = Kefentse_Balete
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_1237
+			cost = 150
+		}
+	}
+	BOT_1238 = {
+		name = Tale_Batsapong
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_1238
+			cost = 150
+		}
+	}
+	BOT_1239 = {
+		name = Khama_Bakgatla
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_1239
+			cost = 150
+		}
+	}
+	BOT_3661 = {
+		name = Baruti_Kgosiemang
+		portraits = {
+			army = {
+				large = GFX_Portrait_Africa_Generic_land_2
+				small = GFX_Portrait_Africa_Generic_land_2_small
+			}
+		}
+		corps_commander = {
+			traits = { desert_fox harsh_leader trait_mountaineer }
+			skill = 2
+			attack_skill = 3
+			defense_skill = 2
+			planning_skill = 2
+			logistics_skill = 2
+		}
+	}
+	BOT_16779023 = {
+		name = Morwe_Mogale
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

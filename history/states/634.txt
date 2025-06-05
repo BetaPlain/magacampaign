@@ -1,0 +1,24 @@
+state = {
+	id = 634
+	name = "STATE_634"
+	manpower = 428266
+
+	state_category = rural
+
+	history = {
+		owner = LAN
+		victory_points = {
+			12386 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = LAN
+	}
+
+	provinces = {
+		1602 1617 1629 4524 4593 7269 7585 7627 8250 10436 10505 12386 12457 
+	}
+}

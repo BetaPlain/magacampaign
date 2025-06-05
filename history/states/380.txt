@@ -1,0 +1,29 @@
+state = {
+	id = 380
+	name = "STATE_380"
+	manpower = 1970728
+	resources = {
+		aluminium = 61
+		steel = 86
+	}
+
+	state_category = town
+
+	history = {
+		owner = X60
+		victory_points = {
+			9898 1
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 1
+		}
+		add_core_of = X60
+	}
+
+	provinces = {
+		943 3751 3915 3946 6766 6770 6917 6931 6960 9723 9898 11711 11877 
+	}
+}

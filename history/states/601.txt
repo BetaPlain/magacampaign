@@ -1,0 +1,26 @@
+state = {
+	id = 601
+	name = "STATE_601"
+	manpower = 1198700
+	resources = {
+		aluminium = 2
+		oil = 2
+		steel = 6
+	}
+
+	state_category = rural
+
+	history = {
+		owner = BYZ
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = BYZ
+	}
+
+	provinces = {
+		1544 1631 4440 4562 4603 4951 5099 7970 8001 8101 10383 10744 10815 10901 12316 12455 12879 
+	}
+}

@@ -1,0 +1,265 @@
+characters = {
+	USA_20 = {
+		name = en_Bradley_Ladson
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Europe_Generic_2
+			}
+		}
+		country_leader = {
+			ideology = liberalism
+			traits = {  }
+		}
+	}
+	USA_16 = {
+		name = en_George_dyn_en_Lester
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_16
+			cost = 150
+		}
+	}
+	USA_17 = {
+		name = en_Charles_dyn_en_Vance
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_17
+			cost = 150
+		}
+	}
+	USA_18 = {
+		name = en_Alvin_dyn_en_Caldwell
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_18
+			cost = 150
+		}
+	}
+	USA_19 = {
+		name = en_Stockwell_dyn_en_Gates
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_19
+			cost = 150
+		}
+	}
+	USA_21 = {
+		name = en_Bradley_dyn_en_Livingston
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { communist_revolutionary }
+			slot = political_advisor
+			idea_token = i_21
+			cost = 150
+		}
+	}
+	USA_22 = {
+		name = en_Pip_dyn_en_Irwin
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_22
+			cost = 150
+		}
+	}
+	USA_23 = {
+		name = en_Gregory_dyn_en_Gibbs
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_23
+			cost = 150
+		}
+	}
+	USA_1957 = {
+		name = Guy_Bedford_dyn_en_Dillard
+		portraits = {
+			army = {
+				large = GFX_Portrait_USA_Generic_land_6
+				small = GFX_Portrait_USA_Generic_land_6_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	USA_1958 = {
+		name = Benjamin_Middleton_dyn_en_Bailey
+		portraits = {
+			army = {
+				large = GFX_Portrait_USA_Generic_land_3
+				small = GFX_Portrait_USA_Generic_land_3_small
+			}
+		}
+		field_marshal = {
+			traits = { infantry_officer }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 2
+		}
+	}
+	USA_1959 = {
+		name = Archibald_Rodney_dyn_en_Strickland
+		portraits = {
+			army = {
+				large = GFX_Portrait_USA_Generic_land_4
+				small = GFX_Portrait_USA_Generic_land_4_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	USA_1960 = {
+		name = Ernest_Augustus_Braddock_dyn_en_Horn
+		portraits = {
+			army = {
+				large = GFX_Portrait_USA_Generic_land_9
+				small = GFX_Portrait_USA_Generic_land_9_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	USA_1961 = {
+		name = Lawrence_Uxbridge_dyn_en_Hooper
+		portraits = {
+			army = {
+				large = GFX_Portrait_USA_Generic_land_2
+				small = GFX_Portrait_USA_Generic_land_2_small
+			}
+		}
+		corps_commander = {
+			traits = { organizer trait_mountaineer }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 3
+			planning_skill = 3
+			logistics_skill = 2
+		}
+	}
+	USA_1963 = {
+		name = Geoffrey_Hudson_dyn_en_Brown
+		portraits = {
+			army = {
+				large = GFX_Portrait_USA_Generic_land_8
+				small = GFX_Portrait_USA_Generic_land_8_small
+			}
+		}
+		corps_commander = {
+			traits = { armor_officer }
+			skill = 1
+			attack_skill = 2
+			defense_skill = 1
+			planning_skill = 2
+			logistics_skill = 1
+		}
+	}
+	USA_1964 = {
+		name = Samuel_Herbert_dyn_en_May
+		portraits = {
+			army = {
+				large = GFX_Portrait_USA_Generic_land_5
+				small = GFX_Portrait_USA_Generic_land_5_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	USA_1965 = {
+		name = Frederick_Augustus_de_Clifford_dyn_en_Pennington
+		portraits = {
+			army = {
+				large = GFX_Portrait_USA_Generic_land_1
+				small = GFX_Portrait_USA_Generic_land_1_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	USA_1968 = {
+		name = Jacob_Button_dyn_en_Valentine
+		portraits = {
+			navy = {
+				large = GFX_Portrait_USA_Generic_navy_3
+				small = GFX_Portrait_USA_Generic_navy_3_small
+			}
+		}
+		navy_leader = {
+			traits = { arctic_water_expert battleship_adherent old_guard_navy }
+			skill = 1
+			attack_skill = 2
+			defense_skill = 2
+			maneuvering_skill = 1
+			coordination_skill = 1
+		}
+	}
+}

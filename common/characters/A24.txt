@@ -1,0 +1,151 @@
+characters = {
+	A24_4268 = {
+		name = Sergio_Rodelas
+		portraits = {
+			civilian = {
+				large = GFX_portrait_south_america_generic_9
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	A24_320 = {
+		name = Inacio_Rodelas
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_320
+			cost = 150
+		}
+	}
+	A24_321 = {
+		name = Fernando_Potiguara
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_321
+			cost = 150
+		}
+	}
+	A24_322 = {
+		name = Mateus_Caiubi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_322
+			cost = 150
+		}
+	}
+	A24_323 = {
+		name = Manuel_Piquerobi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_323
+			cost = 150
+		}
+	}
+	A24_324 = {
+		name = Gustavo_Maracaiaguacu
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_324
+			cost = 150
+		}
+	}
+	A24_325 = {
+		name = Henrique_Tupiniquim
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_325
+			cost = 150
+		}
+	}
+	A24_326 = {
+		name = Eusebio_Potiguara
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { editor }
+			slot = political_advisor
+			idea_token = i_326
+			cost = 150
+		}
+	}
+	A24_327 = {
+		name = Francisco_Tupinamba
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_327
+			cost = 150
+		}
+	}
+	A24_2522 = {
+		name = Roque_Rodelas
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_2
+				small = GFX_Portrait_South_America_Generic_land_2_small
+			}
+		}
+		corps_commander = {
+			traits = { organizer trait_reckless }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 1
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+	A24_4590 = {
+		name = Filipe_Rodelas
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

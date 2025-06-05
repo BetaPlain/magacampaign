@@ -1,0 +1,31 @@
+state = {
+	id = 289
+	name = "STATE_289"
+	manpower = 1796246
+	resources = {
+		aluminium = 14
+		chromium = 1
+		oil = 2
+		steel = 6
+	}
+
+	state_category = rural
+
+	history = {
+		owner = WAS
+		victory_points = {
+			1652 20
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 6
+		}
+		add_core_of = WAS
+	}
+
+	provinces = {
+		1498 1511 1526 1540 1652 2157 2201 4630 4645 5125 5170 5207 7453 7579 7608 8152 8200 8209 8228 8243 8247 10937 10949 10950 10958 10971 10983 10997 11016 12323 12962 12993 
+	}
+}

@@ -1,0 +1,30 @@
+state = {
+	id = 332
+	name = "STATE_332"
+	manpower = 1445975
+	resources = {
+		oil = 1
+		rubber = 28
+		steel = 0
+	}
+
+	state_category = rural
+
+	history = {
+		owner = JAV
+		victory_points = {
+			10279 10
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 6
+		}
+		add_core_of = JAV
+	}
+
+	provinces = {
+		7381 10279 12249 
+	}
+}

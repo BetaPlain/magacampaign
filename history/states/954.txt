@@ -1,0 +1,24 @@
+state = {
+	id = 954
+	name = "STATE_954"
+	manpower = 14350
+	resources = {
+		tungsten = 22
+	}
+
+	state_category = rural
+
+	history = {
+		owner = N06
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = N06
+	}
+
+	provinces = {
+		1663 10651 12573 
+	}
+}

@@ -1,0 +1,151 @@
+characters = {
+	PNG_4354 = {
+		name = fj_Epenisa_Uluviti
+		portraits = {
+			civilian = {
+				large = GFX_portrait_asia_generic_4
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	PNG_1112 = {
+		name = fj_Timi_dyn_fj_Qaranivalu
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_1112
+			cost = 150
+		}
+	}
+	PNG_1113 = {
+		name = fj_Kelemedi_Dovi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_1113
+			cost = 150
+		}
+	}
+	PNG_1114 = {
+		name = fj_Ilisoni_Dovi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_1114
+			cost = 150
+		}
+	}
+	PNG_1115 = {
+		name = fj_Karavi_dyn_fj_Tora
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_1115
+			cost = 150
+		}
+	}
+	PNG_1116 = {
+		name = fj_Timi_Uluviti
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_1116
+			cost = 150
+		}
+	}
+	PNG_1117 = {
+		name = fj_Esekia_dyn_fj_Gavidi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { editor }
+			slot = political_advisor
+			idea_token = i_1117
+			cost = 150
+		}
+	}
+	PNG_1118 = {
+		name = fj_Tamiela_dyn_fj_Tuisowaqa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_1118
+			cost = 150
+		}
+	}
+	PNG_1119 = {
+		name = fj_Lemeki_dyn_fj_Takayawa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1119
+			cost = 150
+		}
+	}
+	PNG_3514 = {
+		name = fj_Esekia_Dovi
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_1
+				small = GFX_Portrait_Asia_Generic_land_1_small
+			}
+		}
+		corps_commander = {
+			traits = { old_guard }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	PNG_4612 = {
+		name = fj_Kelemedi_Uluviti
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

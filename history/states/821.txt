@@ -1,0 +1,27 @@
+state = {
+	id = 821
+	name = "STATE_821"
+	manpower = 206489
+	resources = {
+		steel = 2
+	}
+
+	state_category = rural
+
+	history = {
+		owner = KHL
+		victory_points = {
+			12717 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = KHL
+	}
+
+	provinces = {
+		1978 4998 12717 
+	}
+}

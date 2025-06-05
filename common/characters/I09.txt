@@ -1,0 +1,185 @@
+characters = {
+	I09_1810 = {
+		name = Kyytymei_I_Agna
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	I09_648 = {
+		name = Sihabetdin_Khan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { silent_workhorse }
+			slot = political_advisor
+			idea_token = i_648
+			cost = 150
+		}
+	}
+	I09_649 = {
+		name = Alitet_Khan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_649
+			cost = 150
+		}
+	}
+	I09_650 = {
+		name = Afanasiy_Shaimiev
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_650
+			cost = 150
+		}
+	}
+	I09_651 = {
+		name = Alitet_Bilyaletdinov
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_651
+			cost = 150
+		}
+	}
+	I09_653 = {
+		name = Aleksandr_Khovalyg
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_653
+			cost = 150
+		}
+	}
+	I09_654 = {
+		name = Viktor_Potanin
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_654
+			cost = 150
+		}
+	}
+	I09_655 = {
+		name = Diniyar_Nulgynet
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	I09_1809 = {
+		name = Tolluman_Agna
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1809
+			cost = 150
+		}
+	}
+	I09_1811 = {
+		name = Manchaary_Burgumi_Potanin
+		portraits = {
+			navy = {
+				large = GFX_Portrait_Asia_Generic_navy_3
+				small = GFX_Portrait_Asia_Generic_navy_3_small
+			}
+		}
+		navy_leader = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			maneuvering_skill = 1
+			coordination_skill = 1
+		}
+	}
+	I09_2931 = {
+		name = Sihabetdin_Nulgynet
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_4
+				small = GFX_Portrait_Asia_Generic_land_4_small
+			}
+		}
+		corps_commander = {
+			traits = { cavalry_officer commando }
+			skill = 2
+			attack_skill = 3
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 2
+		}
+	}
+	I09_2932 = {
+		name = Donduk_Yadrintsev
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_2
+				small = GFX_Portrait_Asia_Generic_land_2_small
+			}
+		}
+		corps_commander = {
+			traits = { organizer trait_reckless }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 1
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+	I09_16781503 = {
+		name = Donduk_Khan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_16781503
+			cost = 150
+		}
+	}
+}

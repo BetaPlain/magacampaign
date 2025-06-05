@@ -1,0 +1,29 @@
+state = {
+	id = 840
+	name = "STATE_840"
+	manpower = 87277
+	resources = {
+		chromium = 2
+		steel = 26
+		tungsten = 27
+	}
+
+	state_category = rural
+
+	history = {
+		owner = USA
+		victory_points = {
+			9616 1
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = USA
+	}
+
+	provinces = {
+		1789 1832 3781 4778 7845 9616 10556 10672 12124 12535 
+	}
+}

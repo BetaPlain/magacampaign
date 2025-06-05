@@ -1,0 +1,151 @@
+characters = {
+	G08_4295 = {
+		name = Kapola_Ntombazi
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_South_Africa_Political_Leader_Generic_2
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	G08_600 = {
+		name = Mhavanginonya_Kwira
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_600
+			cost = 150
+		}
+	}
+	G08_601 = {
+		name = Fambaltate_Farhenga
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_601
+			cost = 150
+		}
+	}
+	G08_602 = {
+		name = Mburu_Ntombazi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_602
+			cost = 150
+		}
+	}
+	G08_603 = {
+		name = Fambaltate_kaXaba
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_603
+			cost = 150
+		}
+	}
+	G08_604 = {
+		name = Chapwanya_kaLanga
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_604
+			cost = 150
+		}
+	}
+	G08_605 = {
+		name = Rjoroza_Mbano
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_605
+			cost = 150
+		}
+	}
+	G08_606 = {
+		name = Chapwanya_Mwanawalifa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_606
+			cost = 150
+		}
+	}
+	G08_607 = {
+		name = Mbulaeni_Farhenga
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { ideological_crusader }
+			slot = political_advisor
+			idea_token = i_607
+			cost = 150
+		}
+	}
+	G08_2871 = {
+		name = Ebabruma_kaJama
+		portraits = {
+			army = {
+				large = GFX_Portrait_Africa_Generic_land_3
+				small = GFX_Portrait_Africa_Generic_land_3_small
+			}
+		}
+		corps_commander = {
+			traits = { organizer trait_cautious }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 4
+		}
+	}
+	G08_16779248 = {
+		name = Ebabruma_Ntombazi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

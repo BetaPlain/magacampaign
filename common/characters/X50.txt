@@ -1,0 +1,140 @@
+characters = {
+	X50_1525 = {
+		name = Messaoud_ibn_Yusuf
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Africa_Generic_3
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			traits = {  }
+		}
+	}
+	X50_1520 = {
+		name = Messaoud_al-Alawi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_1520
+			cost = 150
+		}
+	}
+	X50_1521 = {
+		name = Messaoud_Ould_Boulkheir
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_1521
+			cost = 150
+		}
+	}
+	X50_1522 = {
+		name = Messaoud_Sabiri
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_1522
+			cost = 150
+		}
+	}
+	X50_1523 = {
+		name = Messaoud_ibn_Ali
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_1523
+			cost = 150
+		}
+	}
+	X50_1524 = {
+		name = Messaoud_Djellouli
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_1524
+			cost = 150
+		}
+	}
+	X50_1526 = {
+		name = Messaoud_ben_Gana
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	X50_1527 = {
+		name = Messaoud_ibn_Yusuf
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_backstabber }
+			slot = political_advisor
+			idea_token = i_1527
+			cost = 150
+		}
+	}
+	X50_2047 = {
+		name = Yusuf_Keita_Sharvit
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_Africa_Army_Generic
+				small = GFX_Portrait_South_Africa_Army_Generic_small
+			}
+		}
+		corps_commander = {
+			traits = { organizer }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 2
+			logistics_skill = 1
+		}
+	}
+	X50_2048 = {
+		name = Al-Hajj_Traore_ibn_Ali
+		portraits = {
+			navy = {
+				large = GFX_Portrait_Africa_Generic_navy_1
+				small = GFX_Portrait_Africa_Generic_navy_1_small
+			}
+		}
+		navy_leader = {
+			traits = { arctic_water_expert }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			maneuvering_skill = 1
+			coordination_skill = 1
+		}
+	}
+}

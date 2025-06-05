@@ -1,0 +1,151 @@
+characters = {
+	K18_4306 = {
+		name = Afanasiy_Khan
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Asia_Generic_3
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	K18_696 = {
+		name = Gabdull_Shashkov
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_696
+			cost = 150
+		}
+	}
+	K18_697 = {
+		name = Alitet_Khan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_697
+			cost = 150
+		}
+	}
+	K18_698 = {
+		name = Viktor_Shashkov
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_698
+			cost = 150
+		}
+	}
+	K18_699 = {
+		name = Grigory_Khan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_699
+			cost = 150
+		}
+	}
+	K18_700 = {
+		name = Aleksandr_Khan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_700
+			cost = 150
+		}
+	}
+	K18_701 = {
+		name = Sihabetdin_Khan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_701
+			cost = 150
+		}
+	}
+	K18_702 = {
+		name = Aleksandr_Khovalyg
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_702
+			cost = 150
+		}
+	}
+	K18_703 = {
+		name = Gabdull_Yadrintsev
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_703
+			cost = 150
+		}
+	}
+	K18_2990 = {
+		name = Viktor_Nulgynet
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_1
+				small = GFX_Portrait_Asia_Generic_land_1_small
+			}
+		}
+		corps_commander = {
+			traits = { commando }
+			skill = 1
+			attack_skill = 2
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 2
+		}
+	}
+	K18_4420 = {
+		name = Mirsayet_Khan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

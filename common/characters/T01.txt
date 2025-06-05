@@ -1,0 +1,146 @@
+characters = {
+	T01_4362 = {
+		name = Sapiah_House
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_5
+				small = GFX_Portrait_South_America_Generic_land_5_small
+			}
+			civilian = {
+				large = GFX_Portrait_South_America_Generic_land_5
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+		field_marshal = {
+			traits = { old_guard ranger trait_reckless }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 3
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+	T01_1184 = {
+		name = Pocatello_Tussawehee
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1184
+			cost = 150
+		}
+	}
+	T01_1185 = {
+		name = Owitze_Box
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_1185
+			cost = 150
+		}
+	}
+	T01_1186 = {
+		name = Kanosh_Umatilla
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_1186
+			cost = 150
+		}
+	}
+	T01_1187 = {
+		name = Arapeen_Timpanog
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { ideological_crusader }
+			slot = political_advisor
+			idea_token = i_1187
+			cost = 150
+		}
+	}
+	T01_1188 = {
+		name = Ouray_House
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_1188
+			cost = 150
+		}
+	}
+	T01_1189 = {
+		name = Arapeen_Box
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1189
+			cost = 150
+		}
+	}
+	T01_1190 = {
+		name = Ignacio_Box
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { ideological_crusader }
+			slot = political_advisor
+			idea_token = i_1190
+			cost = 150
+		}
+	}
+	T01_1191 = {
+		name = Paseego_Teton
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_1191
+			cost = 150
+		}
+	}
+	T01_16779107 = {
+		name = Tabby-To-Hwanah_House
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

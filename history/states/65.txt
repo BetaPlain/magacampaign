@@ -1,0 +1,29 @@
+state = {
+	id = 65
+	name = "STATE_65"
+	manpower = 2104022
+	resources = {
+		aluminium = 18
+		steel = 32
+	}
+
+	state_category = rural
+
+	history = {
+		owner = ITA
+		victory_points = {
+			603 1
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+		}
+		add_core_of = ITA
+	}
+
+	provinces = {
+		603 628 3604 3657 6656 9582 9613 11584 
+	}
+}

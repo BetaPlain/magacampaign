@@ -1,0 +1,160 @@
+characters = {
+	C02_1751 = {
+		name = Hopothemico_Chitto_dyn_musk_hovtlke_Fekv
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			traits = {  }
+		}
+	}
+	C02_464 = {
+		name = musk_OSceola_dyn_musk_hovtlke_Oheke
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_464
+			cost = 150
+		}
+	}
+	C02_465 = {
+		name = musk_Vhoke_dyn_musk_Nokosalgi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_465
+			cost = 150
+		}
+	}
+	C02_466 = {
+		name = musk_Yaholo_McIntosh
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { silent_workhorse }
+			slot = political_advisor
+			idea_token = i_466
+			cost = 150
+		}
+	}
+	C02_467 = {
+		name = musk_Oheke_Ahhajumba
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_467
+			cost = 150
+		}
+	}
+	C02_468 = {
+		name = musk_Hvwv_Checote
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_468
+			cost = 150
+		}
+	}
+	C02_469 = {
+		name = musk_Chiggilli_dyn_musk_hovtlke_Ohvne
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_469
+			cost = 150
+		}
+	}
+	C02_470 = {
+		name = musk_Tchikilli_dyn_musk_hovtlke_Hese
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_470
+			cost = 150
+		}
+	}
+	C02_471 = {
+		name = musk_Hesvm_dyn_musk_hovtlke_Hesvlo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_471
+			cost = 150
+		}
+	}
+	C02_1750 = {
+		name = Taskanugi_Hatke_Yaholo_dyn_musk_hovtlke_Hesvya
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_5
+				small = GFX_Portrait_South_America_Generic_land_5_small
+			}
+		}
+		corps_commander = {
+			traits = { infantry_officer old_guard }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 3
+			planning_skill = 1
+			logistics_skill = 2
+		}
+	}
+	C02_1752 = {
+		name = Mumagechee_Hasse_Ola_dyn_musk_hovtlke_Fuswv
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_3
+				small = GFX_Portrait_South_America_Generic_land_3_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+}

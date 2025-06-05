@@ -1,0 +1,129 @@
+characters = {
+	C23_473 = {
+		name = norm_Tabare_norm_Bohane
+		portraits = {
+			civilian = {
+				large = GFX_portrait_south_america_generic_8
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			traits = {  }
+		}
+	}
+	C23_472 = {
+		name = norm_Vaimaca_norm_Puyucahua
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_472
+			cost = 150
+		}
+	}
+	C23_474 = {
+		name = norm_Vaimaca-Piru_norm_Bohane
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_474
+			cost = 150
+		}
+	}
+	C23_475 = {
+		name = norm_Peru_norm_Bohane
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_475
+			cost = 150
+		}
+	}
+	C23_476 = {
+		name = norm_Abayuba_norm_Guenoa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_476
+			cost = 150
+		}
+	}
+	C23_477 = {
+		name = norm_Tacuabe_norm_Gununusa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_477
+			cost = 150
+		}
+	}
+	C23_478 = {
+		name = norm_Itanu_norm_Sira
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_478
+			cost = 150
+		}
+	}
+	C23_479 = {
+		name = norm_Jasymimbi_norm_Gununusa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_479
+			cost = 150
+		}
+	}
+	C23_1754 = {
+		name = Tabare_Guenoa_norm_Bohane
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_5
+				small = GFX_Portrait_South_America_Generic_land_5_small
+			}
+		}
+		corps_commander = {
+			traits = { organizer trait_reckless }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 1
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+}

@@ -1,0 +1,185 @@
+characters = {
+	X95_2109 = {
+		name = Sharif_ul_Hashim_V_Bolkiah
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	X95_1640 = {
+		name = Mohammad_Pulalun_Kiram_Akbar
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { editor }
+			slot = political_advisor
+			idea_token = i_1640
+			cost = 150
+		}
+	}
+	X95_1641 = {
+		name = Iskandar_Qudraullah_Mangudadatu
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_1641
+			cost = 150
+		}
+	}
+	X95_1642 = {
+		name = Shakirul_Lah_Bayang
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_1642
+			cost = 150
+		}
+	}
+	X95_1644 = {
+		name = Aliyud_Din_Bayang
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_1644
+			cost = 150
+		}
+	}
+	X95_1645 = {
+		name = Farouk_Mastura
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_1645
+			cost = 150
+		}
+	}
+	X95_1646 = {
+		name = Nasarud_Din_Minitupad
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_1646
+			cost = 150
+		}
+	}
+	X95_1647 = {
+		name = Mohammed_Mangudadatu
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_1647
+			cost = 150
+		}
+	}
+	X95_2110 = {
+		name = Muhammad_Sharafuddin_Satria_Dimaporo
+		portraits = {
+			navy = {
+				large = GFX_Portrait_Asia_Generic_navy_2
+				small = GFX_Portrait_Asia_Generic_navy_2_small
+			}
+		}
+		navy_leader = {
+			traits = { gentlemanly }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			maneuvering_skill = 1
+			coordination_skill = 2
+		}
+	}
+	X95_4171 = {
+		name = Mohammad_Pulalun_Kiram_Taporog
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_4
+				small = GFX_Portrait_Asia_Generic_land_4_small
+			}
+		}
+		corps_commander = {
+			traits = { commando trait_cautious }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 3
+		}
+	}
+	X95_4172 = {
+		name = Farouk_Amin
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_2
+				small = GFX_Portrait_Asia_Generic_land_2_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	X95_4594 = {
+		name = ms_Ujang_Bolkiah
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	X95_16778935 = {
+		name = Jamalul_A_Lam_Mangudadatu
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_16778935
+			cost = 150
+		}
+	}
+}

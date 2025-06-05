@@ -1,0 +1,29 @@
+state = {
+	id = 527
+	name = "STATE_527"
+	manpower = 584935
+	resources = {
+		aluminium = 0
+		rubber = 2
+		steel = 0
+	}
+
+	state_category = rural
+
+	history = {
+		owner = MLI
+		victory_points = {
+			4997 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = MLI
+	}
+
+	provinces = {
+		4997 5028 
+	}
+}

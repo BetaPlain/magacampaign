@@ -1,0 +1,151 @@
+characters = {
+	N07_4338 = {
+		name = esx_Kooyoo_Atagotaaluk
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Asia_Generic_3
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	N07_976 = {
+		name = esx_Eelee_Atagotaaluk
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { editor }
+			slot = political_advisor
+			idea_token = i_976
+			cost = 150
+		}
+	}
+	N07_977 = {
+		name = esx_Tivi_dyn_esx_Ohaituk
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_977
+			cost = 150
+		}
+	}
+	N07_978 = {
+		name = esx_Kootoo_dyn_esx_Arnalukjuak
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { fascist_demagogue }
+			slot = political_advisor
+			idea_token = i_978
+			cost = 150
+		}
+	}
+	N07_979 = {
+		name = esx_Eelee_Tullaugaq
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_979
+			cost = 150
+		}
+	}
+	N07_980 = {
+		name = esx_Uttakiyok_Tullaugaq
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_980
+			cost = 150
+		}
+	}
+	N07_981 = {
+		name = esx_Josie_dyn_esx_Eegeesiak
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_981
+			cost = 150
+		}
+	}
+	N07_982 = {
+		name = esx_Samwillie_dyn_esx_Kasaluak
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_982
+			cost = 150
+		}
+	}
+	N07_983 = {
+		name = esx_Pitsiula_Tullaugaq
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_983
+			cost = 150
+		}
+	}
+	N07_3344 = {
+		name = esx_Thukkekina_dyn_esx_Arlooktoo
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_4
+				small = GFX_Portrait_Asia_Generic_land_4_small
+			}
+		}
+		corps_commander = {
+			traits = { desert_fox trait_cautious }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+	N07_4619 = {
+		name = esx_Alaittuq_Atagotaaluk
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

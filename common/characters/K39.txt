@@ -1,0 +1,145 @@
+characters = {
+	K39_4312 = {
+		name = Fernando_Piquerobi
+		portraits = {
+			civilian = {
+				large = GFX_portrait_south_america_generic_7
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	K39_744 = {
+		name = Emilio_Rodelas
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_744
+			cost = 150
+		}
+	}
+	K39_745 = {
+		name = Carlos_Caiubi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_745
+			cost = 150
+		}
+	}
+	K39_746 = {
+		name = Fernando_Rodelas
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_746
+			cost = 150
+		}
+	}
+	K39_747 = {
+		name = Vitor_Tabajara
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_747
+			cost = 150
+		}
+	}
+	K39_748 = {
+		name = Jordao_2_Tibirica
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_748
+			cost = 150
+		}
+	}
+	K39_749 = {
+		name = Fernando_Tupinamba
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_749
+			cost = 150
+		}
+	}
+	K39_750 = {
+		name = Nicolau_Tibirica
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { editor }
+			slot = political_advisor
+			idea_token = i_750
+			cost = 150
+		}
+	}
+	K39_751 = {
+		name = Lucio_Tupiniquim
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	K39_3051 = {
+		name = Emilio_Tabajara
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_1
+				small = GFX_Portrait_South_America_Generic_land_1_small
+			}
+		}
+		corps_commander = {
+			traits = { cavalry_officer commando }
+			skill = 2
+			attack_skill = 3
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 2
+		}
+	}
+	K39_16779171 = {
+		name = Sergio_Piquerobi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

@@ -1,0 +1,27 @@
+state = {
+	id = 470
+	name = "STATE_470"
+	manpower = 328828
+	resources = {
+		chromium = 5
+		steel = 0
+		tungsten = 0
+	}
+
+	state_category = rural
+
+	history = {
+		owner = LAD
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 5
+		}
+		add_core_of = LAD
+	}
+
+	provinces = {
+		2010 5094 8068 10802 12801 
+	}
+}

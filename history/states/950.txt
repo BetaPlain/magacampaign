@@ -1,0 +1,30 @@
+state = {
+	id = 950
+	name = "STATE_950"
+	manpower = 13829
+	resources = {
+		aluminium = 1
+		chromium = 5
+		steel = 4
+		tungsten = 2
+	}
+
+	state_category = rural
+
+	history = {
+		owner = BRY
+		victory_points = {
+			7786 1
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = BRY
+	}
+
+	provinces = {
+		1672 7786 7860 10683 
+	}
+}

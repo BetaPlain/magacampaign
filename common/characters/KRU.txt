@@ -1,0 +1,145 @@
+characters = {
+	KRU_4315 = {
+		name = Konmlan_Twe
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Africa_Generic_3
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	KRU_776 = {
+		name = Gbwe_Twe
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { grand_fleet_proponent }
+			slot = political_advisor
+			idea_token = i_776
+			cost = 150
+		}
+	}
+	KRU_777 = {
+		name = Borforh_Twe
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_777
+			cost = 150
+		}
+	}
+	KRU_778 = {
+		name = Didwho_Kindo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_778
+			cost = 150
+		}
+	}
+	KRU_779 = {
+		name = Henry_Kanta
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_779
+			cost = 150
+		}
+	}
+	KRU_780 = {
+		name = Jlakon_Twe
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_780
+			cost = 150
+		}
+	}
+	KRU_781 = {
+		name = Forkay_Kama
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_781
+			cost = 150
+		}
+	}
+	KRU_782 = {
+		name = William_Twe
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	KRU_783 = {
+		name = Boryee_Banna
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_783
+			cost = 150
+		}
+	}
+	KRU_3092 = {
+		name = Nyennoh_Gbanka
+		portraits = {
+			army = {
+				large = GFX_Portrait_Africa_Generic_land_2
+				small = GFX_Portrait_Africa_Generic_land_2_small
+			}
+		}
+		corps_commander = {
+			traits = { brilliant_strategist trait_mountaineer }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 2
+		}
+	}
+	KRU_4522 = {
+		name = Pennon_Twe
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

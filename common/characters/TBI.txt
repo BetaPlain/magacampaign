@@ -1,0 +1,145 @@
+characters = {
+	TBI_4364 = {
+		name = Raqib_Habre
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_South_Africa_Political_Leader_Generic
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	TBI_1200 = {
+		name = Jawda_Habre
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_1200
+			cost = 150
+		}
+	}
+	TBI_1201 = {
+		name = Kharut_Kichidemi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_1201
+			cost = 150
+		}
+	}
+	TBI_1202 = {
+		name = Muhammad_Nouri
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_1202
+			cost = 150
+		}
+	}
+	TBI_1203 = {
+		name = Raqib_as-Sarhir
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_1203
+			cost = 150
+		}
+	}
+	TBI_1204 = {
+		name = Ibrahim_Nouri
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_1204
+			cost = 150
+		}
+	}
+	TBI_1205 = {
+		name = Adham_as-Sarhir
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	TBI_1206 = {
+		name = Salih_al-Sharif
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { ideological_crusader }
+			slot = political_advisor
+			idea_token = i_1206
+			cost = 150
+		}
+	}
+	TBI_1207 = {
+		name = Raqib_Abd_al-Aziz
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_1207
+			cost = 150
+		}
+	}
+	TBI_3623 = {
+		name = Ibrahim_Kichidemi
+		portraits = {
+			army = {
+				large = GFX_Portrait_Africa_Generic_land_4
+				small = GFX_Portrait_Africa_Generic_land_4_small
+			}
+		}
+		corps_commander = {
+			traits = { harsh_leader ranger }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+	TBI_16778553 = {
+		name = Jawda_Habre
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

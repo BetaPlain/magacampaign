@@ -1,0 +1,24 @@
+state = {
+	id = 379
+	name = "STATE_379"
+	manpower = 771754
+
+	state_category = rural
+
+	history = {
+		owner = I09
+		victory_points = {
+			4728 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = I09
+	}
+
+	provinces = {
+		1823 1839 1863 4728 4744 7878 12207 12522 
+	}
+}

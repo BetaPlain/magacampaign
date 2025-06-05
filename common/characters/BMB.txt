@@ -1,0 +1,151 @@
+characters = {
+	BMB_4276 = {
+		name = Kabili_Watuta
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Africa_Generic_4
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	BMB_400 = {
+		name = Ilo_Kasanda
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_400
+			cost = 150
+		}
+	}
+	BMB_401 = {
+		name = Bakari_Kasanda
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_401
+			cost = 150
+		}
+	}
+	BMB_402 = {
+		name = Ilo_Watuta
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_402
+			cost = 150
+		}
+	}
+	BMB_403 = {
+		name = Kasim_Mkasiwa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_403
+			cost = 150
+		}
+	}
+	BMB_404 = {
+		name = Razi_Watuta
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_404
+			cost = 150
+		}
+	}
+	BMB_405 = {
+		name = Jabari_Watuta
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_405
+			cost = 150
+		}
+	}
+	BMB_406 = {
+		name = Dume_Mudimbe
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_406
+			cost = 150
+		}
+	}
+	BMB_407 = {
+		name = Dakarai_Msemwa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_407
+			cost = 150
+		}
+	}
+	BMB_2622 = {
+		name = Kenyi_Msemwa
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_Africa_Army_Generic
+				small = GFX_Portrait_South_Africa_Army_Generic_small
+			}
+		}
+		corps_commander = {
+			traits = { old_guard }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	BMB_4623 = {
+		name = Kamwimbile_Watuta
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

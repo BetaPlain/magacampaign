@@ -1,0 +1,174 @@
+characters = {
+	X67_2086 = {
+		name = Mohammed_Kabungsuwan_V_Maguindanao
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	X67_1584 = {
+		name = tl_Joriz_Bonifacio
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_1584
+			cost = 150
+		}
+	}
+	X67_1585 = {
+		name = Valentine_Aguainaldo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_1585
+			cost = 150
+		}
+	}
+	X67_1586 = {
+		name = Artemio_dyn_tl_Halili
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_1586
+			cost = 150
+		}
+	}
+	X67_1587 = {
+		name = tl_Alab_dyn_tl_Guinto
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_1587
+			cost = 150
+		}
+	}
+	X67_1588 = {
+		name = Leon_3_Bonifacio
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_1588
+			cost = 150
+		}
+	}
+	X67_1589 = {
+		name = tl_Bayani_dyn_tl_Gatbonton
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { fascist_demagogue }
+			slot = political_advisor
+			idea_token = i_1589
+			cost = 150
+		}
+	}
+	X67_1590 = {
+		name = JosE__Burgos
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_1590
+			cost = 150
+		}
+	}
+	X67_1591 = {
+		name = tl_Kidlat_dyn_tl_Maunahan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_1591
+			cost = 150
+		}
+	}
+	X67_2082 = {
+		name = Kawasa_Anwar_ud-Din_Satria_dyn_tl_Dimagiba
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_1
+				small = GFX_Portrait_Asia_Generic_land_1_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	X67_2083 = {
+		name = Kibad_Sahriyal_Satria_dyn_tl_Carunungan
+		portraits = {
+			navy = {
+				large = GFX_Portrait_Asia_Generic_navy_1
+				small = GFX_Portrait_Asia_Generic_navy_1_small
+			}
+		}
+		navy_leader = {
+			traits = { chief_engineer }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			maneuvering_skill = 2
+			coordination_skill = 1
+		}
+	}
+	X67_2085 = {
+		name = Muhammad_Khair_ud-Din_Maguindanao
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_2085
+			cost = 150
+		}
+	}
+}

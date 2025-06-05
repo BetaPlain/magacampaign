@@ -1,0 +1,151 @@
+characters = {
+	DU1_4289 = {
+		name = Viktor_Khan
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Asia_Generic_3
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	DU1_536 = {
+		name = Donduk_Yadrintsev
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_536
+			cost = 150
+		}
+	}
+	DU1_537 = {
+		name = Gabdull_Khovalyg
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_537
+			cost = 150
+		}
+	}
+	DU1_538 = {
+		name = Alitet_Chaoke
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_538
+			cost = 150
+		}
+	}
+	DU1_539 = {
+		name = Donduk_Khan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_539
+			cost = 150
+		}
+	}
+	DU1_540 = {
+		name = Diniyar_Khan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_540
+			cost = 150
+		}
+	}
+	DU1_541 = {
+		name = Diniyar_Shchapov
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_541
+			cost = 150
+		}
+	}
+	DU1_542 = {
+		name = Alitet_Shchapov
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_542
+			cost = 150
+		}
+	}
+	DU1_543 = {
+		name = Sihabetdin_Khan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_543
+			cost = 150
+		}
+	}
+	DU1_2792 = {
+		name = Alitet_Khan
+		portraits = {
+			army = {
+				large = GFX_Portrait_asia_generic_land_5
+				small = GFX_Portrait_asia_generic_land_5_small
+			}
+		}
+		corps_commander = {
+			traits = { brilliant_strategist old_guard }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	DU1_4498 = {
+		name = Grigory_Khan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

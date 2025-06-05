@@ -1,0 +1,151 @@
+characters = {
+	HRO_4299 = {
+		name = Makalo_Tyiseseta
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_South_Africa_Political_Leader_Generic_2
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	HRO_632 = {
+		name = Guban_Maharero
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_632
+			cost = 150
+		}
+	}
+	HRO_633 = {
+		name = Jaguan_Nguvauva
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { grand_fleet_proponent }
+			slot = political_advisor
+			idea_token = i_633
+			cost = 150
+		}
+	}
+	HRO_634 = {
+		name = Bakari_Maharero
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_634
+			cost = 150
+		}
+	}
+	HRO_635 = {
+		name = Fabunni_Rukoro
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_635
+			cost = 150
+		}
+	}
+	HRO_636 = {
+		name = Jabari_Tyiseseta
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_636
+			cost = 150
+		}
+	}
+	HRO_637 = {
+		name = Samuel_Tjavikwa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_637
+			cost = 150
+		}
+	}
+	HRO_638 = {
+		name = Genet_Witbooi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_638
+			cost = 150
+		}
+	}
+	HRO_639 = {
+		name = Kamwimbile_Zeraua
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_639
+			cost = 150
+		}
+	}
+	HRO_2910 = {
+		name = Hajari_Tjimba
+		portraits = {
+			army = {
+				large = GFX_Portrait_Africa_Generic_land_3
+				small = GFX_Portrait_Africa_Generic_land_3_small
+			}
+		}
+		corps_commander = {
+			traits = { cavalry_officer commando }
+			skill = 2
+			attack_skill = 3
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 2
+		}
+	}
+	HRO_4600 = {
+		name = Amadi_Tyiseseta
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

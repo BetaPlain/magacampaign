@@ -1,0 +1,145 @@
+characters = {
+	DFT_4285 = {
+		name = Souau_Dericoyard
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Africa_Generic_3
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	DFT_504 = {
+		name = Birhenjira_Dericoyard
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_504
+			cost = 150
+		}
+	}
+	DFT_505 = {
+		name = Ngabwe_Dericoyard
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_505
+			cost = 150
+		}
+	}
+	DFT_506 = {
+		name = Mwerve_Ntayitunda
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_506
+			cost = 150
+		}
+	}
+	DFT_507 = {
+		name = Rugema_Nabushi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_507
+			cost = 150
+		}
+	}
+	DFT_508 = {
+		name = Kabare_Dericoyard
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_508
+			cost = 150
+		}
+	}
+	DFT_509 = {
+		name = Mwerve_Muhigirwa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_509
+			cost = 150
+		}
+	}
+	DFT_510 = {
+		name = Mwerve_Younga
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { communist_revolutionary }
+			slot = political_advisor
+			idea_token = i_510
+			cost = 150
+		}
+	}
+	DFT_511 = {
+		name = Rutanganda_Ntayitunda
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	DFT_2750 = {
+		name = Bigomokero_Vungara
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_Africa_Army_Generic
+				small = GFX_Portrait_South_Africa_Army_Generic_small
+			}
+		}
+		corps_commander = {
+			traits = { inflexible_strategist organizer }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 3
+		}
+	}
+	DFT_16781196 = {
+		name = Makome_Dericoyard
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

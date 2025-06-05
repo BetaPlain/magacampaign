@@ -1,0 +1,213 @@
+characters = {
+	ETH_1764 = {
+		name = Taqla_Haymanot_III_Solomonid
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	ETH_576 = {
+		name = Berhanu_Seged
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_576
+			cost = 150
+		}
+	}
+	ETH_577 = {
+		name = Demissie_Solomon
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_577
+			cost = 150
+		}
+	}
+	ETH_578 = {
+		name = Kelile_Petros
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_578
+			cost = 150
+		}
+	}
+	ETH_579 = {
+		name = Saleh_Melekot
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_579
+			cost = 150
+		}
+	}
+	ETH_580 = {
+		name = Demissie_Ali_Aba_Deyas
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_580
+			cost = 150
+		}
+	}
+	ETH_581 = {
+		name = Amare_Seged
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	ETH_582 = {
+		name = Desta_Selassie
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_582
+			cost = 150
+		}
+	}
+	ETH_583 = {
+		name = Amha_Mikael
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_583
+			cost = 150
+		}
+	}
+	ETH_1763 = {
+		name = Mika_el_Sehul_Wami_Petros
+		portraits = {
+			navy = {
+				large = GFX_Portrait_Africa_Generic_navy_3
+				small = GFX_Portrait_Africa_Generic_navy_3_small
+			}
+		}
+		navy_leader = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			maneuvering_skill = 1
+			coordination_skill = 1
+		}
+	}
+	ETH_1765 = {
+		name = Malta_Krestos_Wami_Seged
+		portraits = {
+			navy = {
+				large = GFX_Portrait_Africa_Generic_navy_2
+				small = GFX_Portrait_Africa_Generic_navy_2_small
+			}
+		}
+		navy_leader = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			maneuvering_skill = 1
+			coordination_skill = 1
+		}
+	}
+	ETH_2842 = {
+		name = Girma_Ali_Aba_Deyas
+		portraits = {
+			army = {
+				large = GFX_portrait_ETH_generic_male_4
+				small = GFX_portrait_ETH_generic_male_4_small
+			}
+		}
+		corps_commander = {
+			traits = { infantry_officer ranger }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+	ETH_2843 = {
+		name = Berhanu_Mikael
+		portraits = {
+			army = {
+				large = GFX_portrait_ETH_generic_male_2
+				small = GFX_portrait_ETH_generic_male_2_small
+			}
+		}
+		corps_commander = {
+			traits = { cavalry_officer desert_fox }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 1
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+	ETH_4450 = {
+		name = Amare_Makonnen
+		portraits = {
+			army = {
+				large = GFX_portrait_ETH_generic_male_1
+				small = GFX_portrait_ETH_generic_male_1_small
+			}
+		}
+		corps_commander = {
+			traits = { organizer }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 2
+			logistics_skill = 1
+		}
+	}
+	ETH_16777519 = {
+		name = Bekele_Solomonid
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

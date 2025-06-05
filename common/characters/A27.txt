@@ -1,0 +1,146 @@
+characters = {
+	A27_4270 = {
+		name = dw_Haubariria_dw_Makushi
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_3
+				small = GFX_Portrait_South_America_Generic_land_3_small
+			}
+			civilian = {
+				large = GFX_Portrait_South_America_Generic_land_3
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+		field_marshal = {
+			traits = { old_guard ranger trait_reckless }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 3
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+	A27_336 = {
+		name = dw_Pirija_dw_Waricha
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_336
+			cost = 150
+		}
+	}
+	A27_337 = {
+		name = dw_Laliwa_dw_Panapi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_337
+			cost = 150
+		}
+	}
+	A27_338 = {
+		name = dw_Pirija_dw_Nenege
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_338
+			cost = 150
+		}
+	}
+	A27_339 = {
+		name = dw_Arata_dw_Kapongong
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_339
+			cost = 150
+		}
+	}
+	A27_340 = {
+		name = dw_Arata_dw_Eregu
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { grand_fleet_proponent }
+			slot = political_advisor
+			idea_token = i_340
+			cost = 150
+		}
+	}
+	A27_341 = {
+		name = dw_Arah_dw_Heliya
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_341
+			cost = 150
+		}
+	}
+	A27_342 = {
+		name = dw_Amorotahe_dw_Korobahado
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_342
+			cost = 150
+		}
+	}
+	A27_343 = {
+		name = dw_Toratora_dw_Eregu
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_343
+			cost = 150
+		}
+	}
+	A27_4445 = {
+		name = dw_Torui_dw_Makushi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

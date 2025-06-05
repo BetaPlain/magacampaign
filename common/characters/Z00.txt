@@ -1,0 +1,180 @@
+characters = {
+	Z00_16778311 = {
+		name = Sapardan_Hamengkubuwono
+		portraits = {
+			army = {
+				large = GFX_portrait_unknown
+				small = GFX_portrait_unknown_small
+			}
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+		field_marshal = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	Z00_118 = {
+		name = Bambang_Muttakin
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_118
+			cost = 150
+		}
+	}
+	Z00_16778306 = {
+		name = Soeharto_Pakualaman
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_1
+				small = GFX_Portrait_Asia_Generic_land_1_small
+			}
+		}
+		corps_commander = {
+			traits = { infantry_officer inflexible_strategist }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 2
+		}
+	}
+	Z00_16778934 = {
+		name = Subadya_Hamengkubuwono
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	Z00_16780696 = {
+		name = Abdurrahman_Djojohadikusumo
+		portraits = {
+			navy = {
+				large = GFX_Portrait_asia_generic_navy_4
+				small = GFX_Portrait_asia_generic_navy_4_small
+			}
+		}
+		navy_leader = {
+			traits = { bold chief_engineer }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			maneuvering_skill = 2
+			coordination_skill = 1
+		}
+	}
+	Z00_16780700 = {
+		name = Abul_Notomidjojo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_16780700
+			cost = 150
+		}
+	}
+	Z00_16780702 = {
+		name = Soeharto_Khairuddin
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_16780702
+			cost = 150
+		}
+	}
+	Z00_16780703 = {
+		name = Arifin_Hamengkubuwono
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_16780703
+			cost = 150
+		}
+	}
+	Z00_16780704 = {
+		name = Soeharto_Hamengkubuwono
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_16780704
+			cost = 150
+		}
+	}
+	Z00_16780705 = {
+		name = Muhieddin_Pakualaman
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_16780705
+			cost = 150
+		}
+	}
+	Z00_16781567 = {
+		name = Soegija_Khairuddin
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_16781567
+			cost = 150
+		}
+	}
+	Z00_33558697 = {
+		name = Hasyim_Djajadiningrat
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_33558697
+			cost = 150
+		}
+	}
+}

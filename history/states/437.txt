@@ -1,0 +1,25 @@
+state = {
+	id = 437
+	name = "STATE_437"
+	manpower = 929702
+
+	state_category = rural
+
+	history = {
+		owner = LAN
+		victory_points = {
+			13039 1
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+		}
+		add_core_of = LAN
+	}
+
+	provinces = {
+		1002 4387 7393 13020 13021 13022 13039 13040 13041 13042 13043 13044 13045 13046 13047 13054 13055 13056 13057 
+	}
+}

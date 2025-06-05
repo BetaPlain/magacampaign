@@ -1,0 +1,151 @@
+characters = {
+	R05_4355 = {
+		name = norm_Kerioukeiou_norm_Takrukrak
+		portraits = {
+			civilian = {
+				large = GFX_portrait_south_america_generic_7
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	R05_1120 = {
+		name = norm_Janduwy_norm_Gueren
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_1120
+			cost = 150
+		}
+	}
+	R05_1121 = {
+		name = norm_Kerioukeiou_norm_Minhagiran
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_1121
+			cost = 150
+		}
+	}
+	R05_1122 = {
+		name = norm_Janduwy_norm_Mekmek
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_1122
+			cost = 150
+		}
+	}
+	R05_1123 = {
+		name = norm_Jandui_norm_Praje
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_1123
+			cost = 150
+		}
+	}
+	R05_1124 = {
+		name = norm_Raoni_norm_Itueto
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_1124
+			cost = 150
+		}
+	}
+	R05_1125 = {
+		name = norm_Karupoto_norm_Praje
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_1125
+			cost = 150
+		}
+	}
+	R05_1126 = {
+		name = norm_Karupoto_norm_Futikrak
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_1126
+			cost = 150
+		}
+	}
+	R05_1127 = {
+		name = norm_Caracara_norm_Aimore
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_1127
+			cost = 150
+		}
+	}
+	R05_3521 = {
+		name = norm_Caracara_norm_Gueren
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_5
+				small = GFX_Portrait_South_America_Generic_land_5_small
+			}
+		}
+		corps_commander = {
+			traits = { infantry_officer organizer ranger }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 4
+			logistics_skill = 1
+		}
+	}
+	R05_4581 = {
+		name = norm_Jandui_norm_Takrukrak
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

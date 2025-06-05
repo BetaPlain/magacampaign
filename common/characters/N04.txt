@@ -1,0 +1,151 @@
+characters = {
+	N04_4335 = {
+		name = Tse-Ne-Gat_House
+		portraits = {
+			civilian = {
+				large = GFX_portrait_south_america_generic_7
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	N04_952 = {
+		name = Sapiah_Timpanog
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_952
+			cost = 150
+		}
+	}
+	N04_953 = {
+		name = Colorow_Trahant
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_953
+			cost = 150
+		}
+	}
+	N04_954 = {
+		name = Tabby-To-Hwanah_Teton
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_954
+			cost = 150
+		}
+	}
+	N04_955 = {
+		name = Owitze_Trahant
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_955
+			cost = 150
+		}
+	}
+	N04_956 = {
+		name = Colorow_Timbimboo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_956
+			cost = 150
+		}
+	}
+	N04_957 = {
+		name = Sapiah_Box
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_957
+			cost = 150
+		}
+	}
+	N04_958 = {
+		name = Cameahwait_Daggett
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_958
+			cost = 150
+		}
+	}
+	N04_959 = {
+		name = Walkara_Manning
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_959
+			cost = 150
+		}
+	}
+	N04_3314 = {
+		name = Tabby-To-Hwanah_Timbimboo
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_4
+				small = GFX_Portrait_South_America_Generic_land_4_small
+			}
+		}
+		corps_commander = {
+			traits = { old_guard }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	N04_16779143 = {
+		name = Wirasuap_House
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

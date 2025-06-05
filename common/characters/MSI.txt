@@ -1,0 +1,151 @@
+characters = {
+	MSI_4334 = {
+		name = Segi_Arap_Koilege
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_South_Africa_Political_Leader_Generic_2
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	MSI_944 = {
+		name = Parasayip_Ole_Koyati
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { fascist_demagogue }
+			slot = political_advisor
+			idea_token = i_944
+			cost = 150
+		}
+	}
+	MSI_945 = {
+		name = Kakenya_Arap_Samoei
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_945
+			cost = 150
+		}
+	}
+	MSI_946 = {
+		name = Koyati_Arap_Samoei
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_946
+			cost = 150
+		}
+	}
+	MSI_947 = {
+		name = Lekuton_Ole_Parasayip
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_947
+			cost = 150
+		}
+	}
+	MSI_948 = {
+		name = Segi_Arap_Samoei
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_948
+			cost = 150
+		}
+	}
+	MSI_949 = {
+		name = Lekuton_Ole_Mbatian
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_949
+			cost = 150
+		}
+	}
+	MSI_950 = {
+		name = Koyati_Ole_Segi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_950
+			cost = 150
+		}
+	}
+	MSI_951 = {
+		name = Koyati_Ole_Lenana
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_951
+			cost = 150
+		}
+	}
+	MSI_3302 = {
+		name = Kimnyole_Arap_Koilege
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_Africa_Army_Generic
+				small = GFX_Portrait_South_Africa_Army_Generic_small
+			}
+		}
+		corps_commander = {
+			traits = { cavalry_officer ranger }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+	MSI_16779046 = {
+		name = Kimnyole_Arap_Koilege
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

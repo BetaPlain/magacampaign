@@ -1,0 +1,25 @@
+state = {
+	id = 734
+	name = "STATE_734"
+	manpower = 43984
+	resources = {
+		chromium = 4
+		steel = 8
+	}
+
+	state_category = rural
+
+	history = {
+		owner = PER
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = PER
+	}
+
+	provinces = {
+		4795 4868 7759 10583 
+	}
+}

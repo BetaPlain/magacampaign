@@ -1,0 +1,30 @@
+state = {
+	id = 542
+	name = "STATE_542"
+	manpower = 712125
+	resources = {
+		aluminium = 2
+		chromium = 1
+		rubber = 7
+		tungsten = 6
+	}
+
+	state_category = rural
+
+	history = {
+		owner = RAJ
+		victory_points = {
+			12275 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = RAJ
+	}
+
+	provinces = {
+		1238 1321 7391 7447 10130 12275 
+	}
+}

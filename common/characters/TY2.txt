@@ -1,0 +1,151 @@
+characters = {
+	TY2_4370 = {
+		name = au_Wirrin_Ayabakan
+		portraits = {
+			civilian = {
+				large = GFX_portrait_asia_generic_4
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	TY2_1248 = {
+		name = au_Yarran_dyn_au_Moowattin
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_1248
+			cost = 150
+		}
+	}
+	TY2_1249 = {
+		name = au_Narrah_dyn_au_Mudjidell
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1249
+			cost = 150
+		}
+	}
+	TY2_1250 = {
+		name = au_Meernaa_Jarowair
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_1250
+			cost = 150
+		}
+	}
+	TY2_1251 = {
+		name = au_Kari_dyn_au_Tjapangati
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_1251
+			cost = 150
+		}
+	}
+	TY2_1252 = {
+		name = au_Wubugwubuk_Bunuba
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_1252
+			cost = 150
+		}
+	}
+	TY2_1253 = {
+		name = au_Mandu_dyn_au_Dhurrkay
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_1253
+			cost = 150
+		}
+	}
+	TY2_1254 = {
+		name = au_Dural_dyn_au_Napaltjarri
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_1254
+			cost = 150
+		}
+	}
+	TY2_1255 = {
+		name = au_Matong_dyn_au_Maymuru
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_1255
+			cost = 150
+		}
+	}
+	TY2_3683 = {
+		name = au_Koora_dyn_au_Nganjmirra
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_1
+				small = GFX_Portrait_Asia_Generic_land_1_small
+			}
+		}
+		corps_commander = {
+			traits = { organizer trait_reckless }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 1
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+	TY2_16779234 = {
+		name = au_Dhrean_Ayabakan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

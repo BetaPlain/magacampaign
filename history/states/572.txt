@@ -1,0 +1,27 @@
+state = {
+	id = 572
+	name = "STATE_572"
+	manpower = 111398
+	resources = {
+		steel = 1
+	}
+
+	state_category = rural
+
+	history = {
+		owner = KAS
+		victory_points = {
+			12763 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = KAS
+	}
+
+	provinces = {
+		4558 12763 
+	}
+}

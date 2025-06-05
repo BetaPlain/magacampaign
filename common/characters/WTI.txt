@@ -1,0 +1,151 @@
+characters = {
+	WTI_4380 = {
+		name = au_Uwan_Bigambul
+		portraits = {
+			civilian = {
+				large = GFX_portrait_asia_generic_4
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	WTI_1384 = {
+		name = au_Ganan_dyn_au_Tjampitjinpa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_1384
+			cost = 150
+		}
+	}
+	WTI_1385 = {
+		name = au_Matong_Badjiri
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_1385
+			cost = 150
+		}
+	}
+	WTI_1386 = {
+		name = au_Callagun_dyn_au_Payungka
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_1386
+			cost = 150
+		}
+	}
+	WTI_1387 = {
+		name = au_Mulga_dyn_au_Yow_Yeh
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_1387
+			cost = 150
+		}
+	}
+	WTI_1388 = {
+		name = au_Nalong_Gulngay
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_1388
+			cost = 150
+		}
+	}
+	WTI_1389 = {
+		name = au_Derain_dyn_au_Tapai
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_1389
+			cost = 150
+		}
+	}
+	WTI_1390 = {
+		name = au_Burraga_dyn_au_Jungarai
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_1390
+			cost = 150
+		}
+	}
+	WTI_1391 = {
+		name = au_Cooba_Ayabakan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_1391
+			cost = 150
+		}
+	}
+	WTI_3851 = {
+		name = au_Berrigan_dyn_au_Jabanungga
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_2
+				small = GFX_Portrait_Asia_Generic_land_2_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	WTI_16777486 = {
+		name = au_Yarran_Bigambul
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

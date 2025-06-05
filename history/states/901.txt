@@ -1,0 +1,28 @@
+state = {
+	id = 901
+	name = "STATE_901"
+	manpower = 52704
+	resources = {
+		steel = 0
+	}
+
+	state_category = rural
+
+	history = {
+		owner = MSI
+		victory_points = {
+			5196 10
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 5
+		}
+		add_core_of = MSI
+	}
+
+	provinces = {
+		5160 5196 10860 
+	}
+}

@@ -1,0 +1,231 @@
+characters = {
+	LAN_99 = {
+		name = Liao_Yatsen
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Asia_Generic_3
+			}
+		}
+		country_leader = {
+			ideology = centrism
+			traits = {  }
+		}
+	}
+	LAN_96 = {
+		name = Soong_Nie
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_96
+			cost = 150
+		}
+	}
+	LAN_97 = {
+		name = Zhen_Li
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_97
+			cost = 150
+		}
+	}
+	LAN_98 = {
+		name = Yang_Dakai
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_98
+			cost = 150
+		}
+	}
+	LAN_100 = {
+		name = Huang_Li
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_100
+			cost = 150
+		}
+	}
+	LAN_101 = {
+		name = Shu_Xiuqing
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_101
+			cost = 150
+		}
+	}
+	LAN_102 = {
+		name = Tsai_Nie
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_102
+			cost = 150
+		}
+	}
+	LAN_103 = {
+		name = Zhang_Xiuquan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_103
+			cost = 150
+		}
+	}
+	LAN_1841 = {
+		name = Jing_Wang_Yucheng
+		portraits = {
+			army = {
+				large = GFX_Portrait_asia_generic_land_5
+				small = GFX_Portrait_asia_generic_land_5_small
+			}
+		}
+		field_marshal = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	LAN_1842 = {
+		name = Youlun_Hu_Yatsen
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_3
+				small = GFX_Portrait_Asia_Generic_land_3_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	LAN_1843 = {
+		name = Tenghui_Zhou_Zicai
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_4
+				small = GFX_Portrait_Asia_Generic_land_4_small
+			}
+		}
+		corps_commander = {
+			traits = { brilliant_strategist infantry_officer }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 2
+		}
+	}
+	LAN_1844 = {
+		name = Youjian_Chen_Qiu
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_2
+				small = GFX_Portrait_Asia_Generic_land_2_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	LAN_1845 = {
+		name = Tan_Ma_Yongfu
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_1
+				small = GFX_Portrait_Asia_Generic_land_1_small
+			}
+		}
+		corps_commander = {
+			traits = { armor_officer }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	LAN_1846 = {
+		name = Yousong_Fang_Qiu
+		portraits = {
+			navy = {
+				large = GFX_Portrait_Asia_Generic_navy_3
+				small = GFX_Portrait_Asia_Generic_navy_3_small
+			}
+		}
+		navy_leader = {
+			traits = { gunnery_expert old_guard_navy }
+			skill = 3
+			attack_skill = 2
+			defense_skill = 4
+			maneuvering_skill = 1
+			coordination_skill = 5
+		}
+	}
+	LAN_1847 = {
+		name = Youlun_Han_Yunshan
+		portraits = {
+			army = {
+				large = GFX_Portrait_asia_generic_land_5
+				small = GFX_Portrait_asia_generic_land_5_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+}

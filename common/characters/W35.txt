@@ -1,0 +1,191 @@
+characters = {
+	W35_1991 = {
+		name = Hasan_VI_Mwenemutapa
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	W35_1368 = {
+		name = Gamba_Soshangane
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_1368
+			cost = 150
+		}
+	}
+	W35_1369 = {
+		name = Tichawonna_Soshangane
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_1369
+			cost = 150
+		}
+	}
+	W35_1370 = {
+		name = Gamba_Magaya
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_1370
+			cost = 150
+		}
+	}
+	W35_1372 = {
+		name = Chionesu_Rozwi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1372
+			cost = 150
+		}
+	}
+	W35_1373 = {
+		name = Petiri_Muhuru
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_1373
+			cost = 150
+		}
+	}
+	W35_1374 = {
+		name = Chinouyazue_Lobengula
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_1374
+			cost = 150
+		}
+	}
+	W35_1375 = {
+		name = Goredenna_Maraire
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_1375
+			cost = 150
+		}
+	}
+	W35_1988 = {
+		name = Sabo_Suja_Mlimo
+		portraits = {
+			army = {
+				large = GFX_Portrait_Africa_Generic_land_2
+				small = GFX_Portrait_Africa_Generic_land_2_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	W35_1990 = {
+		name = Husayn_Mwenemutapa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { reluctant_interventionist }
+			slot = political_advisor
+			idea_token = i_1990
+			cost = 150
+		}
+	}
+	W35_3833 = {
+		name = Nyakambira_Muhuru
+		portraits = {
+			army = {
+				large = GFX_Portrait_Africa_Generic_land_1
+				small = GFX_Portrait_Africa_Generic_land_1_small
+			}
+		}
+		corps_commander = {
+			traits = { trait_cautious trait_mountaineer }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 3
+			planning_skill = 2
+			logistics_skill = 2
+		}
+	}
+	W35_4586 = {
+		name = Mashama_Hungwe
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_4586
+			cost = 150
+		}
+	}
+	W35_16779671 = {
+		name = Petiri_Kwenda
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_Africa_Army_Generic
+				small = GFX_Portrait_South_Africa_Army_Generic_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+}

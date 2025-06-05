@@ -1,0 +1,26 @@
+state = {
+	id = 839
+	name = "STATE_839"
+	manpower = 334227
+	resources = {
+		aluminium = 4
+		chromium = 0
+	}
+
+	state_category = rural
+
+	history = {
+		owner = NNG
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 5
+		}
+		add_core_of = NNG
+	}
+
+	provinces = {
+		5175 8130 11011 12990 
+	}
+}

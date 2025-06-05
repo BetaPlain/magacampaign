@@ -1,0 +1,191 @@
+characters = {
+	TNG_1945 = {
+		name = Akamu_V_Ha_aheo
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	TNG_176 = {
+		name = haw_Kunani_Keliimaikai
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_176
+			cost = 150
+		}
+	}
+	TNG_177 = {
+		name = haw_Kanamu_Kalakaua
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { silent_workhorse }
+			slot = political_advisor
+			idea_token = i_177
+			cost = 150
+		}
+	}
+	TNG_178 = {
+		name = haw_Lomio_dyn_haw_Naluai
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_178
+			cost = 150
+		}
+	}
+	TNG_179 = {
+		name = haw_Kanamu_dyn_haw_Kaeo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_179
+			cost = 150
+		}
+	}
+	TNG_180 = {
+		name = haw_Huanu_Keoua
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_180
+			cost = 150
+		}
+	}
+	TNG_181 = {
+		name = haw_Lomio_dyn_haw_Akana
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_181
+			cost = 150
+		}
+	}
+	TNG_182 = {
+		name = haw_Kai_dyn_haw_Nakoa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_182
+			cost = 150
+		}
+	}
+	TNG_183 = {
+		name = haw_Pomaikai_dyn_haw_Kaaihue
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_183
+			cost = 150
+		}
+	}
+	TNG_1942 = {
+		name = Iolani_Palani_dyn_haw_Kauhi
+		portraits = {
+			navy = {
+				large = GFX_Portrait_Asia_Generic_navy_1
+				small = GFX_Portrait_Asia_Generic_navy_1_small
+			}
+		}
+		navy_leader = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			maneuvering_skill = 1
+			coordination_skill = 1
+		}
+	}
+	TNG_1944 = {
+		name = Palani_Ha_aheo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_1944
+			cost = 150
+		}
+	}
+	TNG_2340 = {
+		name = haw_Kaleikaumaka_dyn_haw_Hookano
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_1
+				small = GFX_Portrait_Asia_Generic_land_1_small
+			}
+		}
+		corps_commander = {
+			traits = { desert_fox organizer }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 4
+			logistics_skill = 1
+		}
+	}
+	TNG_16781573 = {
+		name = haw_Alana_dyn_haw_Aloiau
+		portraits = {
+			army = {
+				large = GFX_Portrait_asia_generic_land_5
+				small = GFX_Portrait_asia_generic_land_5_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+}

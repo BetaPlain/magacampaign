@@ -1,0 +1,174 @@
+characters = {
+	JAV_1833 = {
+		name = Kertawardhana_I_Mas
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	JAV_112 = {
+		name = Ngabdurohman_Hamengkubuwono
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { grand_fleet_proponent }
+			slot = political_advisor
+			idea_token = i_112
+			cost = 150
+		}
+	}
+	JAV_113 = {
+		name = Arifin_Nurus
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { ideological_crusader }
+			slot = political_advisor
+			idea_token = i_113
+			cost = 150
+		}
+	}
+	JAV_114 = {
+		name = Ahmad_Nurus
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_114
+			cost = 150
+		}
+	}
+	JAV_115 = {
+		name = Haji_Cakraningrat
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_115
+			cost = 150
+		}
+	}
+	JAV_116 = {
+		name = Cirebon_Sastrowardoyo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_116
+			cost = 150
+		}
+	}
+	JAV_117 = {
+		name = Ngabdurohman_Muttakin
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_117
+			cost = 150
+		}
+	}
+	JAV_119 = {
+		name = Safiuddin_Khairuddin
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_119
+			cost = 150
+		}
+	}
+	JAV_1831 = {
+		name = Raden_Sotor_Mas_Salihin
+		portraits = {
+			navy = {
+				large = GFX_Portrait_Asia_Generic_navy_3
+				small = GFX_Portrait_Asia_Generic_navy_3_small
+			}
+		}
+		navy_leader = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			maneuvering_skill = 1
+			coordination_skill = 1
+		}
+	}
+	JAV_1832 = {
+		name = Wikramawardhana_Mas
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_1832
+			cost = 150
+		}
+	}
+	JAV_2262 = {
+		name = Soegija_Notomidjojo
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_2
+				small = GFX_Portrait_Asia_Generic_land_2_small
+			}
+		}
+		corps_commander = {
+			traits = { inflexible_strategist organizer }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 3
+		}
+	}
+	JAV_16780698 = {
+		name = Bambang_Djalaluddin
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { technocrat }
+			slot = political_advisor
+			idea_token = i_16780698
+			cost = 150
+		}
+	}
+}

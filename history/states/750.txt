@@ -1,0 +1,28 @@
+state = {
+	id = 750
+	name = "STATE_750"
+	manpower = 105736
+	resources = {
+		chromium = 7
+		steel = 10
+	}
+
+	state_category = rural
+
+	history = {
+		owner = BOT
+		victory_points = {
+			1509 1
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = BOT
+	}
+
+	provinces = {
+		1509 5203 10668 
+	}
+}

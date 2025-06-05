@@ -1,0 +1,143 @@
+characters = {
+	INC_4262 = {
+		name = qu_Quintiraura_Hanan
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	INC_240 = {
+		name = qu_Pumi-Sopa_dyn_qu_Chipana
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_240
+			cost = 150
+		}
+	}
+	INC_241 = {
+		name = qu_Illa_dyn_qu_Nahuis
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_241
+			cost = 150
+		}
+	}
+	INC_242 = {
+		name = qu_Guacra_dyn_qu_Llactahuaman
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { editor }
+			slot = political_advisor
+			idea_token = i_242
+			cost = 150
+		}
+	}
+	INC_243 = {
+		name = qu_Orco-Varanca_Quispe
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_243
+			cost = 150
+		}
+	}
+	INC_244 = {
+		name = qu_Cusichaca_Collahuazo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_244
+			cost = 150
+		}
+	}
+	INC_245 = {
+		name = qu_Huayna-Capac_dyn_qu_Hualla
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_245
+			cost = 150
+		}
+	}
+	INC_246 = {
+		name = qu_Pascac_Santa_Cruz
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_246
+			cost = 150
+		}
+	}
+	INC_247 = {
+		name = qu_Atoc_dyn_qu_Pumasupa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { editor }
+			slot = political_advisor
+			idea_token = i_247
+			cost = 150
+		}
+	}
+	INC_2421 = {
+		name = qu_Tanqui_dyn_qu_Canchon
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_4
+				small = GFX_Portrait_South_America_Generic_land_4_small
+			}
+		}
+		corps_commander = {
+			traits = { naval_invader }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 2
+			logistics_skill = 2
+		}
+	}
+}

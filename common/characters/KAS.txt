@@ -1,0 +1,146 @@
+characters = {
+	KAS_76 = {
+		name = fa_Kamran_Qajar
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Arabia_Generic_3
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			traits = {  }
+		}
+	}
+	KAS_72 = {
+		name = fa_Kayvan_dyn_fa_Azarvand
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_72
+			cost = 150
+		}
+	}
+	KAS_74 = {
+		name = fa_Mehran_dyn_fa_Bahador
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_74
+			cost = 150
+		}
+	}
+	KAS_75 = {
+		name = fa_Farhang_Bakhtiari
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_75
+			cost = 150
+		}
+	}
+	KAS_77 = {
+		name = fa_Ghebers_dyn_fa_Asadzadeh
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_77
+			cost = 150
+		}
+	}
+	KAS_78 = {
+		name = fa_Keyan_Hedayat
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_78
+			cost = 150
+		}
+	}
+	KAS_79 = {
+		name = fa_Shahin_dyn_fa_Haghkerdar
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_79
+			cost = 150
+		}
+	}
+	KAS_1835 = {
+		name = Sikandar_Mir_dyn_fa_Rouhani
+		portraits = {
+			army = {
+				large = GFX_Portrait_Arabia_Generic_land_2
+				small = GFX_Portrait_Arabia_Generic_land_2_small
+			}
+		}
+		corps_commander = {
+			traits = { harsh_leader }
+			skill = 1
+			attack_skill = 2
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	KAS_2213 = {
+		name = fa_Arshia_dyn_fa_Mossadeghi
+		portraits = {
+			army = {
+				large = GFX_Portrait_Arabia_Generic_land_1
+				small = GFX_Portrait_Arabia_Generic_land_1_small
+			}
+		}
+		corps_commander = {
+			traits = { old_guard }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	KAS_16781377 = {
+		name = fa_Behnam_dyn_fa_Pourmand
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_16781377
+			cost = 150
+		}
+	}
+}

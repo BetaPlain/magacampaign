@@ -1,0 +1,151 @@
+characters = {
+	Y15_4384 = {
+		name = Donato_Amahuaca
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_South_America_Generic_3
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	Y15_1688 = {
+		name = Sebastiao_Arawa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { silent_workhorse }
+			slot = political_advisor
+			idea_token = i_1688
+			cost = 150
+		}
+	}
+	Y15_1689 = {
+		name = Augusto_Xokieng
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_1689
+			cost = 150
+		}
+	}
+	Y15_1690 = {
+		name = Oscar_2_Puri
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_1690
+			cost = 150
+		}
+	}
+	Y15_1691 = {
+		name = Kananoe_Xavante
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_1691
+			cost = 150
+		}
+	}
+	Y15_1692 = {
+		name = Duarte_Canela
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_1692
+			cost = 150
+		}
+	}
+	Y15_1693 = {
+		name = David_Arawak
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_1693
+			cost = 150
+		}
+	}
+	Y15_1694 = {
+		name = Donato_Kayapo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_1694
+			cost = 150
+		}
+	}
+	Y15_1695 = {
+		name = Donato_Karaja
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1695
+			cost = 150
+		}
+	}
+	Y15_4231 = {
+		name = Sebastiao_Paiakan
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_1
+				small = GFX_Portrait_South_America_Generic_land_1_small
+			}
+		}
+		corps_commander = {
+			traits = { old_guard }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	Y15_4604 = {
+		name = Augusto_Amahuaca
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

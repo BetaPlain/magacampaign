@@ -1,0 +1,145 @@
+characters = {
+	BAR_4320 = {
+		name = Kongongolo_Kaza
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_South_Africa_Political_Leader_Generic
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	BAR_824 = {
+		name = Nguvenge_Matamba
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_824
+			cost = 150
+		}
+	}
+	BAR_825 = {
+		name = Cikunyu_Simbwaye
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_825
+			cost = 150
+		}
+	}
+	BAR_826 = {
+		name = Cikunyu_Kiapungo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_826
+			cost = 150
+		}
+	}
+	BAR_827 = {
+		name = Kinya_Matamba
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_827
+			cost = 150
+		}
+	}
+	BAR_828 = {
+		name = Kakembembe_Kaza
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_828
+			cost = 150
+		}
+	}
+	BAR_829 = {
+		name = Kayangula_Vasovava
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_829
+			cost = 150
+		}
+	}
+	BAR_830 = {
+		name = Kapoko_Kiapungo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	BAR_831 = {
+		name = Ciasungu_Cinene
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_831
+			cost = 150
+		}
+	}
+	BAR_3152 = {
+		name = Cingi_Kaza
+		portraits = {
+			army = {
+				large = GFX_Portrait_Africa_Generic_land_1
+				small = GFX_Portrait_Africa_Generic_land_1_small
+			}
+		}
+		corps_commander = {
+			traits = { naval_invader }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 2
+			logistics_skill = 2
+		}
+	}
+	BAR_4584 = {
+		name = Kongongolo_Kaza
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

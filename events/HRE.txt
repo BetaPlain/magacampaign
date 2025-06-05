@@ -1,0 +1,6 @@
+﻿add_namespace = HRE
+
+country_event = {
+	id = sample_event
+
+}

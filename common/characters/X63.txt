@@ -1,0 +1,174 @@
+characters = {
+	X63_1572 = {
+		name = fa_Kaveh_Hakimi
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Arabia_Generic_3
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			traits = {  }
+		}
+	}
+	X63_1568 = {
+		name = fa_Faraz_dyn_fa_Shadpour
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_1568
+			cost = 150
+		}
+	}
+	X63_1570 = {
+		name = fa_Navid_dyn_fa_Akhlaghi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_1570
+			cost = 150
+		}
+	}
+	X63_1571 = {
+		name = fa_Emad_dyn_fa_Safarian
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_1571
+			cost = 150
+		}
+	}
+	X63_1573 = {
+		name = fa_Farhad_dyn_fa_Talei
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_1573
+			cost = 150
+		}
+	}
+	X63_1574 = {
+		name = fa_Ardalan_dyn_fa_Yousef
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_backstabber }
+			slot = political_advisor
+			idea_token = i_1574
+			cost = 150
+		}
+	}
+	X63_1575 = {
+		name = fa_Behrouz_dyn_fa_Mahmoudi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_1575
+			cost = 150
+		}
+	}
+	X63_2074 = {
+		name = Muhammad_al-Qazdughli
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { propaganda_expert }
+			slot = political_advisor
+			idea_token = i_2074
+			cost = 150
+		}
+	}
+	X63_2075 = {
+		name = Muhammad_IX_al-Qazdughli
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_2075
+			cost = 150
+		}
+	}
+	X63_2076 = {
+		name = Ilyas_Sayfuddin_dyn_fa_Behtash
+		portraits = {
+			army = {
+				large = GFX_Portrait_Arabia_Generic_land_2
+				small = GFX_Portrait_Arabia_Generic_land_2_small
+			}
+		}
+		corps_commander = {
+			traits = { harsh_leader trait_mountaineer }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 2
+		}
+	}
+	X63_2077 = {
+		name = Inal_Bay_dyn_ar_bin_Faisal
+		portraits = {
+			army = {
+				large = GFX_Portrait_Arabia_Generic_land_3
+				small = GFX_Portrait_Arabia_Generic_land_3_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	X63_16778238 = {
+		name = ar_Idiamin_Al_Maktoum
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { grand_fleet_proponent }
+			slot = political_advisor
+			idea_token = i_16778238
+			cost = 150
+		}
+	}
+}

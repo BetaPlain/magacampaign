@@ -1,0 +1,145 @@
+characters = {
+	K15_4305 = {
+		name = au_Lowan_Totj
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Asia_Generic_3
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	K15_688 = {
+		name = au_Dhrean_Dhiraila
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_688
+			cost = 150
+		}
+	}
+	K15_689 = {
+		name = au_Cobar_Injinoo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_689
+			cost = 150
+		}
+	}
+	K15_690 = {
+		name = au_Parri_Kutjal
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_690
+			cost = 150
+		}
+	}
+	K15_691 = {
+		name = au_Callagun_Bigambul
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_691
+			cost = 150
+		}
+	}
+	K15_692 = {
+		name = au_Woorin_Ayabakan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	K15_693 = {
+		name = au_Warrigal_dyn_au_Marika
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_693
+			cost = 150
+		}
+	}
+	K15_694 = {
+		name = au_Dorak_dyn_au_Djerrkura
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { fascist_demagogue }
+			slot = political_advisor
+			idea_token = i_694
+			cost = 150
+		}
+	}
+	K15_695 = {
+		name = au_Yileen_dyn_au_Nadjamerrek
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_695
+			cost = 150
+		}
+	}
+	K15_2981 = {
+		name = au_Wubugwubuk_dyn_au_Tjampitjinpa
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_1
+				small = GFX_Portrait_Asia_Generic_land_1_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	K15_4390 = {
+		name = au_Gelar_Totj
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

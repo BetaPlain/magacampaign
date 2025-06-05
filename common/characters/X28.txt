@@ -1,0 +1,145 @@
+characters = {
+	X28_2025 = {
+		name = Mico_Malatchi_Hopoethe_dyn_musk_Itchualgi
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			traits = {  }
+		}
+	}
+	X28_1440 = {
+		name = musk_Ohkose_dyn_musk_Ahalakalgi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	X28_1441 = {
+		name = musk_Vre_McIntosh
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_1441
+			cost = 150
+		}
+	}
+	X28_1442 = {
+		name = musk_Okefos_dyn_musk_hovtlke_Efkvm
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_1442
+			cost = 150
+		}
+	}
+	X28_1443 = {
+		name = musk_Huhuewahehle_McIntosh
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_1443
+			cost = 150
+		}
+	}
+	X28_1444 = {
+		name = musk_Fvsehv_Ahhajumba
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_1444
+			cost = 150
+		}
+	}
+	X28_1445 = {
+		name = musk_Malatche_dyn_musk_hovtlke_Efoset
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_1445
+			cost = 150
+		}
+	}
+	X28_1446 = {
+		name = musk_Ohiyese_Ahhajumba
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_backstabber }
+			slot = political_advisor
+			idea_token = i_1446
+			cost = 150
+		}
+	}
+	X28_1447 = {
+		name = musk_Hvno_dyn_musk_Itamalgi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_1447
+			cost = 150
+		}
+	}
+	X28_3922 = {
+		name = musk_Huhuewahehle_Brim
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_4
+				small = GFX_Portrait_South_America_Generic_land_4_small
+			}
+		}
+		corps_commander = {
+			traits = { infantry_officer inflexible_strategist }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 2
+		}
+	}
+	X28_4434 = {
+		name = musk_Vmeyv_dyn_musk_Itchualgi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

@@ -1,0 +1,28 @@
+state = {
+	id = 847
+	name = "STATE_847"
+	manpower = 167923
+	resources = {
+		steel = 0
+	}
+
+	state_category = rural
+
+	history = {
+		owner = TRK
+		victory_points = {
+			11145 10
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 5
+		}
+		add_core_of = TRK
+	}
+
+	provinces = {
+		11145 
+	}
+}

@@ -1,0 +1,151 @@
+characters = {
+	BRY_4264 = {
+		name = Tsokto_Abiduev
+		portraits = {
+			civilian = {
+				large = GFX_portrait_asia_generic_4
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	BRY_272 = {
+		name = Dashirabdan_Tsydenov
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_272
+			cost = 150
+		}
+	}
+	BRY_273 = {
+		name = Serenzhab_Abiduev
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_273
+			cost = 150
+		}
+	}
+	BRY_274 = {
+		name = Bazar_Batozhabay
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_274
+			cost = 150
+		}
+	}
+	BRY_275 = {
+		name = Namzhal_Dondogoy
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_275
+			cost = 150
+		}
+	}
+	BRY_276 = {
+		name = Bidia_Dandaron
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_276
+			cost = 150
+		}
+	}
+	BRY_277 = {
+		name = Batozhargal_Tsydenov
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_277
+			cost = 150
+		}
+	}
+	BRY_278 = {
+		name = Buyanto_Bimbayev
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_278
+			cost = 150
+		}
+	}
+	BRY_279 = {
+		name = Tseden_Zhigzhitov
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_279
+			cost = 150
+		}
+	}
+	BRY_2461 = {
+		name = Buyanto_Tsydenov
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_4
+				small = GFX_Portrait_Asia_Generic_land_4_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	BRY_16777515 = {
+		name = Bavasan_Abiduev
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

@@ -1,0 +1,29 @@
+state = {
+	id = 138
+	name = "STATE_138"
+	manpower = 1315613
+	resources = {
+		chromium = 12
+		steel = 80
+	}
+
+	state_category = rural
+
+	history = {
+		owner = PLC
+		victory_points = {
+			11368 1
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+		}
+		add_core_of = PLC
+	}
+
+	provinces = {
+		212 236 246 261 288 300 302 328 352 356 382 384 398 3226 3236 3250 3263 3291 3292 3306 3308 3327 3335 3345 3346 3377 3390 6243 6252 6262 6290 6305 6315 6330 6333 6348 6355 6365 6386 6396 6411 9261 9301 9318 9328 9348 9355 9366 9384 9411 11214 11235 11242 11283 11284 11300 11310 11337 11347 11368 11369 
+	}
+}

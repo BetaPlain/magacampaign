@@ -1,0 +1,27 @@
+state = {
+	id = 403
+	name = "STATE_403"
+	manpower = 433458
+	resources = {
+		aluminium = 20
+	}
+
+	state_category = rural
+
+	history = {
+		owner = MEX
+		victory_points = {
+			12489 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = MEX
+	}
+
+	provinces = {
+		1503 1646 4444 4567 4597 4625 7485 7543 7586 10355 10477 12458 12489 12778 
+	}
+}

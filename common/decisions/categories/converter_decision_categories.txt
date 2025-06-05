@@ -1,0 +1,6 @@
+sample_decision_category = {
+	icon = generic_form_nation
+	visible = {
+			}
+}
+

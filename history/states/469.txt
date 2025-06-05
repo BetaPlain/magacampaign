@@ -1,0 +1,29 @@
+state = {
+	id = 469
+	name = "STATE_469"
+	manpower = 503283
+	resources = {
+		aluminium = 2
+		steel = 12
+	}
+
+	state_category = rural
+
+	history = {
+		owner = ETH
+		victory_points = {
+			12071 1
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+		}
+		add_core_of = ETH
+	}
+
+	provinces = {
+		1028 1064 1151 4068 4910 5069 7073 7156 11999 12002 12071 12889 
+	}
+}

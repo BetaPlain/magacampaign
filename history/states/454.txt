@@ -1,0 +1,24 @@
+state = {
+	id = 454
+	name = "STATE_454"
+	manpower = 905724
+
+	state_category = rural
+
+	history = {
+		owner = HRE
+		victory_points = {
+			589 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = HRE
+	}
+
+	provinces = {
+		589 3397 3524 3574 6488 6549 9486 9524 11445 11533 
+	}
+}

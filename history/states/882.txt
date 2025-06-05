@@ -1,0 +1,30 @@
+state = {
+	id = 882
+	name = "STATE_882"
+	manpower = 86691
+	resources = {
+		aluminium = 2
+		rubber = 0
+		steel = 0
+	}
+
+	state_category = rural
+
+	history = {
+		owner = MDK
+		victory_points = {
+			8008 10
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 5
+		}
+		add_core_of = MDK
+	}
+
+	provinces = {
+		5039 8008 
+	}
+}

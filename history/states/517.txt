@@ -1,0 +1,28 @@
+state = {
+	id = 517
+	name = "STATE_517"
+	manpower = 503448
+	resources = {
+		steel = 47
+		tungsten = 21
+	}
+
+	state_category = rural
+
+	history = {
+		owner = PER
+		victory_points = {
+			11225 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = PER
+	}
+
+	provinces = {
+		338 365 393 410 452 497 1210 1254 1350 3216 3265 3330 3357 3385 3486 3551 3563 4322 4324 6339 6379 6424 6430 6473 6502 6515 6574 7343 9243 9271 9337 9365 9391 9420 9473 10299 11225 11256 11321 11348 11377 11433 11458 12128 12242 12270 12298 
+	}
+}

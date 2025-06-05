@@ -1,0 +1,137 @@
+characters = {
+	Y08_4382 = {
+		name = au_Djakapura_Rakaya
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Asia_Generic_3
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	Y08_1672 = {
+		name = au_Miro_Bunuba
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1672
+			cost = 150
+		}
+	}
+	Y08_1673 = {
+		name = au_Warrigal_dyn_au_Sampi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_1673
+			cost = 150
+		}
+	}
+	Y08_1674 = {
+		name = au_Warrain_dyn_au_Dingo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_1674
+			cost = 150
+		}
+	}
+	Y08_1675 = {
+		name = au_Marron_Bunuba
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	Y08_1676 = {
+		name = au_Coen_Giabal
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_1676
+			cost = 150
+		}
+	}
+	Y08_1677 = {
+		name = au_Girra_Agwamin
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_1677
+			cost = 150
+		}
+	}
+	Y08_1678 = {
+		name = au_Miki_dyn_au_Yamma
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { editor }
+			slot = political_advisor
+			idea_token = i_1678
+			cost = 150
+		}
+	}
+	Y08_1679 = {
+		name = au_Wirake_dyn_au_Payungka
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_1679
+			cost = 150
+		}
+	}
+	Y08_4211 = {
+		name = au_Mudjidell_Dhiraila
+		portraits = {
+			army = {
+				large = GFX_Portrait_asia_generic_land_5
+				small = GFX_Portrait_asia_generic_land_5_small
+			}
+		}
+		corps_commander = {
+			traits = { infantry_officer old_guard }
+			skill = 1
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+}

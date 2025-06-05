@@ -1,0 +1,231 @@
+characters = {
+	BRA_150 = {
+		name = wo_Hachim_dyn_wo_Aidara
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Africa_Generic_3
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			traits = {  }
+		}
+	}
+	BRA_144 = {
+		name = wo_Abdou_dyn_wo_Mballo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_144
+			cost = 150
+		}
+	}
+	BRA_145 = {
+		name = wo_Amadou_dyn_wo_Boiro
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { grand_fleet_proponent }
+			slot = political_advisor
+			idea_token = i_145
+			cost = 150
+		}
+	}
+	BRA_146 = {
+		name = wo_Pape_dyn_wo_Housseyni
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_146
+			cost = 150
+		}
+	}
+	BRA_147 = {
+		name = wo_Amadou_dyn_wo_Thiandoum
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_147
+			cost = 150
+		}
+	}
+	BRA_148 = {
+		name = wo_Birago_dyn_wo_Diakite
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_148
+			cost = 150
+		}
+	}
+	BRA_149 = {
+		name = wo_Ndiaye_dyn_wo_Aw
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_149
+			cost = 150
+		}
+	}
+	BRA_151 = {
+		name = wo_Madio_dyn_wo_Savane
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_151
+			cost = 150
+		}
+	}
+	BRA_1732 = {
+		name = Mahmud_Traore_dyn_wo_Housseyni
+		portraits = {
+			army = {
+				large = GFX_Portrait_Africa_Generic_land_2
+				small = GFX_Portrait_Africa_Generic_land_2_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	BRA_1733 = {
+		name = Mami_Keita_dyn_wo_Thior
+		portraits = {
+			army = {
+				large = GFX_Portrait_Africa_Generic_land_1
+				small = GFX_Portrait_Africa_Generic_land_1_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	BRA_1734 = {
+		name = Zenka_Keita_dyn_wo_Thiongane
+		portraits = {
+			navy = {
+				large = GFX_Portrait_Africa_Generic_navy_2
+				small = GFX_Portrait_Africa_Generic_navy_2_small
+			}
+		}
+		navy_leader = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			maneuvering_skill = 1
+			coordination_skill = 1
+		}
+	}
+	BRA_1735 = {
+		name = Yusuf_Keita_dyn_wo_Barro
+		portraits = {
+			navy = {
+				large = GFX_Portrait_Africa_Generic_navy_1
+				small = GFX_Portrait_Africa_Generic_navy_1_small
+			}
+		}
+		navy_leader = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			maneuvering_skill = 1
+			coordination_skill = 1
+		}
+	}
+	BRA_1736 = {
+		name = Da_ud_Deo_dyn_wo_Diouf
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_Africa_Army_Generic
+				small = GFX_Portrait_South_Africa_Army_Generic_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	BRA_1737 = {
+		name = _Ali_Zalil_Diarra_dyn_wo_Ndiongue
+		portraits = {
+			navy = {
+				large = GFX_Portrait_Africa_Generic_navy_3
+				small = GFX_Portrait_Africa_Generic_navy_3_small
+			}
+		}
+		navy_leader = {
+			traits = { craven }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			maneuvering_skill = 1
+			coordination_skill = 1
+		}
+	}
+	BRA_1738 = {
+		name = Bubu_Toure_dyn_wo_Guisse
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_Africa_Army_Generic_2
+				small = GFX_Portrait_South_Africa_Army_Generic_2_small
+			}
+		}
+		corps_commander = {
+			traits = { armor_officer trait_mountaineer }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 2
+			logistics_skill = 2
+		}
+	}
+}

@@ -1,0 +1,28 @@
+state = {
+	id = 829
+	name = "STATE_829"
+	manpower = 238228
+	resources = {
+		aluminium = 1
+		steel = 1
+	}
+
+	state_category = rural
+
+	history = {
+		owner = YUN
+		victory_points = {
+			12705 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = YUN
+	}
+
+	provinces = {
+		1395 12705 
+	}
+}

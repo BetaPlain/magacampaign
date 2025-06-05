@@ -1,0 +1,129 @@
+characters = {
+	EE1_571 = {
+		name = Mabey_Wakanik
+		portraits = {
+			civilian = {
+				large = GFX_portrait_south_america_generic_9
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			traits = {  }
+		}
+	}
+	EE1_568 = {
+		name = Alonso_Torres
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_568
+			cost = 150
+		}
+	}
+	EE1_569 = {
+		name = Nasio_Majibacoa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_569
+			cost = 150
+		}
+	}
+	EE1_570 = {
+		name = Guama_Mendez
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_570
+			cost = 150
+		}
+	}
+	EE1_572 = {
+		name = Brizuela_de_Iguanama
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_572
+			cost = 150
+		}
+	}
+	EE1_573 = {
+		name = Pedro_Nibonri
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_573
+			cost = 150
+		}
+	}
+	EE1_574 = {
+		name = Jumacao_Barreiro
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_574
+			cost = 150
+		}
+	}
+	EE1_575 = {
+		name = Brizuela_Guani
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_575
+			cost = 150
+		}
+	}
+	EE1_2830 = {
+		name = Alonso_Guani
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_1
+				small = GFX_Portrait_South_America_Generic_land_1_small
+			}
+		}
+		corps_commander = {
+			traits = { brilliant_strategist old_guard }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+}

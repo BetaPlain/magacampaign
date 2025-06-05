@@ -1,0 +1,151 @@
+characters = {
+	M43_4326 = {
+		name = norm_Karupoto_norm_Krekmun
+		portraits = {
+			civilian = {
+				large = GFX_portrait_south_america_generic_9
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	M43_872 = {
+		name = norm_Raoni_norm_Aimore
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_872
+			cost = 150
+		}
+	}
+	M43_873 = {
+		name = norm_Jandui_norm_Aimore
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_873
+			cost = 150
+		}
+	}
+	M43_874 = {
+		name = norm_Raoni_norm_Gueren
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { editor }
+			slot = political_advisor
+			idea_token = i_874
+			cost = 150
+		}
+	}
+	M43_875 = {
+		name = norm_Janduwy_norm_Minhagiran
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_875
+			cost = 150
+		}
+	}
+	M43_876 = {
+		name = norm_Caracara_norm_Gueren
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_876
+			cost = 150
+		}
+	}
+	M43_877 = {
+		name = norm_Jandui_norm_Itueto
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_877
+			cost = 150
+		}
+	}
+	M43_878 = {
+		name = norm_Kerioukeiou_norm_Naknyanuk
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_878
+			cost = 150
+		}
+	}
+	M43_879 = {
+		name = norm_Caracara_norm_Itueto
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_879
+			cost = 150
+		}
+	}
+	M43_3213 = {
+		name = norm_Jandui_norm_Nakrehe
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_1
+				small = GFX_Portrait_South_America_Generic_land_1_small
+			}
+		}
+		corps_commander = {
+			traits = { organizer trait_reckless }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 1
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+	M43_16778969 = {
+		name = norm_Karupoto_norm_Krekmun
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

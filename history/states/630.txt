@@ -1,0 +1,28 @@
+state = {
+	id = 630
+	name = "STATE_630"
+	manpower = 136315
+	resources = {
+		aluminium = 0
+		steel = 2
+	}
+
+	state_category = town
+
+	history = {
+		owner = USA
+		victory_points = {
+			4445 1
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 1
+		}
+		add_core_of = USA
+	}
+
+	provinces = {
+		4445 7629 9675 
+	}
+}

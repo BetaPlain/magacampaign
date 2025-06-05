@@ -1,0 +1,208 @@
+characters = {
+	X26_2024 = {
+		name = Daulat_Khan_II_Lodi
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	X26_1432 = {
+		name = Bhai_Jethwa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_1432
+			cost = 150
+		}
+	}
+	X26_1433 = {
+		name = Durga_Kunwar
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_1433
+			cost = 150
+		}
+	}
+	X26_1434 = {
+		name = Veer_Qaim
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_1434
+			cost = 150
+		}
+	}
+	X26_1435 = {
+		name = Harsha_Jethwa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_1435
+			cost = 150
+		}
+	}
+	X26_1436 = {
+		name = Hayat_Jethwa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_1436
+			cost = 150
+		}
+	}
+	X26_1437 = {
+		name = Malik_Qaim
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1437
+			cost = 150
+		}
+	}
+	X26_1439 = {
+		name = Bhagwant_Bachittar_Singh
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_1439
+			cost = 150
+		}
+	}
+	X26_2022 = {
+		name = Saikander_Ra_ana_Bamzai
+		portraits = {
+			army = {
+				large = GFX_portrait_unknown
+				small = GFX_portrait_unknown_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	X26_2023 = {
+		name = Ibrahim_Lodi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { education_reformer }
+			slot = political_advisor
+			idea_token = i_2023
+			cost = 150
+		}
+	}
+	X26_3910 = {
+		name = Muhammad_Kunwar
+		portraits = {
+			army = {
+				large = GFX_portrait_unknown
+				small = GFX_portrait_unknown_small
+			}
+		}
+		corps_commander = {
+			traits = { cavalry_officer desert_fox }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 1
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+	X26_4502 = {
+		name = Haji_Taseer
+		portraits = {
+			army = {
+				large = GFX_portrait_unknown
+				small = GFX_portrait_unknown_small
+			}
+		}
+		corps_commander = {
+			traits = { commando trait_cautious }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 3
+		}
+	}
+	X26_4535 = {
+		name = Kifayat_Ghafar_Khan
+		portraits = {
+			army = {
+				large = GFX_portrait_unknown
+				small = GFX_portrait_unknown_small
+			}
+		}
+		corps_commander = {
+			traits = { old_guard }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	X26_16779259 = {
+		name = Karimdad_Alokzai
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_16779259
+			cost = 150
+		}
+	}
+}

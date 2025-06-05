@@ -1,0 +1,146 @@
+characters = {
+	N06_4337 = {
+		name = Antonga_Umatilla
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_1
+				small = GFX_Portrait_South_America_Generic_land_1_small
+			}
+			civilian = {
+				large = GFX_Portrait_South_America_Generic_land_1
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+		field_marshal = {
+			traits = { old_guard ranger trait_reckless }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 3
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+	N06_968 = {
+		name = Wirasuap_Rael
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_968
+			cost = 150
+		}
+	}
+	N06_969 = {
+		name = Kanosh_House
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_969
+			cost = 150
+		}
+	}
+	N06_970 = {
+		name = Ouray_Manning
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_970
+			cost = 150
+		}
+	}
+	N06_971 = {
+		name = Sapinero_Rael
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_971
+			cost = 150
+		}
+	}
+	N06_972 = {
+		name = Tse-Ne-Gat_Umatilla
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_972
+			cost = 150
+		}
+	}
+	N06_973 = {
+		name = Canalla_Trudell
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_973
+			cost = 150
+		}
+	}
+	N06_974 = {
+		name = Kanosh_Rael
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_974
+			cost = 150
+		}
+	}
+	N06_975 = {
+		name = Antonga_Teton
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_975
+			cost = 150
+		}
+	}
+	N06_4591 = {
+		name = Antonga_Umatilla
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

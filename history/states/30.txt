@@ -1,0 +1,33 @@
+state = {
+	id = 30
+	name = "STATE_30"
+	manpower = 3524468
+	resources = {
+		rubber = 13
+		steel = 1
+		tungsten = 1
+	}
+
+	state_category = rural
+
+	history = {
+		owner = LAO
+		victory_points = {
+			1427 1
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+			1427 = {
+				naval_base = 1
+			}
+			air_base = 1
+		}
+		add_core_of = LAO
+	}
+
+	provinces = {
+		1427 7338 7367 7408 10221 10250 10398 10411 12173 
+	}
+}

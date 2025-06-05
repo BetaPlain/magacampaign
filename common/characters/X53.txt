@@ -1,0 +1,191 @@
+characters = {
+	X53_2053 = {
+		name = Alauddin_Riayat_Shah_VIII_Kedah
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	X53_1528 = {
+		name = ms_Danang_Jamalullail
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_1528
+			cost = 150
+		}
+	}
+	X53_1529 = {
+		name = ms_Baba_Bendahara
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1529
+			cost = 150
+		}
+	}
+	X53_1530 = {
+		name = ms_Jantan_dyn_ms_Merdeka
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_1530
+			cost = 150
+		}
+	}
+	X53_1531 = {
+		name = ms_Budi_Jamalullail
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { editor }
+			slot = political_advisor
+			idea_token = i_1531
+			cost = 150
+		}
+	}
+	X53_1532 = {
+		name = ms_Usop_bin_Nik
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_1532
+			cost = 150
+		}
+	}
+	X53_1533 = {
+		name = ms_Izzat_dyn_ms_Selasa
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_1533
+			cost = 150
+		}
+	}
+	X53_1534 = {
+		name = ms_Kasturi_dyn_ms_Malim
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_1534
+			cost = 150
+		}
+	}
+	X53_1535 = {
+		name = ms_Mulia_dyn_ms_Jejaka
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_1535
+			cost = 150
+		}
+	}
+	X53_2050 = {
+		name = Ahmad_Riayat_Shah_Nazmizan_dyn_ms_Jaya
+		portraits = {
+			navy = {
+				large = GFX_Portrait_Asia_Generic_navy_3
+				small = GFX_Portrait_Asia_Generic_navy_3_small
+			}
+		}
+		navy_leader = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			maneuvering_skill = 1
+			coordination_skill = 1
+		}
+	}
+	X53_2051 = {
+		name = Hussein_Shah_Kedah
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { democratic_crusader }
+			slot = political_advisor
+			idea_token = i_2051
+			cost = 150
+		}
+	}
+	X53_4031 = {
+		name = ms_Jumaat_dyn_ms_Bagus
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_3
+				small = GFX_Portrait_Asia_Generic_land_3_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	X53_4033 = {
+		name = ms_Teruna_Bendahara
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_4
+				small = GFX_Portrait_Asia_Generic_land_4_small
+			}
+		}
+		corps_commander = {
+			traits = { old_guard }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+}

@@ -1,0 +1,271 @@
+characters = {
+	ITA_1952 = {
+		name = Alberto_I_von_Habsburg
+		portraits = {
+			army = {
+				large = GFX_portrait_unknown
+				small = GFX_portrait_unknown_small
+			}
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			traits = {  }
+		}
+		field_marshal = {
+			traits = { charismatic }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 2
+		}
+	}
+	ITA_48 = {
+		name = it_Manuele_Bon_Compagni_di_Mombello
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_48
+			cost = 150
+		}
+	}
+	ITA_49 = {
+		name = it_Gerardo_Borghese
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_49
+			cost = 150
+		}
+	}
+	ITA_50 = {
+		name = it_Mario_dyn_it_Costanzo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { editor }
+			slot = political_advisor
+			idea_token = i_50
+			cost = 150
+		}
+	}
+	ITA_51 = {
+		name = it_Alberto_dyn_it_Savastano
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_51
+			cost = 150
+		}
+	}
+	ITA_52 = {
+		name = it_Alessio_di_Boglio
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_52
+			cost = 150
+		}
+	}
+	ITA_53 = {
+		name = it_Ezio_dyn_it_Mazzucco
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_53
+			cost = 150
+		}
+	}
+	ITA_54 = {
+		name = it_Paolo_dyn_it_Barzizza
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_54
+			cost = 150
+		}
+	}
+	ITA_55 = {
+		name = it_Donato_dyn_it_Leone
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_55
+			cost = 150
+		}
+	}
+	ITA_1946 = {
+		name = Salvestro_Benciveni_dyn_it_Massucci
+		portraits = {
+			navy = {
+				large = GFX_Portrait_Italy_Generic_navy_3
+				small = GFX_Portrait_Italy_Generic_navy_3_small
+			}
+		}
+		navy_leader = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			maneuvering_skill = 1
+			coordination_skill = 1
+		}
+	}
+	ITA_1947 = {
+		name = Marco_Pierallini_dyn_it_Franciosi
+		portraits = {
+			army = {
+				large = GFX_Portrait_Italy_Generic_land_4
+				small = GFX_Portrait_Italy_Generic_land_4_small
+			}
+		}
+		field_marshal = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	ITA_1948 = {
+		name = Danilo_Buti_dyn_it_Russo
+		portraits = {
+			army = {
+				large = GFX_Portrait_Italy_Generic_land_2
+				small = GFX_Portrait_Italy_Generic_land_2_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	ITA_1949 = {
+		name = Marco_Buti_dyn_it_Muccioli
+		portraits = {
+			army = {
+				large = GFX_Portrait_Italy_Generic_land_7
+				small = GFX_Portrait_Italy_Generic_land_7_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	ITA_1951 = {
+		name = Cosimo_von_Habsburg
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_1951
+			cost = 150
+		}
+	}
+	ITA_1953 = {
+		name = Pietro_del_Moro_dyn_it_Gentili
+		portraits = {
+			navy = {
+				large = GFX_Portrait_Italy_Generic_navy_2
+				small = GFX_Portrait_Italy_Generic_navy_2_small
+			}
+		}
+		navy_leader = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			maneuvering_skill = 1
+			coordination_skill = 1
+		}
+	}
+	ITA_1954 = {
+		name = Gian_Carlo_Tonelli_dyn_it_Stendardo
+		portraits = {
+			army = {
+				large = GFX_Portrait_Italy_Generic_land_1
+				small = GFX_Portrait_Italy_Generic_land_1_small
+			}
+		}
+		corps_commander = {
+			traits = { armor_officer harsh_leader infantry_officer }
+			skill = 4
+			attack_skill = 3
+			defense_skill = 4
+			planning_skill = 3
+			logistics_skill = 3
+		}
+	}
+	ITA_2183 = {
+		name = it_Giovanni_dyn_it_Arditi
+		portraits = {
+			army = {
+				large = GFX_Portrait_Italy_Generic_land_8
+				small = GFX_Portrait_Italy_Generic_land_8_small
+			}
+		}
+		corps_commander = {
+			traits = { infantry_officer }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 2
+		}
+	}
+}

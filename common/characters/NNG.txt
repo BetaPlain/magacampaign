@@ -1,0 +1,168 @@
+characters = {
+	NNG_1881 = {
+		name = Ganan_Warra_dyn_au_Nganjmirra
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			traits = {  }
+		}
+	}
+	NNG_1016 = {
+		name = au_Miki_dyn_au_Mpetyane
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_1016
+			cost = 150
+		}
+	}
+	NNG_1017 = {
+		name = au_Parri_Gulngay
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_1017
+			cost = 150
+		}
+	}
+	NNG_1018 = {
+		name = au_Djakapura_dyn_au_Worosun
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_1018
+			cost = 150
+		}
+	}
+	NNG_1019 = {
+		name = au_Miki_Tepiti
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_1019
+			cost = 150
+		}
+	}
+	NNG_1020 = {
+		name = au_Akama_Agwamin
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { backroom_windbag }
+			slot = political_advisor
+			idea_token = i_1020
+			cost = 150
+		}
+	}
+	NNG_1021 = {
+		name = au_Apari_dyn_au_Mungnari
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_1021
+			cost = 150
+		}
+	}
+	NNG_1023 = {
+		name = au_Yuka_dyn_au_Wubugwubuk
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_1023
+			cost = 150
+		}
+	}
+	NNG_3390 = {
+		name = au_Wirake_Bigambul
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_1
+				small = GFX_Portrait_Asia_Generic_land_1_small
+			}
+		}
+		corps_commander = {
+			traits = { desert_fox harsh_leader }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 1
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+	NNG_3394 = {
+		name = au_Mogo_dyn_au_Galarrwuy
+		portraits = {
+			army = {
+				large = GFX_Portrait_asia_generic_land_5
+				small = GFX_Portrait_asia_generic_land_5_small
+			}
+		}
+		corps_commander = {
+			traits = { desert_fox harsh_leader }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 1
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+	NNG_16779146 = {
+		name = au_Berringar_dyn_au_Nganjmirra
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	NNG_16780225 = {
+		name = au_Minar_dyn_au_Noonuccal
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_16780225
+			cost = 150
+		}
+	}
+}

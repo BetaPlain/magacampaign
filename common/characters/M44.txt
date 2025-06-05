@@ -1,0 +1,145 @@
+characters = {
+	M44_4327 = {
+		name = Jordao_2_Rodelas
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_South_America_Generic_3
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	M44_880 = {
+		name = Roque_Tamoios
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_880
+			cost = 150
+		}
+	}
+	M44_881 = {
+		name = Goncalo_Jaguaranha
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_881
+			cost = 150
+		}
+	}
+	M44_882 = {
+		name = Nicolau_Tupiniquim
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_882
+			cost = 150
+		}
+	}
+	M44_883 = {
+		name = Andre_Maracaiaguacu
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_883
+			cost = 150
+		}
+	}
+	M44_884 = {
+		name = Lucio_Paraguacu
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_884
+			cost = 150
+		}
+	}
+	M44_885 = {
+		name = Lucio_Tupinamba
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_885
+			cost = 150
+		}
+	}
+	M44_886 = {
+		name = Carlos_Tupiniquim
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	M44_887 = {
+		name = Emilio_Tamoios
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_887
+			cost = 150
+		}
+	}
+	M44_3224 = {
+		name = Fernando_Tabajara
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_America_Generic_land_5
+				small = GFX_Portrait_South_America_Generic_land_5_small
+			}
+		}
+		corps_commander = {
+			traits = { armor_officer organizer }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 3
+		}
+	}
+	M44_4588 = {
+		name = Paulo_Rodelas
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

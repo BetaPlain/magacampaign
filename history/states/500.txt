@@ -1,0 +1,26 @@
+state = {
+	id = 500
+	name = "STATE_500"
+	manpower = 497753
+	resources = {
+		aluminium = 0
+		rubber = 1
+		steel = 0
+	}
+
+	state_category = rural
+
+	history = {
+		owner = MLI
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = MLI
+	}
+
+	provinces = {
+		1992 
+	}
+}

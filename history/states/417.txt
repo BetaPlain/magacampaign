@@ -1,0 +1,21 @@
+state = {
+	id = 417
+	name = "STATE_417"
+	manpower = 290016
+
+	state_category = rural
+
+	history = {
+		owner = X32
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = X32
+	}
+
+	provinces = {
+		135 3091 6077 6113 6180 9033 9136 9159 9200 11027 11075 
+	}
+}

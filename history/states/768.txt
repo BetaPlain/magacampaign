@@ -1,0 +1,29 @@
+state = {
+	id = 768
+	name = "STATE_768"
+	manpower = 99860
+	resources = {
+		oil = 0
+		steel = 0
+		tungsten = 7
+	}
+
+	state_category = rural
+
+	history = {
+		owner = MLI
+		victory_points = {
+			12930 1
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = MLI
+	}
+
+	provinces = {
+		12930 
+	}
+}

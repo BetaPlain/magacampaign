@@ -1,0 +1,129 @@
+characters = {
+	X48_1508 = {
+		name = Daba_Sankoh
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_South_Africa_Political_Leader_Generic
+			}
+		}
+		country_leader = {
+			ideology = centrism
+			traits = {  }
+		}
+	}
+	X48_1504 = {
+		name = Aoua_Suso
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_1504
+			cost = 150
+		}
+	}
+	X48_1505 = {
+		name = Aoua_Conde
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_1505
+			cost = 150
+		}
+	}
+	X48_1506 = {
+		name = Kaleefa_Conde
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_1506
+			cost = 150
+		}
+	}
+	X48_1507 = {
+		name = Sekouba_Sankoh
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_1507
+			cost = 150
+		}
+	}
+	X48_1509 = {
+		name = Alhassani_Jammeh
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_1509
+			cost = 150
+		}
+	}
+	X48_1510 = {
+		name = Hatab_Sankoh
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_1510
+			cost = 150
+		}
+	}
+	X48_1511 = {
+		name = Soumaila_Diawara
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_1511
+			cost = 150
+		}
+	}
+	X48_4001 = {
+		name = Brima_Jammeh
+		portraits = {
+			army = {
+				large = GFX_Portrait_Africa_Generic_land_3
+				small = GFX_Portrait_Africa_Generic_land_3_small
+			}
+		}
+		corps_commander = {
+			traits = { desert_fox organizer }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 4
+			logistics_skill = 1
+		}
+	}
+}

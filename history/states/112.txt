@@ -1,0 +1,25 @@
+state = {
+	id = 112
+	name = "STATE_112"
+	manpower = 3685037
+
+	state_category = rural
+
+	history = {
+		owner = VIN
+		victory_points = {
+			4334 1
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+		}
+		add_core_of = VIN
+	}
+
+	provinces = {
+		1285 1300 1328 1400 1605 4334 4363 4405 7271 7380 10162 10232 12109 12176 12204 
+	}
+}

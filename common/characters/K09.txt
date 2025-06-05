@@ -1,0 +1,145 @@
+characters = {
+	K09_4303 = {
+		name = Hanab_Goeseb
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Africa_Generic_3
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	K09_672 = {
+		name = Naresib_Garoeb
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_672
+			cost = 150
+		}
+	}
+	K09_673 = {
+		name = Gorakhab_Garoeb
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_673
+			cost = 150
+		}
+	}
+	K09_674 = {
+		name = Xamseb_O-Naimab
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_674
+			cost = 150
+		}
+	}
+	K09_675 = {
+		name = Na-khom_Hamab
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_675
+			cost = 150
+		}
+	}
+	K09_676 = {
+		name = Tsawub_Garoeb
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { political_dancer }
+			slot = political_advisor
+			idea_token = i_676
+			cost = 150
+		}
+	}
+	K09_677 = {
+		name = Hab_Gamab
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	K09_678 = {
+		name = Na-khom_Guxanus
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_678
+			cost = 150
+		}
+	}
+	K09_679 = {
+		name = Hanab_Oasmab
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { headstrong }
+			slot = political_advisor
+			idea_token = i_679
+			cost = 150
+		}
+	}
+	K09_2960 = {
+		name = Khaub_Hanamab
+		portraits = {
+			army = {
+				large = GFX_Portrait_South_Africa_Army_Generic
+				small = GFX_Portrait_South_Africa_Army_Generic_small
+			}
+		}
+		corps_commander = {
+			traits = { desert_fox }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 1
+			planning_skill = 2
+			logistics_skill = 2
+		}
+	}
+	K09_16779265 = {
+		name = Autshumato_Goeseb
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

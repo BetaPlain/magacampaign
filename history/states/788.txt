@@ -1,0 +1,21 @@
+state = {
+	id = 788
+	name = "STATE_788"
+	manpower = 231803
+
+	state_category = rural
+
+	history = {
+		owner = PER
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+		}
+		add_core_of = PER
+	}
+
+	provinces = {
+		930 1499 1508 1638 3877 9831 11836 12478 
+	}
+}

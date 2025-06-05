@@ -1,0 +1,202 @@
+characters = {
+	LAO_1851 = {
+		name = Fa_Ngum_II_Nan
+		portraits = {
+			civilian = {
+				large = GFX_portrait_unknown
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	LAO_120 = {
+		name = lo_Kayson_dyn_lo_Bouathang
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_120
+			cost = 150
+		}
+	}
+	LAO_121 = {
+		name = lo_Sophonn_dyn_lo_Phongsavanh
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { permanent_revolutionary }
+			slot = political_advisor
+			idea_token = i_121
+			cost = 150
+		}
+	}
+	LAO_122 = {
+		name = lo_Aloun_dyn_lo_Choummali
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_122
+			cost = 150
+		}
+	}
+	LAO_123 = {
+		name = lo_Dang_dyn_lo_Luanglath
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_123
+			cost = 150
+		}
+	}
+	LAO_124 = {
+		name = lo_Soulingna_Luang_Phrabang
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { tenacious_negotiator }
+			slot = political_advisor
+			idea_token = i_124
+			cost = 150
+		}
+	}
+	LAO_125 = {
+		name = lo_Loy_dyn_lo_Southiyano
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { adventurous_daredevil }
+			slot = political_advisor
+			idea_token = i_125
+			cost = 150
+		}
+	}
+	LAO_126 = {
+		name = lo_Luam_dyn_lo_Keovilay
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { resistance_banker }
+			slot = political_advisor
+			idea_token = i_126
+			cost = 150
+		}
+	}
+	LAO_127 = {
+		name = lo_Nouhak_dyn_lo_Voravong
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { technocrat }
+			slot = political_advisor
+			idea_token = i_127
+			cost = 150
+		}
+	}
+	LAO_1850 = {
+		name = Fa_Ngum_Nan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+	LAO_1852 = {
+		name = Souligna_Vongsa_Phouma_dyn_th_Chakan
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_4
+				small = GFX_Portrait_Asia_Generic_land_4_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	LAO_1853 = {
+		name = Konekham_Keola_dyn_km_Preap
+		portraits = {
+			navy = {
+				large = GFX_Portrait_Asia_Generic_navy_2
+				small = GFX_Portrait_Asia_Generic_navy_2_small
+			}
+		}
+		navy_leader = {
+			traits = { battleship_adherent }
+			skill = 1
+			attack_skill = 2
+			defense_skill = 1
+			maneuvering_skill = 1
+			coordination_skill = 1
+		}
+	}
+	LAO_1854 = {
+		name = Vichai_Vongprachan_dyn_th_Krungthep
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_2
+				small = GFX_Portrait_Asia_Generic_land_2_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	LAO_1855 = {
+		name = Vichai_Vongsawat_dyn_th_Sakda
+		portraits = {
+			army = {
+				large = GFX_Portrait_asia_generic_land_5
+				small = GFX_Portrait_asia_generic_land_5_small
+			}
+		}
+		corps_commander = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 2
+		}
+	}
+}

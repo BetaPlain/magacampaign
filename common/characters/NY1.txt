@@ -1,0 +1,151 @@
+characters = {
+	NY1_4344 = {
+		name = au_Berringar_Jarowair
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Asia_Generic_3
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	NY1_1032 = {
+		name = au_Bardo_dyn_au_Wonaeamirri
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_1032
+			cost = 150
+		}
+	}
+	NY1_1033 = {
+		name = au_Barown_dyn_au_Minniecon
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { genial_anti_revolutionary }
+			slot = political_advisor
+			idea_token = i_1033
+			cost = 150
+		}
+	}
+	NY1_1034 = {
+		name = au_Wirake_dyn_au_Wanganeen
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_1034
+			cost = 150
+		}
+	}
+	NY1_1035 = {
+		name = au_Jago_Tepiti
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_architect }
+			slot = political_advisor
+			idea_token = i_1035
+			cost = 150
+		}
+	}
+	NY1_1036 = {
+		name = au_Derain_Bunuba
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { economic_organizer }
+			slot = political_advisor
+			idea_token = i_1036
+			cost = 150
+		}
+	}
+	NY1_1037 = {
+		name = au_Araluen_dyn_au_Moowattin
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { socialite_connections }
+			slot = political_advisor
+			idea_token = i_1037
+			cost = 150
+		}
+	}
+	NY1_1038 = {
+		name = au_Minmara_Ayabakan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_1038
+			cost = 150
+		}
+	}
+	NY1_1039 = {
+		name = au_Mutinya_dyn_au_Wonaeamirri
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_1039
+			cost = 150
+		}
+	}
+	NY1_3411 = {
+		name = au_Berrigan_dyn_au_Kwaymullina
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_3
+				small = GFX_Portrait_Asia_Generic_land_3_small
+			}
+		}
+		corps_commander = {
+			traits = { cavalry_officer commando }
+			skill = 2
+			attack_skill = 3
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 2
+		}
+	}
+	NY1_4499 = {
+		name = au_Japaljami_Jarowair
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

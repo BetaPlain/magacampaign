@@ -1,0 +1,28 @@
+state = {
+	id = 389
+	name = "STATE_389"
+	manpower = 1260662
+	resources = {
+		steel = 5
+	}
+
+	state_category = rural
+
+	history = {
+		owner = SCA
+		victory_points = {
+			71 1
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+		}
+		add_core_of = SCA
+	}
+
+	provinces = {
+		8 39 57 71 72 75 81 93 110 129 160 163 172 187 194 3035 3057 3085 3101 3110 3124 3140 3154 3157 3163 3175 6035 6073 6086 6097 6131 6143 6154 6169 6182 6189 6225 9060 9102 9107 9111 9131 9153 9177 9184 9199 9207 9212 11048 11062 11083 11084 11093 11107 11109 11131 11165 11168 11189 11191 11213 
+	}
+}

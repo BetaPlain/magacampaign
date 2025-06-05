@@ -1,0 +1,151 @@
+characters = {
+	M23_4323 = {
+		name = au_Orad_Giabal
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Asia_Generic_3
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
+	M23_856 = {
+		name = au_Jerara_Injinoo
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { smooth_talking_charmer }
+			slot = political_advisor
+			idea_token = i_856
+			cost = 150
+		}
+	}
+	M23_857 = {
+		name = au_Killara_Ayabakan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { liberal_journalist }
+			slot = political_advisor
+			idea_token = i_857
+			cost = 150
+		}
+	}
+	M23_858 = {
+		name = au_Araluen_Giabal
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { anti_communist }
+			slot = political_advisor
+			idea_token = i_858
+			cost = 150
+		}
+	}
+	M23_859 = {
+		name = au_Maka_Ayabakan
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { conservative_grandee }
+			slot = political_advisor
+			idea_token = i_859
+			cost = 150
+		}
+	}
+	M23_860 = {
+		name = au_Koorong_Rakaya
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { popular_figurehead }
+			slot = political_advisor
+			idea_token = i_860
+			cost = 150
+		}
+	}
+	M23_861 = {
+		name = au_Kolet_dyn_au_Tungutalum
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { great_war_hero }
+			slot = political_advisor
+			idea_token = i_861
+			cost = 150
+		}
+	}
+	M23_862 = {
+		name = au_Maka_dyn_au_Gurruwiwi
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { prince_of_terror }
+			slot = political_advisor
+			idea_token = i_862
+			cost = 150
+		}
+	}
+	M23_863 = {
+		name = au_Uwan_dyn_au_Mawurndjul
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+		advisor = {
+			traits = { ideological_crusader }
+			slot = political_advisor
+			idea_token = i_863
+			cost = 150
+		}
+	}
+	M23_3190 = {
+		name = au_Woorak_Badjiri
+		portraits = {
+			army = {
+				large = GFX_Portrait_Asia_Generic_land_4
+				small = GFX_Portrait_Asia_Generic_land_4_small
+			}
+		}
+		corps_commander = {
+			traits = { commando trait_cautious }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 3
+		}
+	}
+	M23_16779708 = {
+		name = au_Nerang_Giabal
+		portraits = {
+			civilian = {
+				small = GFX_idea_unknown
+			}
+		}
+	}
+}

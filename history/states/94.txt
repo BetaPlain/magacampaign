@@ -1,0 +1,27 @@
+state = {
+	id = 94
+	name = "STATE_94"
+	manpower = 108490
+	resources = {
+		aluminium = 1
+		chromium = 0
+		tungsten = 1
+	}
+
+	state_category = rural
+
+	history = {
+		owner = ENG
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+		}
+		add_core_of = ENG
+	}
+
+	provinces = {
+		6196 
+	}
+}

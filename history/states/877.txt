@@ -1,0 +1,16 @@
+state = {
+	id = 877
+	name = "STATE_877"
+	manpower = 87047
+
+	state_category = wasteland
+	impassable = yes
+
+	history = {
+		owner = SPR
+	}
+
+	provinces = {
+		1043 4903 5035 8061 8077 
+	}
+}

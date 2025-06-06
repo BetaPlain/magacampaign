@@ -6,7 +6,7 @@ state = {
 		aluminium = 120
 	}
 
-	state_category = rural
+	state_category = large_city
 
 	history = {
 		owner = X60
@@ -15,7 +15,7 @@ state = {
 		}
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 0
+			industrial_complex = 2
 			arms_factory = 0
 			air_base = 1
 		}

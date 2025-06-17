@@ -6,7 +6,7 @@ state = {
 	state_category = rural
 
 	history = {
-		owner = ENG
+		owner = SCA
 		victory_points = {
 			7394 1
 		}
@@ -17,6 +17,7 @@ state = {
 			air_base = 1
 		}
 		add_core_of = ENG
+		add_core_of = SCA
 	}
 
 	provinces = {

@@ -16,6 +16,8 @@ state = {
 			arms_factory = 0
 		}
 		add_core_of = MEX
+		add_claim_by = SCA
+		add_claim_by = USA
 	}
 
 	provinces = {

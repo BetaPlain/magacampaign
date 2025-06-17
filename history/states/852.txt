@@ -10,7 +10,7 @@ state = {
 	state_category = rural
 
 	history = {
-		owner = USA
+		owner = SCA
 		victory_points = {
 			11830 1
 		}
@@ -20,6 +20,7 @@ state = {
 			arms_factory = 0
 		}
 		add_core_of = USA
+		add_core_of = SCA
 	}
 
 	provinces = {

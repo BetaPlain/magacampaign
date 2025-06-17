@@ -6,13 +6,14 @@ state = {
 	state_category = rural
 
 	history = {
-		owner = USA
+		owner = SCA
 		buildings = {
 			infrastructure = 1
 			industrial_complex = 0
 			arms_factory = 0
 		}
 		add_core_of = USA
+		add_core_of = SCA
 	}
 
 	provinces = {

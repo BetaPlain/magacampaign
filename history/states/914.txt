@@ -21,6 +21,9 @@ state = {
 			air_base = 5
 		}
 		add_core_of = EE1
+		add_core_of = MEX
+		add_claim_by = SCA
+		add_claim_by = ENG
 	}
 
 	provinces = {

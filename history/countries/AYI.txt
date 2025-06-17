@@ -1,7 +1,7 @@
 capital = 902
 
 oob = "AYI_1936"
-set_research_slots = 2
+set_research_slots = 3
 set_convoys = 0
 
 recruit_character = AYI_4274
@@ -28,13 +28,12 @@ set_politics = {
 
 set_popularities = {
 	communism = 0
-	democratic = 9
-	fascism = 36
-	neutrality = 55
+	democratic = 26
+	fascism = 0
+	neutrality = 74
 }
 
 add_ideas = {
-	decentralized
 	civilian_economy
 	export_focus
 	volunteer_only

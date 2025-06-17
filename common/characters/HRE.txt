@@ -3,7 +3,7 @@ characters = {
 		name = Maximilian_III_von_Habsburg
 		portraits = {
 			civilian = {
-				large = GFX_portrait_unknown
+				large = Portrait_AUS_Sigismund_Schilhawsky
 			}
 		}
 		country_leader = {

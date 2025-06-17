@@ -3,11 +3,11 @@ characters = {
 		name = Domingo_Alvarez_de_Toledo_dyn_es_Zavala
 		portraits = {
 			civilian = {
-				large = GFX_Portrait_South_America_Generic_3
+				large = Portrait_Mexico_Aurelio_Escobar_Castellanos
 			}
 		}
 		country_leader = {
-			ideology = oligarchism
+			ideology = liberalism
 			traits = {  }
 		}
 	}

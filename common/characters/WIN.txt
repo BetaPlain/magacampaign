@@ -3,15 +3,14 @@ characters = {
 		name = Isaac_Moore_dyn_en_Walker
 		portraits = {
 			army = {
-				large = GFX_Portrait_Europe_Generic_land_3
-				small = GFX_Portrait_Europe_Generic_land_3_small
+				large = Portrait_AST_Herbert_Evatt
 			}
 			civilian = {
-				large = GFX_Portrait_Europe_Generic_land_3
+				large = Portrait_AST_Herbert_Evatt
 			}
 		}
 		country_leader = {
-			ideology = centrism
+			ideology = liberalism
 			traits = {  }
 		}
 		field_marshal = {

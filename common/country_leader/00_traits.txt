@@ -11289,79 +11289,41 @@ leader_traits = {
 	### HITLER ###
 	##############
 
+	SCA_leader_council = { 
+		random = no
+		political_power_factor = -0.01
+	}
+
+	X43_last_prussian = { 
+		random = no
+		political_power_factor = 0.1
+		compliance_growth = -0.02
+		resistance_target = 0.05
+	}
+
 	GER_der_fuhrer = { #Literally a copy of Dictator, but with lower PP bonus (increases later)
 		random = no
 		#Modifiers from Dictator (which this trait replaces)
 		weekly_casualties_war_support = 0.001
-		ai_desired_divisions_factor = 0.20
-		political_power_factor = 0.1
-		compliance_growth = -0.02
-		resistance_target = 0.05
 	}
 
 	GER_der_fuhrer_wehrmacht = {
 		random = no
-		weekly_casualties_war_support = 0.001
-		ai_desired_divisions_factor = 0.20
-		political_power_factor = 0.1
-		compliance_growth = -0.02
-		resistance_target = 0.05
-
-		# Improved stuff
-		#unit_leader_as_advisor_cp_cost_factor = -0.25
-		custom_modifier_tooltip = DEN_military_advisors_cost_big_tt
-		hidden_modifier = {
-			air_advisor_cost_factor = -0.15
-			army_advisor_cost_factor = -0.15
-			navy_advisor_cost_factor = -0.15
-		}
-		supply_node_range = -0.1
-		command_power_gain_mult = 0.1
+		democratic_acceptance = 25
+		production_speed_dockyard_factor = 0.02
 	}
 
 	GER_der_fuhrer_neurath = {
 		random = no
-		weekly_casualties_war_support = 0.001
-		ai_desired_divisions_factor = 0.20
-		political_power_factor = 0.1
-		compliance_growth = -0.02
-		resistance_target = 0.05
-
-		# Improved stuff
-		justify_war_goal_time = 0.15
-		experience_gain_army_factor = 0.1
-		experience_gain_air_factor = 0.1
-		experience_gain_navy_factor = 0.1
+		political_power_factor = -0.01
 	}
 
 	GER_der_fuhrer_fuhrerprinzip = {
 		random = no
-		political_power_factor = 0.25
-		weekly_casualties_war_support = 0.001
-		ai_desired_divisions_factor = 0.20
 		party_popularity_stability_factor = 0.1
-		compliance_growth = -0.02
-		resistance_target = 0.05
 	}
 
 	GER_der_fuhrer_fuhrerprinzip_wehrmacht = {
-		random = no
-		weekly_casualties_war_support = 0.001
-		ai_desired_divisions_factor = 0.20
-		political_power_factor = 0.25
-		party_popularity_stability_factor = 0.1
-		compliance_growth = -0.02
-		resistance_target = 0.05
-
-		# From Wehrmacht
-		#unit_leader_as_advisor_cp_cost_factor = -0.25
-		custom_modifier_tooltip = DEN_military_advisors_cost_big_tt
-		hidden_modifier = {
-			air_advisor_cost_factor = -0.15
-			army_advisor_cost_factor = -0.15
-			navy_advisor_cost_factor = -0.15
-		}
-		supply_node_range = -0.1
 		command_power_gain_mult = 0.1
 	}
 

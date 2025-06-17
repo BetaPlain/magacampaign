@@ -3,7 +3,7 @@ characters = {
 		name = Shu_Li
 		portraits = {
 			civilian = {
-				large = GFX_portrait_asia_generic_4
+				large = Portrait_Asia_Generic_new_8
 			}
 		}
 		country_leader = {

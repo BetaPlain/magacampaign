@@ -3,11 +3,11 @@ characters = {
 		name = wo_Hachim_dyn_wo_Aidara
 		portraits = {
 			civilian = {
-				large = GFX_Portrait_Africa_Generic_3
+				large = Portrait_Africa_Generic_navy_new_3
 			}
 		}
 		country_leader = {
-			ideology = oligarchism
+			ideology = liberalism
 			traits = {  }
 		}
 	}

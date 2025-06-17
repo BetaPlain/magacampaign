@@ -10,7 +10,7 @@ state = {
 	state_category = rural
 
 	history = {
-		owner = EE1
+		owner = MEX
 		victory_points = {
 			8056 10
 		}
@@ -20,7 +20,6 @@ state = {
 			arms_factory = 0
 			air_base = 5
 		}
-		add_core_of = EE1
 		add_core_of = MEX
 		add_claim_by = SCA
 		add_claim_by = ENG

@@ -3,7 +3,7 @@ characters = {
 		name = Losene_Konneh
 		portraits = {
 			civilian = {
-				large = GFX_Portrait_Africa_Generic_2
+				large = Portrait_Africa_Generic_new_6
 			}
 		}
 		country_leader = {

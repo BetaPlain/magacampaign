@@ -3,7 +3,7 @@ characters = {
 		name = Kwaku_Asante
 		portraits = {
 			civilian = {
-				large = GFX_Portrait_Africa_Generic_4
+				large = Portrait_AST_William_Nosworthy
 			}
 		}
 		country_leader = {

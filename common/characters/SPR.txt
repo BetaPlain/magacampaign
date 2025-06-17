@@ -7,7 +7,7 @@ characters = {
 				small = GFX_portrait_unknown_small
 			}
 			civilian = {
-				large = GFX_portrait_unknown
+				large = Friedrich_Viktor_von_Hohenzollern
 			}
 		}
 		country_leader = {

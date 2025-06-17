@@ -1,4 +1,16 @@
 characters = {
+	HDJ_1892 = {
+		name = Joneid_Timurid
+		portraits = {
+			civilian = {
+				large = Portrait_Persia_Hassan_Mirza_Qajar
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	}
 	HDJ_16779197 = {
 		name = ar_Kareem_al_Ulayyan
 		portraits = {

@@ -3,7 +3,7 @@ characters = {
 		name = Bhuvikrama_Vaidumba_dyn_kn_Raghu
 		portraits = {
 			civilian = {
-				large = GFX_portrait_unknown
+				large = Portrait_India_Generic_new_1
 			}
 		}
 		country_leader = {

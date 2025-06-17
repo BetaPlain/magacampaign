@@ -1,14 +1,38 @@
 characters = {
+	SCA_hugh_gaitskell = {
+		name = hugh_gaitskell
+		portraits = {
+			civilian = {
+				large = GFX_hugh_gaitskell
+			}
+		}
+		country_leader = {
+			ideology = liberalism
+			traits = { GER_der_fuhrer_wehrmacht GER_der_fuhrer_neurath }
+		}
+	}
+	SCA_alben_barkley = {
+		name = alben_barkley
+		portraits = {
+			civilian = {
+				large = GFX_alben_barkley
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			traits = { GER_der_fuhrer_fuhrerprinzip_wehrmacht GER_der_fuhrer_neurath }
+		}
+	}
 	SCA_1913 = {
 		name = Christian_IV_von_Habsburg
 		portraits = {
 			civilian = {
-				large = GFX_portrait_unknown
+				large = GFX_sca_king
 			}
 		}
 		country_leader = {
 			ideology = despotism
-			traits = {  }
+			traits = { GER_der_fuhrer_fuhrerprinzip GER_der_fuhrer_neurath }
 		}
 	}
 	SCA_8 = {

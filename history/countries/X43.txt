@@ -46,7 +46,7 @@ set_politics = {
 	ruling_party = neutrality
 	last_election = "1935.4.30"
 	election_frequency = 48
-	elections_allowed = yes
+	elections_allowed = no
 }
 
 set_popularities = {
@@ -57,7 +57,6 @@ set_popularities = {
 }
 
 add_ideas = {
-	X43_Bui_I_Wagmunding
 	civilian_economy
 	export_focus
 	volunteer_only

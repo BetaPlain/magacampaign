@@ -9,4 +9,99 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideas/idea_Nunavut_Paul_Okalik.dds"
 	}
 
+	spriteType = {
+		name = "GFX_hermann_goring_epic"
+		texturefile = "gfx/leaders/X43/Portrait_hermann_goring_epic.dds"
+	}
+
+	spriteType = {
+		name = "GFX_hugh_gaitskell"
+		texturefile = "gfx/leaders/SCA/Portrait_Britain_Hugh_Gaitskell.png"
+	}
+
+	spriteType = {
+		name = "GFX_alben_barkley"
+		texturefile = "gfx/leaders/SCA/Portrait_USA_Alben_Barkley.png"
+	}
+
+	spriteType = {
+		name = "GFX_sca_king"
+		texturefile = "gfx/leaders/SCA/Portrait_AUS_Albrecht_von_Habsburg_Teschen_Royal.png"
+	}
+
+	spriteType = {
+		name = "Portrait_AST_Herbert_Evatt"
+		texturefile = "gfx/leaders/WIN/Portrait_AST_Herbert_Evatt.png"
+	}
+
+	spriteType = {
+		name = "Portrait_AST_John_Latham"
+		texturefile = "gfx/leaders/EE1/Portrait_AST_John_Latham.png"
+	}
+
+	spriteType = {
+		name = "Portrait_AST_William_Nosworthy"
+		texturefile = "gfx/leaders/AYI/Portrait_AST_William_Nosworthy.png"
+	}
+
+	spriteType = {
+		name = "Portrait_Mexico_Aurelio_Escobar_Castellanos"
+		texturefile = "gfx/leaders/MEX/Portrait_Mexico_Aurelio_Escobar_Castellanos.png"
+	}
+
+	spriteType = {
+		name = "Portrait_PRU_Jorge_Ugarteche"
+		texturefile = "gfx/leaders/PRU/Portrait_PRU_Jorge_Ugarteche.png"
+	}
+
+	spriteType = {
+		name = "Portrait_Africa_Generic_new_6"
+		texturefile = "gfx/leaders/MLI/Portrait_Africa_Generic_new_6.png"
+	}
+
+	spriteType = {
+		name = "Portrait_Africa_Generic_navy_new_3"
+		texturefile = "gfx/leaders/BRA/Portrait_Africa_Generic_navy_new_3.png"
+	}
+
+	spriteType = {
+		name = "Portrait_Persia_Hassan_Mirza_Qajar"
+		texturefile = "gfx/leaders/PER/Portrait_Persia_Hassan_Mirza_Qajar.png"
+	}
+
+	spriteType = {
+		name = "Portrait_AUS_Sigismund_Schilhawsky"
+		texturefile = "gfx/leaders/HRE/Portrait_AUS_Sigismund_Schilhawsky.png"
+	}
+
+	spriteType = {
+		name = "Portrait_NFA_Jacques_Bainville"
+		texturefile = "gfx/leaders/X60/Portrait_NFA_Jacques_Bainville.png"
+	}
+
+	spriteType = {
+		name = "Portrait_AUS_Eugen_Habsburg_Lothringen"
+		texturefile = "gfx/leaders/ITA/Portrait_AUS_Eugen_Habsburg_Lothringen.png"
+	}
+
+	spriteType = {
+		name = "Friedrich_Viktor_von_Hohenzollern"
+		texturefile = "gfx/leaders/SPR/Friedrich_Viktor_von_Hohenzollern.png"
+	}
+
+	spriteType = {
+		name = "Portrait_India_Generic_new_1"
+		texturefile = "gfx/leaders/RAJ/Portrait_India_Generic_new_1.png"
+	}
+
+	spriteType = {
+		name = "Portrait_Asia_Generic_navy_new_5"
+		texturefile = "gfx/leaders/LAN/Portrait_Asia_Generic_navy_new_5.png"
+	}
+
+	spriteType = {
+		name = "Portrait_Asia_Generic_new_8"
+		texturefile = "gfx/leaders/WAS/Portrait_Asia_Generic_new_8.png"
+	}
+
 }

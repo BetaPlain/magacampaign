@@ -7,7 +7,7 @@ characters = {
 				small = GFX_portrait_unknown_small
 			}
 			civilian = {
-				large = GFX_portrait_unknown
+				large = Portrait_AUS_Eugen_Habsburg_Lothringen
 			}
 		}
 		country_leader = {

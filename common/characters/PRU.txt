@@ -3,7 +3,7 @@ characters = {
 		name = pt_Lourenco_dyn_pt_Guerreiro
 		portraits = {
 			civilian = {
-				large = GFX_Portrait_South_America_Generic_3
+				large = Portrait_PRU_Jorge_Ugarteche
 			}
 		}
 		country_leader = {

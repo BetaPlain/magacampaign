@@ -6,7 +6,7 @@ state = {
 	state_category = rural
 
 	history = {
-		owner = X26
+		owner = PER
 		victory_points = {
 			2041 20
 		}
@@ -16,7 +16,8 @@ state = {
 			arms_factory = 0
 			air_base = 6
 		}
-		add_core_of = X26
+		add_core_of = PER
+		add_core_of = RAJ
 	}
 
 	provinces = {

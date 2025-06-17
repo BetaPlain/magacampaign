@@ -6,17 +6,24 @@ bookmarks = {
 		picture = GFX_select_date_1936
 		default_country = "---"
 		default = yes
-		HRE= {}
-		JAP= {}
-		LAN= {}
 		PER= {}
-		PLC= {}
-		SPR= {}
+		HRE= {}
+		SCA = {}
 		X60= {}
+		LAN= {}
+		MLI = {}
+		SPR= {}
+		
 		"---"= {
 			history = "OTHER_GRAND_CAMPAIGN_DESC"
 		}
 		BYZ = {
+			minor = yes
+		}
+		JAP= {
+			minor = yes
+		}
+		PLC= {
 			minor = yes
 		}
 		ETH = {
@@ -25,13 +32,10 @@ bookmarks = {
 		ITA = {
 			minor = yes
 		}
-		MLI = {
+		MEX = {
 			minor = yes
 		}
 		RAJ = {
-			minor = yes
-		}
-		SCA = {
 			minor = yes
 		}
 		effect = {

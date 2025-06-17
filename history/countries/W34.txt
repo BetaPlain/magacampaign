@@ -4,7 +4,7 @@ oob = "W34_1936"
 set_research_slots = 3
 set_convoys = 6
 
-recruit_character = W34_0
+recruit_character = PER_1892
 recruit_character = W34_1360
 recruit_character = W34_1361
 recruit_character = W34_1362

@@ -28,15 +28,15 @@ if = {
 	}
 }
 
-ENG = {
+SCA = {
 	if = {
 		limit = {
 			has_dlc = "Together for Victory"
 		}
 		set_autonomy = {
 			target = WIN
-			autonomous_state = autonomy_puppet
-			freedom_level = 0.4
+			autonomous_state = autonomy_colony
+			freedom_level = 0.1
 		}
 	}
 	else = {
@@ -44,17 +44,17 @@ ENG = {
 	}
 }
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = democratic
 	last_election = "1935.1.30"
 	election_frequency = 48
-	elections_allowed = yes
+	elections_allowed = no
 }
 
 set_popularities = {
 	communism = 0
-	democratic = 18
-	fascism = 40
-	neutrality = 42
+	democratic = 60
+	fascism = 0
+	neutrality = 40
 }
 
 add_ideas = {

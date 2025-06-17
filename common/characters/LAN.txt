@@ -3,11 +3,11 @@ characters = {
 		name = Liao_Yatsen
 		portraits = {
 			civilian = {
-				large = GFX_Portrait_Asia_Generic_3
+				large = Portrait_Asia_Generic_navy_new_5
 			}
 		}
 		country_leader = {
-			ideology = centrism
+			ideology = liberalism
 			traits = {  }
 		}
 	}

@@ -4,7 +4,7 @@ oob = "HDJ_1936"
 set_research_slots = 2
 set_convoys = 6
 
-recruit_character = HDJ_16779197
+recruit_character = PER_1892
 recruit_character = HDJ_4599
 recruit_character = HDJ_16778930
 recruit_character = HDJ_16779024

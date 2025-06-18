@@ -4,6 +4,8 @@ oob = "SCA_1936"
 set_research_slots = 3
 set_convoys = 228
 
+load_focus_tree = { tree = generic_focus_improved }
+
 recruit_character = SCA_1913
 recruit_character = SCA_hugh_gaitskell
 recruit_character = SCA_alben_barkley

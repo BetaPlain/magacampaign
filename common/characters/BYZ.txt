@@ -3,11 +3,11 @@ characters = {
 		name = el_Pantelis_dyn_el_Petridis
 		portraits = {
 			civilian = {
-				large = GFX_Portrait_europe_generic_7
+				large = Portrait_GRE_Nikos_Beloyannis
 			}
 		}
 		country_leader = {
-			ideology = gen_nazism
+			ideology = liberalism
 			traits = {  }
 		}
 	}

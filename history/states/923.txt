@@ -6,7 +6,7 @@ state = {
 	state_category = rural
 
 	history = {
-		owner = I09
+		owner = PER
 		victory_points = {
 			10540 1
 		}
@@ -18,7 +18,7 @@ state = {
 				naval_base = 1
 			}
 		}
-		add_core_of = I09
+		add_core_of = PER
 	}
 
 	provinces = {

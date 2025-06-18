@@ -104,4 +104,29 @@ spriteTypes = {
 		texturefile = "gfx/leaders/WAS/Portrait_Asia_Generic_new_8.png"
 	}
 
+	spriteType = {
+		name = "Portrait_ITA_Edmondo_Cione"
+		texturefile = "gfx/leaders/W32/Portrait_ITA_Edmondo_Cione.png"
+	}
+	
+	spriteType = {
+		name = "Portrait_GRE_Nikos_Beloyannis"
+		texturefile = "gfx/leaders/BYZ/Portrait_GRE_Nikos_Beloyannis.png"
+	}
+
+	spriteType = {
+		name = "Portrait_Ethiopia_Imru_Haile_Selassie"
+		texturefile = "gfx/leaders/ETH/Portrait_Ethiopia_Imru_Haile_Selassie.png"
+	}
+
+	spriteType = {
+		name = "Portrait_JAP_Shiro_Ishii"
+		texturefile = "gfx/leaders/JAP/Portrait_JAP_Shiro_Ishii.png"
+	}
+
+	spriteType = {
+		name = "Portrait_POL_Roman_Dmowski_kr"
+		texturefile = "gfx/leaders/POL/Portrait_POL_Roman_Dmowski_kr.png"
+	}
+
 }

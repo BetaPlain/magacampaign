@@ -4,6 +4,8 @@ oob = "PER_1936"
 set_research_slots = 3
 set_convoys = 113
 
+load_focus_tree = { tree = generic_focus_improved }
+
 recruit_character = PER_1892
 recruit_character = PER_56
 recruit_character = PER_57

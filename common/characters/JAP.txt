@@ -4,7 +4,7 @@ characters = {
 		gender = female
 		portraits = {
 			civilian = {
-				large = GFX_portrait_unknown
+				large = Portrait_JAP_Shiro_Ishii
 			}
 		}
 		country_leader = {

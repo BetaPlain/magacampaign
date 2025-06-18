@@ -4,6 +4,8 @@ oob = "BRA_1936"
 set_research_slots = 3
 set_convoys = 156
 
+load_focus_tree = { tree = generic_focus_improved }
+
 recruit_character = BRA_150
 recruit_character = BRA_144
 recruit_character = BRA_145

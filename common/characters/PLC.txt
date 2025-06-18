@@ -3,11 +3,11 @@ characters = {
 		name = Zygmunt_I_Mielzynski
 		portraits = {
 			civilian = {
-				large = GFX_portrait_europe_generic_8
+				large = Portrait_POL_Roman_Dmowski_kr
 			}
 		}
 		country_leader = {
-			ideology = falangism
+			ideology = liberalism
 			traits = {  }
 		}
 	}

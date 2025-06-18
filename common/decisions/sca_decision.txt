@@ -1,0 +1,145 @@
+sca_form_nations = {
+	sca_form_andea = {
+
+		icon = generic_form_nation
+		
+		available = {
+			controls_state = 355
+			controls_state = 914
+			controls_state = 445
+			controls_state = 287
+			controls_state = 721
+			controls_state = 549
+		}
+		
+		fire_only_once = yes
+		days_re_enable = 5
+
+		visible = {
+			ROOT = {
+				is_ai = no
+			}		
+		}		
+
+		cost = 25
+
+		highlight_states = {
+			highlight_state_targets = {
+				state = 355
+				state = 914
+				state = 445
+				state = 287
+				state = 721
+				state = 549
+			}
+		}
+
+		complete_effect = {
+			355 = {
+				transfer_state_to = EE1
+				add_core_of = EE1
+			}
+			914 = {
+				transfer_state_to = EE1
+				add_core_of = EE1
+			}
+			445 = {
+				transfer_state_to = EE1
+				add_core_of = EE1
+			}
+			287 = {
+				transfer_state_to = EE1
+				add_core_of = EE1
+			}
+			721 = {
+				transfer_state_to = EE1
+				add_core_of = EE1
+			}
+			549 = {
+				transfer_state_to = EE1
+				add_core_of = EE1
+			}
+
+			set_autonomy = { 
+				target = EE1 
+				autonomy_state = autonomy_colony 
+			}
+
+			EE1 = {
+				set_politics = {
+					ruling_party = democratic
+				}
+			}
+		}
+
+		ai_will_do = {	#Modifiers for the AI to decide when to execute the decision.
+			factor = 0
+		}
+	}
+	sca_form_rgcc = {
+
+		icon = generic_form_nation
+		
+		available = {
+			controls_state = 849
+			controls_state = 586
+			controls_state = 737
+		}
+		
+		fire_only_once = yes
+		days_re_enable = 5
+
+		visible = {
+			ROOT = {
+				is_ai = no
+			}		
+		}		
+
+		cost = 25
+
+		highlight_states = {
+			highlight_state_targets = {
+				state = 849
+				state = 586
+				state = 737
+			}
+		}
+
+		complete_effect = {
+			849 = {
+				transfer_state_to = AYI
+				add_core_of = AYI
+			}
+			586 = {
+				transfer_state_to = AYI
+				add_core_of = AYI
+			}
+			737 = {
+				transfer_state_to = AYI
+				add_core_of = AYI
+			}
+
+			661 = {
+				add_core_of = AYI
+			}
+			577 = {
+				add_core_of = AYI
+			}
+
+			set_autonomy = { 
+				target = AYI 
+				autonomy_state = autonomy_puppet
+			}
+
+			AYI = {
+				set_politics = {
+					ruling_party = neutrality
+				}
+			}
+		}
+
+		ai_will_do = {	#Modifiers for the AI to decide when to execute the decision.
+			factor = 0
+		}
+	}
+}

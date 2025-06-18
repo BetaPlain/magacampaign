@@ -3,7 +3,7 @@ characters = {
 		name = Taqla_Haymanot_III_Solomonid
 		portraits = {
 			civilian = {
-				large = GFX_portrait_unknown
+				large = Portrait_Ethiopia_Imru_Haile_Selassie
 			}
 		}
 		country_leader = {

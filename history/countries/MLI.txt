@@ -4,6 +4,8 @@ oob = "MLI_1936"
 set_research_slots = 3
 set_convoys = 42
 
+load_focus_tree = { tree = generic_focus_improved }
+
 recruit_character = MLI_905
 recruit_character = MLI_904
 recruit_character = MLI_906
